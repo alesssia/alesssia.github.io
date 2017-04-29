@@ -1,0 +1,30 @@
+---
+layout: default
+title: index
+---
+
+
+## Contact
+
+<img src="http://www.di.unito.it/~visconti/images/official_pic_small_web_face.png" height="170px" img style="float: right;"/>
+
+**Alessia Visconti, PhD** 
+
+Department of Twin Research and Genetic Epidemiology \\
+King’s College London, St Thomas’ Campus \\
+Lambeth Palace Road, London SE1 7EH 
+
+**E-mail** [alessia.visconti@kcl.ac.uk](mailto:alessia.visconti@kcl.ac.uk)
+
+	
+## Brief Vitae
+
+Alessia Visconti received her M.Sc. degree in Computer Science in 2008, and her PhD in Science and High Technology (Computational Biology) in 2012, both at the University of Torino.
+
+Currently, she is a research associate at the [Department of Twin Research and Genetic Epidemiology](http://www.twinsuk.ac.uk/), King's College London (where she is member of the [Computational Biology Group](http://www.twinsuk.ac.uk/projectcategories/compbio/)), and a research fellow at [the CERN OpenLab](http://openlab.cern/), CERN. 
+
+Previously, she had been a research associate at the Department of Genomics of Common Disease, School of Public Health, Imperial College London, and a postdoctoral fellow at the Department of Computer Science, University of Torino, where she was a member of the [Computational Biology Group](http://compbio.di.unito.it) and of the [Machine Learning and Data Mining Group](http://mldm.di.unito.it).
+
+## Curriculum Vitae
+
+Alessia's CV can be downloaded from [here](https://www.dropbox.com/s/esu3kwmm7sq1vgz/CV-Visconti.pdf).
