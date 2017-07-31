@@ -22,3 +22,5 @@ title: Software
 
 - **SPOT** performs an exhaustive search of frequent motifs in sets of biological sequences. It is available [here](http://compbio.di.unito.it/tools/spot/spot.html).
 
+- **YAMP** allows processing raw metagenomic sequencing data up to the functional annotation. It can be downloaded from [here](https://github.com/alesssia/YAMP).
+
