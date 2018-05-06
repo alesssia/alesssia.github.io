@@ -15,7 +15,13 @@ title: Publications
 
 ###  Journals
 
-- **Visconti A.**, Al-Shafai M.,  Al Muftah W.A.,  Zaghlool S.B., Mangino M., Suhre K., and Falchi M., *PopPAnTe: population and pedigree association testing for quantitative data*, BMC Genomics, February 2017, [doi:10.1186/s12864-017-3527-7](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3527-7)
+- **Visconti, A.**, Duffy, D., Liu, F., Zhu, G., ..., Han, J., Bataille, V., and Falchi, M., *Genome-wide association study in 176,678 Europeans reveals genetic loci for tanning response to sun exposure*, Nature Communications, 2018, [http://dx.doi.org/10.1038/s41467-018-04086-y](http://dx.doi.org/10.1038/s41467-018-04086-y)
+
+- Hysi, P.G.<sup>†</sup>, Valdes, A.M.<sup>†</sup>, Liu, F.<sup>†</sup>, Furlotte, N.A., Evans, D.M., Bataille, V., **Visconti, A.**,  ..., Kayser, M., and Spector, T.D., *Genome-wide association meta-analysis of individuals of European ancestry identifies new loci explaining a substantial fraction of hair color variation and heritability*, Nature Genetics, 2018, [doi:10.1038/s41588-018-0100-5](https://www.nature.com/articles/s41588-018-0100-5)
+
+- Zaghlool, S.B., Mook-Kanamori, D.O., Kader,S., Stephan, N., Halama, A., Engelke, R., Sarwath, H., Al-Dous, E. K., Mohamoud, Y. A., Roemisch-Margl, W., Adamski, J., Kastenmüller, G., Friedrich, N., **Visconti, A.**, ...,  Malek, J.A., and Suhre K, *Deep molecular phenotypes link complex disorders and physiological insult to CpG methylation*, Human Molecular Genetics, 2018, [https://doi.org/10.1093/hmg/ddy006](https://doi.org/10.1093/hmg/ddy006)
+
+- **Visconti A.**, Al-Shafai M.,  Al Muftah W.A.,  Zaghlool S.B., Mangino M., Suhre K., and Falchi M., *PopPAnTe: population and pedigree association testing for quantitative data*, BMC Genomics, 2017, [doi:10.1186/s12864-017-3527-7](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3527-7)
 		
 - Puig-Butille J.A., Gimenez-Xavier P., **Visconti A.**, Nsengimana J., Garcia-Garcia F., Tell-Marti G., Escamez M.J., Newton-Bishop J.A., Bataille V., Del Rio M., Dopazo J., Falchi M, and Puig S., *Genomic expression differences between cutaneous cells from red hair colour individuals and black hair colour individuals based on bioinformatic analysis*, Oncotarget, 2016, [doi:10.18632/oncotarget.14140](http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=14140)
 		
