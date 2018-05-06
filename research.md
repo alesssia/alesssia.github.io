@@ -1,25 +1,23 @@
 ---
-layout: default
-title: Research 
+layout: page
+title: Research Interests 
 ---
 
-## Research Interests
 
 - Computational Biology
 - Machine Learning & Data Mining
 - Scientific Software Development
 
+
+<br>
+
 ## Brief Synopsis of Research
 
-Alessia Visconti's research activity deals with the study of the genomics and epigenomics of human diseases. Her work focuses on the identification of genetic and epigenetic modifications influencing the risk of common diseases or of related phenotypes, with a focus on melanoma, cognition and neurodevelopment disease, and IgA nephropathy. 
+Alessia Visconti's research activity deals with the study of the genomics and epigenomics of human diseases. Her work focuses on the identification of genetic and epigenetic modifications influencing the risk of common diseases or of related phenotypes, with a focus on melanoma, cognition and neurodevelopmental disorders, and IgA nephropathy. 
 She has also worked on the problem of knowledge discovery in biological data, developing new approaches tailored to solve biological tasks, and on the reverse engineering of gene regulatory networks. 
 Recently, she became interested in the human microbiome and its connections to human health and diseases.
 
-<br/>
-
-A more detailed description of Alessia's research activity and of her research projects can be found on her [CV](https://www.dropbox.com/s/esu3kwmm7sq1vgz/CV-Visconti.pdf), while a list of her publications can be found [here](publications.html).
-
-Alessia is also an active software developer, and the list of scientific software she has contributed to is available [here](software.html).
+A more detailed description of Alessia's research activity and of her research projects can be found on her [CV](https://www.dropbox.com/s/1ztt7cydy8nn3cf/CV-Visconti.pdf), while a list of her publications can be found [here](publications.html). She is also an active software developer, and the list of scientific software she has contributed to is available [here](software.html).
 
 
 

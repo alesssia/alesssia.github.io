@@ -1,22 +1,18 @@
 ---
-layout: default
-title: index
+layout: page
+title: About
 ---
-
-
-## Contact
 
 <img src="http://www.di.unito.it/~visconti/images/official_pic_small_web_face.png" height="170px" img style="float: right;"/>
 
-**Alessia Visconti, PhD** 
-
+**Alessia Visconti, PhD** \\
 Department of Twin Research and Genetic Epidemiology \\
 King’s College London, St Thomas’ Campus \\
 Lambeth Palace Road, London SE1 7EH 
 
 **E-mail** [alessia.visconti@kcl.ac.uk](mailto:alessia.visconti@kcl.ac.uk)
 
-	
+
 ## Brief Vitae
 
 Alessia Visconti received her M.Sc. degree in Computer Science in 2008, and her PhD in Science and High Technology (Computational Biology) in 2012, both at the University of Torino.
@@ -27,4 +23,4 @@ Previously, she had been a research associate at the Department of Genomics of C
 
 ## Curriculum Vitae
 
-Alessia's CV can be downloaded from [here](https://www.dropbox.com/s/esu3kwmm7sq1vgz/CV-Visconti.pdf).
+Alessia's CV can be downloaded [here](https://www.dropbox.com/s/1ztt7cydy8nn3cf/CV-Visconti.pdf).

@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Publications 
 ---
 
-## Publications
 
   [[Journals]](#journals)
 | [[In proceedings]](#in-proceedings)

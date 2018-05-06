@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Software 
+layout: page
+title: Scientific Software 
 ---
-
-## Scientific Software
 
 
 - **AID-ISA** extracts biologically relevant biclusters from microarray gene expression data by leveraging additional knowledge. It is described [here](http://compbio.di.unito.it/tools/AID-ISA/index.html).
