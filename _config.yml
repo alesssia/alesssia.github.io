@@ -10,7 +10,7 @@ title:            Alessia Visconti
 tagline:          ''
 description:      'Computational Biologist, PhD'
 url:              http://alesssia.github.io/
-baseurl:          /
+baseurl:          ""
 lastmod:		  '20180506'
 
 author:
