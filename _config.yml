@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown: 	 kramdown
+highlighter: rouge
 
 # Permalinks
 permalink:        pretty
@@ -20,4 +20,3 @@ author:
   twitter_username: _alesssia
   github_username:  alesssia
   
-paginate:         5
