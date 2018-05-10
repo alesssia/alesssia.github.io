@@ -14,9 +14,10 @@ baseurl:          /
 lastmod:		  '20180508'
 
 author:
-  name:           'Alessia Visconti'
-  url:            http://alesssia.github.io/
-  email: 		  alessia.visconti@kcl.ac.uk
-  twitter_username: _alesssia
-  github_username:  alesssia
-  
+  name:      'Alessia Visconti'
+  url:       http://alesssia.github.io/
+  email:     alessia.visconti@kcl.ac.uk
+  twitter:   _alesssia
+  github:    alesssia
+  orcid:     '0000-0003-4144-2019'
+

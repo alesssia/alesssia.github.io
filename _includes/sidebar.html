@@ -27,21 +27,28 @@
 		<nav class="contact-list">
 		  {% if site.author.email %}
 		      <a href="mailto:{{ site.author.email }}">
-		        <span class="icon">{% include icon-email.svg %}</span>
+		        <i class="far fa-envelope ai-2x"></i>
 		      </a> &nbsp;&nbsp;
 		  {% endif %}
 
-		  {% if site.author.github_username %}
-			<a href="https://github.com/{{ site.author.github_username }}">
-			  <span class="icon">{% include icon-github.svg %}</span>
+		  {% if site.author.github %}
+			<a href="https://github.com/{{ site.author.github }}">
+			  <i class="fab fa-github ai-2x"></i>
 			</a> &nbsp;&nbsp;
 		  {% endif %}
 
-		  {% if site.author.twitter_username %}
-			<a href="https://twitter.com/{{ site.author.twitter_username }}">
-			  <span class="icon">{% include icon-twitter.svg %}</span>
+		  {% if site.author.twitter %}
+			<a href="https://twitter.com/{{ site.author.twitter }}">
+			  <i class="fab fa-twitter ai-2x"></i>
+			</a> &nbsp;&nbsp;
+		  {% endif %}
+		  
+		  {% if site.author.orcid %}
+			<a href="https://profiles.impactstory.org/u/{{ site.author.orcid }}">
+			  <i class="ai ai-impactstory ai-2x"></i>
 			</a>
 		  {% endif %}
+		  
 		  
 		</nav>
 	 
