@@ -7,6 +7,7 @@ title: Publications
   [[Journals]](#journals)
 | [[In proceedings]](#in-proceedings)
 | [[Book Chapters]](#book-chapters)
+| [[Pre Prints]](#pre-prints)
 | [[Selected Abstracts and Posters]](#selected-abstracts-and-posters)
 | [[Thesis]](#thesis)
 
@@ -15,11 +16,13 @@ title: Publications
 
 ###  Journals
 
-- **Visconti, A.**, Duffy, D., Liu, F., Zhu, G., ..., Han, J., Bataille, V., and Falchi, M., *Genome-wide association study in 176,678 Europeans reveals genetic loci for tanning response to sun exposure*, Nature Communications, 2018, [http://dx.doi.org/10.1038/s41467-018-04086-y](http://dx.doi.org/10.1038/s41467-018-04086-y)
+- **Visconti, A.**, Martin T.C., and Falchi M., *YAMP: a containerised workflow enabling reproducibility in metagenomics research*, GigaScience, 2018, [doi:10.1093/gigascience/giy072](https://doi.org/10.1093/gigascience/giy072)
+
+- **Visconti, A.**, Duffy, D., Liu, F., Zhu, G., ..., Han, J., Bataille, V., and Falchi, M., *Genome-wide association study in 176,678 Europeans reveals genetic loci for tanning response to sun exposure*, Nature Communications, 2018, [doi:10.1038/s41467-018-04086-y](http://dx.doi.org/10.1038/s41467-018-04086-y)
 
 - Hysi, P.G.<sup>†</sup>, Valdes, A.M.<sup>†</sup>, Liu, F.<sup>†</sup>, Furlotte, N.A., Evans, D.M., Bataille, V., **Visconti, A.**,  ..., Kayser, M., and Spector, T.D., *Genome-wide association meta-analysis of individuals of European ancestry identifies new loci explaining a substantial fraction of hair color variation and heritability*, Nature Genetics, 2018, [doi:10.1038/s41588-018-0100-5](https://www.nature.com/articles/s41588-018-0100-5)
 
-- Zaghlool, S.B., Mook-Kanamori, D.O., Kader,S., Stephan, N., Halama, A., Engelke, R., Sarwath, H., Al-Dous, E. K., Mohamoud, Y. A., Roemisch-Margl, W., Adamski, J., Kastenmüller, G., Friedrich, N., **Visconti, A.**, ...,  Malek, J.A., and Suhre K, *Deep molecular phenotypes link complex disorders and physiological insult to CpG methylation*, Human Molecular Genetics, 2018, [https://doi.org/10.1093/hmg/ddy006](https://doi.org/10.1093/hmg/ddy006)
+- Zaghlool, S.B., Mook-Kanamori, D.O., Kader,S., Stephan, N., Halama, A., Engelke, R., Sarwath, H., Al-Dous, E. K., Mohamoud, Y. A., Roemisch-Margl, W., Adamski, J., Kastenmüller, G., Friedrich, N., **Visconti, A.**, ...,  Malek, J.A., and Suhre K, *Deep molecular phenotypes link complex disorders and physiological insult to CpG methylation*, Human Molecular Genetics, 2018, [doi:10.1093/hmg/ddy006](https://doi.org/10.1093/hmg/ddy006)
 
 - **Visconti A.**, Al-Shafai M.,  Al Muftah W.A.,  Zaghlool S.B., Mangino M., Suhre K., and Falchi M., *PopPAnTe: population and pedigree association testing for quantitative data*, BMC Genomics, 2017, [doi:10.1186/s12864-017-3527-7](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3527-7)
 		
@@ -56,7 +59,7 @@ title: Publications
 
 - **Visconti A.**, Cordero F., Botta M., Calogero R.A., *Gene Ontology rewritten for computing gene functional similarity*, In Proceedings of the Fourth International Conferences on Complex, Intelligent and Software Intensive Systems, February 15-18, 2010, IEEE Computer Society Press, pp. 694-699 [doi:10.1109/CISIS.2010.30](https://www.computer.org/csdl/proceedings/cisis/2010/3967/00/3967a694-abs.html)
 		
-- Cordero F., Pensa R.G, **Visconti A.**, Ienco D. and  Botta M., *Ontology-driven Co-clustering of Gene Expression Data*, In proceedings of AI*IA 2009: Emergent Perspectives in Artificial Intelligence, XI Int. Conf. of the Italian Association for Artificial Intelligence - Reggio Emilia, December 9-12, 2009, LNAI 5883, pp. 426-435, Springer, December 2009, [doi10.1007/978-3-642-10291-2_43](https://link.springer.com/chapter/10.1007%2F978-3-642-10291-2_43)
+- Cordero F., Pensa R.G, **Visconti A.**, Ienco D. and  Botta M., *Ontology-driven Co-clustering of Gene Expression Data*, In proceedings of AI*IA 2009: Emergent Perspectives in Artificial Intelligence, XI Int. Conf. of the Italian Association for Artificial Intelligence - Reggio Emilia, December 9-12, 2009, LNAI 5883, pp. 426-435, Springer, December 2009, [doi:10.1007/978-3-642-10291-2_43](https://link.springer.com/chapter/10.1007%2F978-3-642-10291-2_43)
 		
 - Cordero F., **Visconti A.**, and Botta M., *A new protein motif extraction framework based on constrained co-clustering*, In Proceedings of the 24th Annual ACM Symposium on Applied Computing - March 8-12, 2009, ACM Press, pp. 776-781, [doi:10.1145/1529282.1529445](http://dl.acm.org/citation.cfm?doid=1529282.1529445)
 
@@ -65,11 +68,13 @@ title: Publications
 
 - **Visconti A.**, Cordero F., Ienco D., and Pensa R.G., *Coclustering under Gene Ontology Derived Constraints for Pathway Identification*, Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, John Wiley & Sons, pp. 625-642, [doi:10.1002/9781118617151.ch27](http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch27/summary)
 
+### Pre Prints
 
+- Cullen, H., Krishnan, M., Selzam, S., Ball, G., **Visconti, A.**, Saxena, A., Counsell, S., Hajnal, J., Breen, G., Plomin, R. and Edwards, A.D. *Genes associated with neuropsychiatric disease increase vulnerability to abnormal deep grey matter development*, bioRxiv, 2018, [doi:10.1101/342394](https://www.biorxiv.org/content/early/2018/06/12/342394) 
 
 ### Selected Abstracts and Posters
 
-- **Visconti A.**, Martin T.C., and Falchi M.,  *YAMP: Yet Another Metagenomic Pipeline*, ISCB/ECCB 2017, Prague, July 2017 [doi: 10.7490/f1000research.1114463.1](https://f1000research.com/slides/6-1185)
+- **Visconti A.**, Martin T.C., and Falchi M.,  *YAMP: Yet Another Metagenomic Pipeline*, ISCB/ECCB 2017, Prague, July 2017 [doi:10.7490/f1000research.1114463.1](https://f1000research.com/slides/6-1185)
 
 - Carnero-Montoro E., **Visconti A.**, Sacco C, Tsai P.C, Spector T.D, Falchi M., and Bell J.T.,  *Environmentally-induced epigenetic variability is associated with metabolic traits*, American Society of Human Genetics, October 2016
 

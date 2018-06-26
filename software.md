@@ -6,11 +6,13 @@ title: Scientific Software
 
 - **AID-ISA** extracts biologically relevant biclusters from microarray gene expression data by leveraging additional knowledge. It is described [here](http://compbio.di.unito.it/tools/AID-ISA/index.html).
 
-- **CDoT** is a novel exact algorithm for answering Maximum a Posteriori queries on tree-structured Probabilistic Graphical Models.
+- **CDoT** is a novel exact algorithm for answering Maximum a Posteriori queries on tree-structured Probabilistic Graphical Models. 
 
 - **famCNV (v2.0)** enables genome-wide association of copy number variants with quantitative phenotypes in families. It can be download from [here](http://www.twinsuk.ac.uk/project/famcnv/).
 
 - **GOClust** performs a coclustering of microarray gene expression data by means of Gene Ontology-derived constraints.  It is described [here](http://compbio.di.unito.it/tools/GOClust/index.html).
+
+- **MAP** is a proof-of-concept not production-ready pipeline for the analysis of metagenomic data. It can be downloaded from [here](https://github.com/alesssia/MAP).
 
 - **MotifsLinker** associates clusters of proteins with their frequent motifs. It is available [here](http://compbio.di.unito.it/tools/recomb/motifslinker.html).
 
@@ -20,5 +22,5 @@ title: Scientific Software
 
 - **SPOT** performs an exhaustive search of frequent motifs in sets of biological sequences. It is available [here](http://compbio.di.unito.it/tools/spot/spot.html).
 
-- **YAMP** allows processing raw metagenomic sequencing data up to the functional annotation. It can be downloaded from [here](https://github.com/alesssia/YAMP).
+- **YAMP** is a containerised and reproducible pipeline which allows processing raw metagenomic sequencing data up to the functional annotation. It can be downloaded from [here](https://github.com/alesssia/YAMP).
 
