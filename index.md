@@ -7,11 +7,12 @@ title: About
 
 **Alessia Visconti, PhD** \\
 Department of Twin Research and Genetic Epidemiology \\
-King’s College London, St Thomas’ Campus \\
-Lambeth Palace Road, London SE1 7EH 
+King’s College London, St Thomas’ Campus, 3rd floor South Wing Block D \\
+Westminster Bridge Road, London SE1 7EH 
 
-**E-mail** [alessia.visconti@kcl.ac.uk](mailto:alessia.visconti@kcl.ac.uk)
+**E-mail:** [alessia.visconti@kcl.ac.uk](mailto:alessia.visconti@kcl.ac.uk)
 
+<br> 
 
 ## Brief Vitae
 
