@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Alessia's profile pic]({{ "/" | relative_url }}/assets/official_pic_xxsmall_web_face.png)
+![Alessia's profile pic]({{ "/" | relative_url }}assets/official_pic_xxsmall_web_face.png)
 
 **Alessia Visconti, PhD** \\
 Department of Twin Research and Genetic Epidemiology \\
@@ -23,4 +23,4 @@ Previously, she had been a research associate at the Department of Genomics of C
 
 ## Curriculum Vitae
 
-Alessia's CV can be downloaded [here]({{ "/" | relative_url }}/assets/CV-Visconti.pdf).
+Alessia's CV can be downloaded [here]({{ "/" | relative_url }}assets/CV-Visconti.pdf).
