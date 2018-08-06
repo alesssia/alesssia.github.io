@@ -15,7 +15,9 @@ title: Publications
 - <sup>†</sup> means that the authors contributed equally to the work
 
 ###  Journals
-
+		
+- Martin T.C.<sup>†</sup>, **Visconti A<sup>†</sup>**, Tim D. Spector, and Falchi M., *Conducting metagenomic studies in microbiology and clinical research*, Appl Microbiol Biotechnol, 2018, [doi:10.1007/s00253-018-9209-9](https://link.springer.com/article/10.1007%2Fs00253-018-9209-9)
+		
 - **Visconti, A.**, Martin T.C., and Falchi M., *YAMP: a containerised workflow enabling reproducibility in metagenomics research*, GigaScience, 2018, [doi:10.1093/gigascience/giy072](https://doi.org/10.1093/gigascience/giy072)
 
 - **Visconti, A.**, Duffy, D., Liu, F., Zhu, G., ..., Han, J., Bataille, V., and Falchi, M., *Genome-wide association study in 176,678 Europeans reveals genetic loci for tanning response to sun exposure*, Nature Communications, 2018, [doi:10.1038/s41467-018-04086-y](http://dx.doi.org/10.1038/s41467-018-04086-y)

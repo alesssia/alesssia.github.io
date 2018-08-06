@@ -5,6 +5,7 @@ title: Research Interests
 
 
 - Computational Biology
+- *-omics* data analysis
 - Machine Learning & Data Mining
 - Scientific Software Development
 
@@ -17,7 +18,7 @@ Alessia Visconti's research activity deals with the study of the genomics and ep
 She has also worked on the problem of knowledge discovery in biological data, developing new approaches tailored to solve biological tasks, and on the reverse engineering of gene regulatory networks. 
 Recently, she became interested in the human microbiome and its connections to human health and diseases.
 
-A more detailed description of Alessia's research activity and of her research projects can be found on her [CV](https://www.dropbox.com/s/1ztt7cydy8nn3cf/CV-Visconti.pdf), while a list of her publications can be found [here](publications.html). She is also an active software developer, and the list of scientific software she has contributed to is available [here](software.html).
+A more detailed description of Alessia's research activity and of her research projects can be found on her [CV]({{ "/" | relative_url }}/assets/CV-Visconti.pdf), while a list of her publications can be found [here](publications.html). She is also an active software developer, and the list of scientific software she has contributed to is available [here](software.html).
 
 
 
