@@ -74,6 +74,9 @@ title: Publications
 
 - Cullen, H., Krishnan, M., Selzam, S., Ball, G., **Visconti, A.**, Saxena, A., Counsell, S., Hajnal, J., Breen, G., Plomin, R. and Edwards, A.D. *Genes associated with neuropsychiatric disease increase vulnerability to abnormal deep grey matter development*, bioRxiv, 2018, [doi:10.1101/342394](https://www.biorxiv.org/content/early/2018/06/12/342394) 
 
+- Duffy D., Zhu G., Li X., ..., **Visconti, A.**, ... Falchi M., Han J., Martin N.G., Melanoma GWAS Consortium *Novel pleiotropic risk loci for melanoma and nevus density implicate multiple biological pathways*, bioRxiv, 2017, [doi:10.1101/173112](https://www.biorxiv.org/content/early/2017/08/07/173112)
+
+
 ### Selected Abstracts and Posters
 
 - **Visconti A.**, Martin T.C., and Falchi M.,  *YAMP: Yet Another Metagenomic Pipeline*, ISCB/ECCB 2017, Prague, July 2017 [doi:10.7490/f1000research.1114463.1](https://f1000research.com/slides/6-1185)
