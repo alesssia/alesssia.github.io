@@ -1,17 +1,17 @@
 # Dependencies
-markdown: 	 kramdown
+markdown:    kramdown
 highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink:   pretty
 
 # Setup
-title:            Alessia Visconti
-tagline:          ''
-description:      'Computational Biologist, PhD'
-url:              http://alesssia.github.io/
-baseurl:          /
-lastmod:    '20180806'
+title:       Alessia Visconti
+tagline:     ''
+description: 'Computational Biologist, PhD'
+url:         http://alesssia.github.io/
+baseurl:     /
+lastmod:    '20181126'
 
 author:
   name:      'Alessia Visconti'
@@ -21,3 +21,5 @@ author:
   github:    alesssia
   orcid:     '0000-0003-4144-2019'
 
+pagination:
+  indexpage: 'blog'

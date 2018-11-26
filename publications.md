@@ -15,6 +15,8 @@ title: Publications
 - <sup>†</sup> means that the authors contributed equally to the work
 
 ###  Journals
+
+- Duffy D., Zhu G., Li X., ..., **Visconti, A.**, ... Falchi M., Han J., Martin N.G., Melanoma GWAS Consortium *Novel pleiotropic risk loci for melanoma and nevus density implicate multiple biological pathways*, Nature Communications, 2018, [doi:10.1038/s41467-018-06649-5](https://doi.org/10.1038/s41467-018-06649-5)
 		
 - Martin T.C.<sup>†</sup>, **Visconti A<sup>†</sup>**, Tim D. Spector, and Falchi M., *Conducting metagenomic studies in microbiology and clinical research*, Appl Microbiol Biotechnol, 2018, [doi:10.1007/s00253-018-9209-9](https://link.springer.com/article/10.1007%2Fs00253-018-9209-9)
 		
@@ -73,9 +75,6 @@ title: Publications
 ### Pre Prints
 
 - Cullen, H., Krishnan, M., Selzam, S., Ball, G., **Visconti, A.**, Saxena, A., Counsell, S., Hajnal, J., Breen, G., Plomin, R. and Edwards, A.D. *Genes associated with neuropsychiatric disease increase vulnerability to abnormal deep grey matter development*, bioRxiv, 2018, [doi:10.1101/342394](https://www.biorxiv.org/content/early/2018/06/12/342394) 
-
-- Duffy D., Zhu G., Li X., ..., **Visconti, A.**, ... Falchi M., Han J., Martin N.G., Melanoma GWAS Consortium *Novel pleiotropic risk loci for melanoma and nevus density implicate multiple biological pathways*, bioRxiv, 2017, [doi:10.1101/173112](https://www.biorxiv.org/content/early/2017/08/07/173112)
-
 
 ### Selected Abstracts and Posters
 
