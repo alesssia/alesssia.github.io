@@ -78,8 +78,6 @@ title: Publications
 
 ### Selected Abstracts and Posters
 
-- **Visconti A.**, Martin T.C., and Falchi M.,  *YAMP: Yet Another Metagenomic Pipeline*, ISCB/ECCB 2017, Prague, July 2017 [doi:10.7490/f1000research.1114463.1](https://f1000research.com/slides/6-1185)
-
 - Carnero-Montoro E., **Visconti A.**, Sacco C, Tsai P.C, Spector T.D, Falchi M., and Bell J.T.,  *Environmentally-induced epigenetic variability is associated with metabolic traits*, American Society of Human Genetics, October 2016
 
 - Ribero S., **Visconti A.**, Sanna M., Glass D., Spector T.D. Bataille V., and Falchi M., *Heritability of melanoma risk factors: variable contribution of naevogenic genes towards the variance in naevus counts according to body sites with effects on heritability*, European Association of Dermato Oncology, Marseille, October 2015
