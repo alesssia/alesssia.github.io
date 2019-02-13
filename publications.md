@@ -7,7 +7,7 @@ title: Publications
   [[Journals]](#journals)
 | [[In proceedings]](#in-proceedings)
 | [[Book Chapters]](#book-chapters)
-| [[Pre Prints]](#pre-prints)
+<!-- | [[Pre Prints]](#pre-prints) -->
 | [[Selected Abstracts and Posters]](#selected-abstracts-and-posters)
 | [[Thesis]](#thesis)
 
@@ -16,17 +16,20 @@ title: Publications
 
 ###  Journals
 
-- Duffy D., Zhu G., Li X., ..., **Visconti, A.**, ... Falchi M., Han J., Martin N.G., Melanoma GWAS Consortium *Novel pleiotropic risk loci for melanoma and nevus density implicate multiple biological pathways*, Nature Communications, 2018, [doi:10.1038/s41467-018-06649-5](https://doi.org/10.1038/s41467-018-06649-5)
+- Cullen H., Krishnan M.L., Selzam S., Ball G., **Visconti A**, Saxena A., Counsell S.J., Hajnal J., Breen G., Plomin R. & Edwards A.D., 
+*Polygenic risk for neuropsychiatric disease and vulnerability to abnormal deep grey matter development*, Scientific Reports, 2019, [doi:10.1038/s41598-019-38957-1](https://doi.org/10.1038/s41598-019-38957-1)
+
+- Duffy D., Zhu G., Li X., ..., **Visconti A.**, ... Falchi M., Han J., Martin N.G., Melanoma GWAS Consortium *Novel pleiotropic risk loci for melanoma and nevus density implicate multiple biological pathways*, Nature Communications, 2018, [doi:10.1038/s41467-018-06649-5](https://doi.org/10.1038/s41467-018-06649-5)
 		
 - Martin T.C.<sup>†</sup>, **Visconti A<sup>†</sup>**, Tim D. Spector, and Falchi M., *Conducting metagenomic studies in microbiology and clinical research*, Appl Microbiol Biotechnol, 2018, [doi:10.1007/s00253-018-9209-9](https://link.springer.com/article/10.1007%2Fs00253-018-9209-9)
 		
-- **Visconti, A.**, Martin T.C., and Falchi M., *YAMP: a containerised workflow enabling reproducibility in metagenomics research*, GigaScience, 2018, [doi:10.1093/gigascience/giy072](https://doi.org/10.1093/gigascience/giy072)
+- **Visconti A.**, Martin T.C., and Falchi M., *YAMP: a containerised workflow enabling reproducibility in metagenomics research*, GigaScience, 2018, [doi:10.1093/gigascience/giy072](https://doi.org/10.1093/gigascience/giy072)
 
-- **Visconti, A.**, Duffy, D., Liu, F., Zhu, G., ..., Han, J., Bataille, V., and Falchi, M., *Genome-wide association study in 176,678 Europeans reveals genetic loci for tanning response to sun exposure*, Nature Communications, 2018, [doi:10.1038/s41467-018-04086-y](http://dx.doi.org/10.1038/s41467-018-04086-y)
+- **Visconti A.**, Duffy D., Liu F., Zhu G., ..., Han J., Bataille V., and Falchi M., *Genome-wide association study in 176,678 Europeans reveals genetic loci for tanning response to sun exposure*, Nature Communications, 2018, [doi:10.1038/s41467-018-04086-y](http://dx.doi.org/10.1038/s41467-018-04086-y)
 
-- Hysi, P.G.<sup>†</sup>, Valdes, A.M.<sup>†</sup>, Liu, F.<sup>†</sup>, Furlotte, N.A., Evans, D.M., Bataille, V., **Visconti, A.**,  ..., Kayser, M., and Spector, T.D., *Genome-wide association meta-analysis of individuals of European ancestry identifies new loci explaining a substantial fraction of hair color variation and heritability*, Nature Genetics, 2018, [doi:10.1038/s41588-018-0100-5](https://www.nature.com/articles/s41588-018-0100-5)
+- Hysi P.G.<sup>†</sup>, Valdes A.M.<sup>†</sup>, Liu F.<sup>†</sup>, Furlotte N.A., Evans D.M., Bataille V., **Visconti A.**,  ..., Kayser M., and Spector T.D., *Genome-wide association meta-analysis of individuals of European ancestry identifies new loci explaining a substantial fraction of hair color variation and heritability*, Nature Genetics, 2018, [doi:10.1038/s41588-018-0100-5](https://www.nature.com/articles/s41588-018-0100-5)
 
-- Zaghlool, S.B., Mook-Kanamori, D.O., Kader,S., Stephan, N., Halama, A., Engelke, R., Sarwath, H., Al-Dous, E. K., Mohamoud, Y. A., Roemisch-Margl, W., Adamski, J., Kastenmüller, G., Friedrich, N., **Visconti, A.**, ...,  Malek, J.A., and Suhre K, *Deep molecular phenotypes link complex disorders and physiological insult to CpG methylation*, Human Molecular Genetics, 2018, [doi:10.1093/hmg/ddy006](https://doi.org/10.1093/hmg/ddy006)
+- Zaghlool S.B., Mook-Kanamori D.O., Kader S., Stephan N., Halama A., Engelke R., Sarwath H., Al-Dous E. K., Mohamoud Y. A., Roemisch-Margl W., Adamski J., Kastenmüller G., Friedrich N., **Visconti A.**, ...,  Malek J.A., and Suhre K, *Deep molecular phenotypes link complex disorders and physiological insult to CpG methylation*, Human Molecular Genetics, 2018, [doi:10.1093/hmg/ddy006](https://doi.org/10.1093/hmg/ddy006)
 
 - **Visconti A.**, Al-Shafai M.,  Al Muftah W.A.,  Zaghlool S.B., Mangino M., Suhre K., and Falchi M., *PopPAnTe: population and pedigree association testing for quantitative data*, BMC Genomics, 2017, [doi:10.1186/s12864-017-3527-7](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3527-7)
 		
@@ -72,9 +75,8 @@ title: Publications
 
 - **Visconti A.**, Cordero F., Ienco D., and Pensa R.G., *Coclustering under Gene Ontology Derived Constraints for Pathway Identification*, Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, John Wiley & Sons, pp. 625-642, [doi:10.1002/9781118617151.ch27](http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch27/summary)
 
-### Pre Prints
+<!-- ### Pre Prints -->
 
-- Cullen, H., Krishnan, M., Selzam, S., Ball, G., **Visconti, A.**, Saxena, A., Counsell, S., Hajnal, J., Breen, G., Plomin, R. and Edwards, A.D. *Genes associated with neuropsychiatric disease increase vulnerability to abnormal deep grey matter development*, bioRxiv, 2018, [doi:10.1101/342394](https://www.biorxiv.org/content/early/2018/06/12/342394) 
 
 ### Selected Abstracts and Posters
 
