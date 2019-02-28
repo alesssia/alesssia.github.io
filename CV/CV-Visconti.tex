@@ -1,0 +1,612 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[margin=0.8in]{geometry}
+\usepackage[latin1]{inputenc}
+\usepackage[english]{babel}
+
+\usepackage{color}
+\definecolor{linkColor}{rgb}{0.2,0.4,0.6}
+
+\usepackage[
+	colorlinks,
+	citecolor=linkColor,
+	linkcolor=linkColor,
+	menucolor=linkColor,
+	urlcolor=linkColor,
+]{hyperref}
+
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage{bold-extra}
+\usepackage{enumitem}
+\usepackage{longtable}
+\usepackage{url}
+\usepackage{xcolor}
+
+%%%% TITLE SETTING
+\newcommand{\bigtitle}[1]{
+	{\begin{center} 
+		\huge \textsc{#1}\\[0.7ex]
+		\hrule
+	\end{center}}
+}
+\newcommand{\mediumtitle}[1]{
+	\vspace{0.2cm}
+	{\noindent
+	\Large \textsc{#1}\\[-2ex]
+	\hrule
+	\vspace{0.2cm}}
+}
+\newcommand{\smalltitle}[1]{
+	\vspace{0.1cm}
+	{\noindent 
+	\large \textsc{#1}}
+	\vspace{0.1cm}
+}
+
+
+%%%% PARAGRAPH
+\newcommand{\indentp}[1]{
+	\vspace{0.2cm}
+	\begin{minipage}{0.95\textwidth}
+	{\noindent \hskip-1px #1}
+	\end{minipage}
+	\vspace{0.2cm}
+}
+
+%%%% LIST
+%double item
+\newcolumntype{A}{>{\raggedleft}p{0.24\textwidth}}
+\newcolumntype{B}{p{0.7\textwidth}}
+\newenvironment{doubletablelist}
+{
+	\vspace{-0.2cm}
+	\begin{longtable}[!h]{AB}}{\end{longtable}
+}
+\newcommand{\dtlist}[2]{
+\hspace{-3cm}
+\noindent
+	\begin{minipage}{0.24\textwidth}
+	\begin{flushright}
+	\textsc{#1}
+	\end{flushright}
+	\end{minipage}
+	& #2\\[0.2cm]
+}
+%single item
+\newcolumntype{a}{>{\raggedleft}p{0.14\textwidth}}
+\newcolumntype{b}{p{0.8\textwidth}}
+\newenvironment{singletablelist}
+{	\vspace{-0.2cm}
+	\begin{longtable}[!h]{ab}}{\end{longtable}
+}
+\newcommand{\stlist}[2]{
+	\hspace{-3cm}
+	\noindent
+	\begin{minipage}{0.24\textwidth}
+	\begin{flushright}
+	\textsc{#1}
+	\end{flushright}
+	\end{minipage}
+	& #2\\[0.2cm]
+}
+
+%%%% ITEM BULLET
+\newcommand{\bulletitem}{\item[$\bullet$]}
+\newcommand{\circitem }{\item[$\circ$]}
+\newcommand{\minusitem}{\item[-]}
+\newcommand{\astitem}{\item[$\ast$]}
+
+% --------------------------------
+
+\begin{document}
+
+\begin{center}
+\bigtitle{Alessia Visconti, PhD}
+\end{center}
+
+\vspace{0.2cm}
+
+\noindent
+Department of Twin Research, King's College London\\
+St Thomas' Hospital Campus, 3rd Floor South Wing Block D\\
+Westminster Bridge Road, London SE1 7EH
+
+\noindent
+\textsc{e-mail:} \url{alessia.visconti@kcl.ac.uk} \\
+
+\vspace{0.2cm}
+
+\mediumtitle{Research Interests}
+\begin{itemize}[itemsep=-0.5ex]
+ 	\minusitem  \textsc{Computational Biology}
+ 	\minusitem  \textsc{Data Mining \& Machine Learning}
+	% \minusitem  \textsc{High-Throughput Biology}
+	% \minusitem  \textsc{Complex Disease Genetics}
+	\minusitem  \textsc{\emph{-omics} data analysis }
+	\minusitem  \textsc{Scientific software development}
+\end{itemize}
+
+\mediumtitle{Brief Synopsis of Research}
+\indentp{
+\noindent Alessia Visconti's research activity deals with the study of the genomics and epigenomics of human diseases. Her work focuses on the identification of genetic and epigenetics modifications influencing the risk of common diseases or of related phenotypes. 
+She has also worked on the problem of knowledge discovery in biological data, developing new approaches tailored to solve biological tasks, and on the reverse engineering of gene regulatory networks. 
+Recently, she became interested in the human microbiome and its connections to human health and diseases.
+}
+
+\vspace{0.4cm}
+
+% --------------------------------
+% EDUCATION
+% --------------------------------
+
+\mediumtitle{Education}
+\begin{singletablelist}
+	\stlist{Jul 2012}{\textbf{PhD in Science and High Technology}, University of Torino.\\
+	&\textsc{Thesis title:} \emph{Systems Biology: Knowledge Discovery and Reverse Engineering}\\
+	&\textsc{Advisors}: prof. Marco Botta, Dr. Roberto Esposito}
+	
+	\stlist{Jul 2008}{\textbf{Master degree in Computer Science} \emph{``summa cum laude''}, University of Torino.\\
+	&\textsc{Thesis title:} \emph{SPOT: an algorithm for the extraction and the analysis of biological patterns}\\
+	&\textsc{Advisor}: prof. Marco Botta}
+
+	\stlist{Mar 2006}{\textbf{Bachelor degree in Computer Science}  \emph{``summa cum laude''}, University of Torino.\\
+	&\textsc{Thesis title:} \emph{The Haskell language} \\
+	&\textsc{Advisor}:  prof. Viviana Bono}
+\end{singletablelist}
+
+% --------------------------------
+% SKILLS
+% --------------------------------
+
+\mediumtitle{Skills}
+\begin{doubletablelist}
+	\dtlist{Language Skills}{\textsc{Italian}: native proficiency \\ 
+							&\textsc{English}: full professional proficiency}
+	\dtlist{Computing Skills}{\textsc{Programming languages}: bash, C, C++, JAVA, php, python, R, ruby\\
+							&\textsc{Other languages}: CSS, \LaTeX, HTML, PyQt, XML\\
+							&\textsc{Statistical software}: R, SAS\\
+							&\textsc{Database management}: MySQL, MariaDB\\
+							&\textsc{Version control systems \& reproducibility }: GIT, nextflow, docker\\
+							&\textsc{Bioinformatics \& Genetic analysis}: BBmap, BEDTools, DESeq2, GCTA, GWAMA, LDAK, limma, lmekin, metal, Merlin, PLINK, QTDT, samtools, vcftools, \dots\\
+							&\textsc{Structural Equation Modelling}: openMX, Mplus\\
+							&\textsc{Data visualisation}: dot, ggplot2}
+\end{doubletablelist}
+
+\newpage
+
+% --------------------------------
+% RESEARCH
+% --------------------------------
+
+\mediumtitle{Research activity}
+\begin{doubletablelist}
+    \dtlist{Aug 2017 - Present}{\textbf{Research fellow} at the Department of Twin Research \& Genetic Epidemiology, King's College London, UK %\\
+	% &\textsc{Supervisor}: Dr. Mario Falchi
+	}
+    \dtlist{Jun 2016 - Present}{\textbf{Honorary research associate} at the CERN Openlab at CERN, Geneva, Switzerland  %\\
+	% &\textsc{Supervisor}: Dr. Marco Manca
+	}
+    \dtlist{Apr 2015 - Jul 2017}{\textbf{Research associate} at the Department of Twin Research \& Genetic Epidemiology, King's College London, UK %\\
+	% &\textsc{Supervisor}: Dr. Mario Falchi
+	}
+    \dtlist{Jan 2014 - Mar 2015}{\textbf{Research associate} at the Department of Genomics of Common Disease, School of Public Health, Imperial College London, UK %\\
+	% &\textsc{Supervisor}: Dr. Mario Falchi
+	}
+	\dtlist{Jan 2012 - Dec 2013}{\textbf{Research associate} at the Department of Computer Science, University of Torino, Italy %\\
+	% &\textsc{Supervisors}: Dr. Roberto Esposito
+	}
+	\dtlist{Jun 2011 - Dec 2011}{\textbf{Visiting researcher} at the Regulatory Genomics Group at the Center of Biological Sequence Analysis, Systems Biology Department, Technical University of Denmark, Denmark %\\
+	% &\textsc{Supervisor}: Prof. Christopher Workman
+	}
+	\dtlist{Jan 2009 - Dec 2011}{\textbf{Awarded PhD candidate} at the School of Science and High Technology, University of Torino, Italy %\\
+	% &\textsc{Supervisors}: Dr. Roberto Esposito, Prof. Marco Botta
+	}
+	\dtlist{Sep 2008 - Dec 2008}{\textbf{Research assistant} at the Department of Computer Science, University of Torino and in collaboration with the Department of Arboriculture and Pomology, University of Torino, Italy %\\
+	% &\textsc{Supervisors}: Prof. Marco Botta, Prof. Roberto Botta
+	}
+\end{doubletablelist}
+
+% --------------------------------
+% TEACHING
+% --------------------------------
+
+\mediumtitle{Teaching activity}
+\begin{doubletablelist}
+	
+	\dtlist{Nov 2016/present}{\textbf{Co-organiser} of the journal club on genetic and epigenetic regulation of gene expression at the Department of Twins Research \& Genetic Epidemiology, King's College London}
+	\dtlist{a.y. 2013/2014}{\textbf{Teaching assistant} for the \emph{``Human Molecular Genetics''} MSc \\ 
+							& \hskip0.5cm Department of Genomics of Common Diseases, Imperial College London\\
+							%& \hskip0.5cm Workshops on: \\
+							& \hskip1cm - Unix command line and R\\
+							& \hskip1cm - Exploratory Data Analysis and Probability\\
+							& \hskip1cm - Quantitative genetics\\
+							& \hskip1cm - Next Generation Sequencing.}					
+\end{doubletablelist}							
+
+{\footnotesize \noindent (Italian only)}
+
+\begin{doubletablelist}
+	\dtlist{a.y. 2013/2014}{\textbf{Lecturer} for the \emph{``Data analysis''} course \\ 
+							& \hskip0.5cm Department of Biological Science, University of Torino\\
+							&\textbf{Lecturer} for the \emph{``Operating System''} course \\ 
+							& \hskip0.5cm  Department of Computer Science, University of Torino}
+	\dtlist{a.y. 2012/2013}{\textbf{Lecturer} for the \emph{``Operating System and Networking''} course \\ 
+							& \hskip0.5cm  Interfaculty School of Strategic Studies, University of Torino\\
+							&\textbf{Lecturer} for the \emph{``Operating System''} course \\ 
+							& \hskip0.5cm  Department of Computer Science, University of Torino}
+	\dtlist{a.y. 2011/2012}{\textbf{Lecturer} for the \emph{``Database''} course \\ 
+							& \hskip0.5cm Department of Computer Science, University of Torino}
+	\dtlist{a.y. 2010/2011}{\textbf{Lecturer} for the \emph{``Database''} course \\
+							& \hskip0.5cm  Department of Computer Science, University of Torino\\
+							&\textbf{Lecturer} for the \emph{``Formal Language''} course \\ 
+							& \hskip0.5cm  Department of Computer Science, University of Torino\\
+							&\textbf{Lecturer} for the \emph{``Statistics and data mining with SAS''} course \\ 
+							& \hskip0.5cm Department of Mathematics, University of Torino}
+	\dtlist{a.y. 2009/2010}{\textbf{Lecturer} for the \emph{``Computer Science''} course \\ 
+							& \hskip0.5cm Department of Letters and Philosophy, University of Torino}
+\end{doubletablelist}							
+
+\newpage
+
+\begin{doubletablelist}
+	\dtlist{a.y. 2006/2007}{\textbf{Teaching assistant} for the \emph{``Program Languages - JAVA''} course \\ 
+							& \hskip0.5cm Department of Computer Science, University of Torino}
+	\dtlist{a.y. 2005/2006}{\textbf{Teaching assistant} for the \emph{``Program Languages - JAVA''} course \\ 
+							&  \hskip0.5cm Department of Computer Science, University of Torino}
+	\dtlist{a.y. 2004/2005}{\textbf{Teaching assistant}  for the \emph{``Program Languages - C''} course \\ 
+							&  \hskip0.5cm Department of Computer Science, University of Torino}
+\end{doubletablelist}
+
+%\newpage
+
+% --------------------------------
+% METORING
+% --------------------------------
+
+\mediumtitle{Supervision activity}
+
+\begin{doubletablelist}	
+	\dtlist{a.y. 2016/present}{\textbf{Co-supervisor} of Mr Niccol\`o Rossi during his research visit at King's College London. Niccol\`o's PhD project aims at identifying and characterising the causes of lipid-metabolism disruption in patients with severe and unexplained familial dyslipidemia.}
+	\dtlist{a.y. 2014/present}{\textbf{Assistance with the supervision} of Ms Marianna Sanna in her PhD project at King's College London and in her research activity at Imperial College London. Marianna's work aims at dissecting the aetiology of melanoma and of melanoma risk phenotypes.}
+	\dtlist{a.y. 2017/2018}{\textbf{Supervisor} of Ms Lechun Huo's summer project as part of the King's Undergraduate Research Fellowships (KURF). Lechun's project aimed at studying the human gut microbiome in twins.}
+	\dtlist{a.y. 2017/2018}{\textbf{Co-supervisor} of Dr Robin Mesnage's master project in Bioinformatics at Birkbeck University of London, entitled: ``A Metagenome-wide association study suggests that glycome composition associates with pathogenic bacteria abundance in the gut microbiome''.}
+	\dtlist{a.y. 2016/2018}{\textbf{Assistance with the supervision} of Dr Harriet Cullen during her research fellowship at King's College London. Harriet's project aimed at dissecting the genetic and epigenetic basis of pre-term delivery.}
+	\dtlist{a.y. 2016/2017}{\textbf{Supervisor} of Ms Yuri Nemoto's summer project as part of the King's Undergraduate Research Fellowships (KURF). Yuri's project aimed at identifying connection between human gut microbiome and lipid profiles in twins.}
+	\dtlist{a.y. 2016/2017}{\textbf{Co-supervisor} of Ms Fudi Wang's research visit. Fudi's project aimed at identifying connections between facial ageing features and a set of genomic loci.}
+	\dtlist{a.y. 2015/2016}{\textbf{Co-supervisor} of Ms Esther Kok's summer internship at the CERN. Esther's project aimed at developing an efficient workflow to detect structural variants in DNA sequence data.}
+	\dtlist{a.y. 2013/2014}{\textbf{Co-supervisor} of Mr Marcin \'Swistak's internship at Imperial College London. Marcin's project aimed at dissecting the genetic basis of melanoma and its connection with ageing.}
+	\dtlist{a.y. 2013/2014}{\textbf{Co-supervisor} of Mr George Powell's master thesis in Human Molecular Genetics entitled: \emph{``Enrichment of Genomic Runs of Homozygosity for Copy Number Variation in Population Cohorts and Family Trios''}}
+	\dtlist{a.y. 2010/2011}{\textbf{Co-supervisor} of Mr Marco Gallizio's bachelor thesis in Computer Science entitled: \emph{``A web interface for querying the Restructured Gene Ontology''}, University of Torino.}
+\end{doubletablelist}	
+
+\newpage
+
+% --------------------------------
+% REVIEWING
+% --------------------------------
+
+\mediumtitle{Review activity}
+\begin{doubletablelist}
+% \dtlist{Program Committee membership}{
+% 	\vspace{-0.8cm}
+% 	\begin{itemize}[itemsep=-0.5ex]
+% 		\minusitem  European Conference on Data Mining (IADIS ECDM) % 2012-2013)
+% 	\end{itemize}
+% 	\\&} 
+\dtlist{International Journal}{
+		Bioinformatics, BioData Mining, BMC Cancer, BMC Nutrition, BMC Supplements, European Journal of Human Genetics, GigaScience, Journal of the European Academy of Dermatology and Venereology, Knowledge and Information Systems (KAIS), Machine Learning, PLoS Computational Biology, PLoS One
+	}
+\dtlist{International Conferences}{
+	ACM International Conference on Information and Knowledge Management (CIKM), Conference of the Italian Association for Artificial Intelligence (AI*IA), Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP),  European Conference on Data Mining (ECDM),  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD),  IEEE International Conference on Data Mining (ICDM),  International Conference on Advanced Data Mining and Applications (ADMA),  International Conference on Artificial Immune Systems (ICARIS), International Conference on Data Warehousing and Knowledge Discovery (DaWaK),  International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (KDIR),  Network Tools and Applications in Biology (NETTAB)
+}
+\end{doubletablelist}
+
+% \newpage
+
+% --------------------------------
+% MISCELLANEA
+% --------------------------------
+
+\mediumtitle{Other activities}
+
+% --------------------------------
+% PROJECTS
+
+\begin{doubletablelist}
+\dtlist{Participation in research projects}{
+	\vspace{-0.8cm}
+	\begin{itemize} %[itemsep=-0.5ex]
+		\minusitem  \begin{minipage}{0.65\textwidth}
+			\emph{``A high resolution map of copy number and structural variation in Qatari genomes and their contribution to quantitative traits and disease''}, funded by \emph{Qatar Foundation} -- 2016-2018\\
+			\textsc{Role:} Researcher
+		\end{minipage}
+		\minusitem  \begin{minipage}{0.65\textwidth}
+			\emph{``An integrative genomics approach for non-invasive diagnostic biomarkers discovery in IgA nephropathy''}, funded by \emph{MRC} -- 2014-2016\\
+			\textsc{Role:} Researcher
+		\end{minipage}
+		\minusitem  \begin{minipage}{0.65\textwidth}
+			\emph{``Senescence and melanoma -- An integrative systems biology approach to characterise the link between reduced biological senescence and melanoma susceptibility''}, funded by \emph{British Skin Foundation} -- 2013-2015\\
+			\textsc{Role:} Researcher
+		\end{minipage}
+		\minusitem  \begin{minipage}{0.65\textwidth}
+			\emph{``Genomic analysis of Type 2 Diabetes in Qatar, towards diabetes personalized medicine''}, funded by \emph{Qatar Foundation} -- 2013-2018\\
+			\textsc{Role:} Researcher
+		\end{minipage}
+		\minusitem  \begin{minipage}{0.65\textwidth}
+			\emph{``LIMPET -- Isotropic And Anisotropic Lipophilicity To Model Permeability Of New Therapeutic Peptides''}, funded by \emph{Compagnia di San Paolo} -- 2012-2013\\
+			\textsc{Role:} Researcher
+		\end{minipage}		
+		\minusitem   \begin{minipage}{0.65\textwidth}
+			\emph{``BioBITs -- Developing white and green biotechnologies by converging platforms from biology and information technology towards metagenomics''}, funded by \emph{Regione Piemonte} -- 2007-2011\\
+			\textsc{Role:} Researcher
+		\end{minipage}	
+		\minusitem  \begin{minipage}{0.65\textwidth}
+			\emph{``Realizzazione di modelli informatici per la valorizzazione della qualit\`a e la tracciabilit\`a delle produzioni in specie da frutto coltivate in Piemonte''}, funded by \emph{Regione Piemonte} -- 2004-2009\\
+			\textsc{Role:} Developer
+		\end{minipage}		
+	\end{itemize}
+}
+
+% --------------------------------
+% AWARDS
+
+% \dtlist{Awards}{
+% 	\vspace{-0.6cm}
+% 	\begin{itemize} %[itemsep=-0.5ex]
+% 		\minusitem \begin{minipage}{0.65\textwidth}
+% 		 \textsc{PhD fellowship} -- Three-years PhD fellowship at the School of Science and High Technology, Department of Computer Science, University of Torino (best project). Founded by Italian Minister of Education, Universty and Research (MIUR)
+% 		\end{minipage}
+% 		\minusitem \begin{minipage}{0.65\textwidth}
+% 		 \textsc{Sholarship} -- post-doctoral training grant to partecipate to conferences, workshop, courses, and schools. Founded by Regione Piemonte. %3000€
+% 		\end{minipage}
+% 	\end{itemize}
+% }
+
+% --------------------------------
+% CHALLENGES
+
+\dtlist{Participation in international challenges}{
+	\vspace{-1.0cm}
+	\begin{itemize} %[itemsep=-0.5ex]
+		\minusitem   \begin{minipage}{0.65\textwidth}
+			\emph{``BioDataHack 2018 -- Genomic, Biodata and Improving Health Outcomes''}\\
+			%\textsc{Team:} Visconti A., Jun Aruga, Oliver Giles, Ioannis Valasakis, Chen Zhang\\
+			\textsc{Rank:} 1st on the ARM, Cavium, and Atos Challenge: \emph{How can we use mobile technology to transform biological data processing?}
+		\end{minipage}
+		\minusitem   \begin{minipage}{0.65\textwidth}
+			\emph{``DREAM5 -- Network Inference Challenge''}\\
+			%\textsc{Team:} Visconti A., Esposito R., and Cordero F. (University of Torino)\\
+			\textsc{Rank:} 15th out of 29 participants when both synthetic and real network are considered, 3rd on real networks, and 1st on \emph{S. Cerevisiae}'s network
+		\end{minipage}		
+		\minusitem  \begin{minipage}{0.65\textwidth}
+			\emph{``DREAM6 -- Promoter Activity Prediction Challenge''}\\
+			%\textsc{Team:} Visconti A. (University of Torino) and Workman C.T. (Technical University of Denmark)\\
+			\textsc{Rank:} 8th out of 21 participants
+		\end{minipage}
+	\end{itemize}
+}
+
+% --------------------------------
+% RESEARCH VISIT
+
+% \dtlist{Research Visits}{
+% 	\vspace{-0.6cm}
+% 	\begin{itemize} %[itemsep=-0.5ex]
+% 		\minusitem \begin{minipage}{0.65\textwidth}
+% 		 \textsc{Jan 2015} -- visiting researcher at Weill Cornell Medical College in Qatar
+% 		\end{minipage}
+% 		\minusitem \begin{minipage}{0.65\textwidth}
+% 		 \textsc{Jun - Dec 2011} -- visiting PhD student at the Regulatory Genomics Group, Center of Biological Sequence Analysis, Systems Biology Department, Technical University of Denmark, under the supervision of Prof. C. Workman
+% 		\end{minipage}
+% 	\end{itemize}
+% }
+
+% --------------------------------
+% ADMIN
+
+\dtlist{Administrative tasks}{
+	\vspace{-0.6cm}
+	\begin{itemize}[itemsep=-0.5ex]
+		\minusitem  \emph{Nov 2016 -- present : } co-organiser of the journal club on genetic and epigenetic regulation of gene expression at the Department of Twins Research \& Genetic Epidemiology, King's College London
+		\minusitem  \emph{Jan 2012 -- Dec 2013 : } faculty member as representative of postdoctoral fellows at the Department of Computer Science, University of Torino
+		\minusitem  \emph{Jan 2009 -- Dec 2011 : } faculty member as representative of PhD students fellows at the Department of Computer Science, University of Torino
+	\end{itemize}
+}
+
+% --------------------------------
+% EXTRA
+
+\dtlist{Extracurricular activities}{
+	\vspace{-0.9cm}
+	\begin{itemize}[itemsep=-0.5ex]
+		\minusitem  \emph{Mar 2016 -- Sep 2017 : } member, tutor, and mentor of the \emph{RLadies London} community and of \emph{Researc[her] Research} community. These groups aim at promoting gender diversity in the R and STEM community via meetups, mentorship and global collaboration. With \emph{Researc[her]}, Alessia Visconti gave speeches on reproducibility, and workflow development. 
+		\minusitem \emph{Jul 2017 -- present : } member and mentor of the \emph{Artificial Intelligence Club for Gender Minorities}, which aims at promoting gender diversity in the artificial intelligence and scientific community via meetups, and mentorship. Alessia Visconti organised workshops on collaborative data science via Git and GitHub. Since May 2018, she is also co-organising the group monthly journal club.
+	\end{itemize}
+}
+
+
+\end{doubletablelist}
+
+\newpage
+
+% --------------------------------
+% REASEARCH
+% --------------------------------
+
+\mediumtitle{Synopsis of Research}
+
+\begin{itemize}
+	
+\bulletitem \smalltitle{\emph{-omics} of human diseases.}\\
+Advances in \emph{-omics} data collection created an opportunity to identify factors influencing the risk of common diseases. Alessia Visconti is mainly involved in a project aiming at dissecting the aetiology of melanoma, melanoma risk phenotypes, and their connection with ageing~\cite{Rib16,Pui16,Hys18,Vis18a,Duf17,Swi15,Rib15a}. 
+She also used systems biology and bioinformatics approaches to study cognition and neurodevelopmental disease~\cite{Joh15,Cul18}, reading and language disabilities~\cite{Gia16}, epigenetic plasticity~\cite{Car16} and modification~\cite{Zag18}, and the heritability of IgA Nephropathy~\cite{Lom16}. Alessia Visconti developed a framework for pairwise association testing in related samples~\cite{Vis16}, that has been used to perform the first epigenome-wide association study in an Arab population~\cite{AlM15}. She also studied how to conduct metagenomic studies in microbiology and clinical research~\cite{Vis18c}, and developed a novel pipeline which ensure reproducibility in metagenomics research~\cite{Vis18b} which she use to study the interplay between the human gut microbiome and the host metabolism~\cite{Vis19}.
+	
+\bulletitem \smalltitle{Reverse engineering of gene regulatory networks.}\\
+The reverse engineering problem, i.e., the inference of gene regulatory networks from data, is a cardinal task on the biological research agenda.
+Alessia Visconti worked on two approaches that allow the reverse engineering of gene regulatory networks and applied them to several organisms (\emph{E.~Coli}, \emph{S.~Cerevisiae}, \emph{S.~Pombe}). In the first approach a Naive Bayes-based framework has been developed. It merges multiple pieces of information derived from microarray experiments~\cite{Mar12, Vis11b}. In the second approach a method aiming at deciphering temporal influences among genes and proteins has been proposed~\cite{Vis12b}. 
+
+\bulletitem \smalltitle{Data mining techniques for biological data analysis.}\\
+Data mining allows the extraction of previously unknown interesting knowledge from large data sets.
+Alessia Visconti worked on two data mining methods: coclustering and biclustering. Specifically, she developed techniques that allow the exploitation of domain knowledge and multiple data sources to improve clustering results.
+These approaches have been used: \emph{i)}~to identify protein sequences characterised by common patterns~\cite{Vis08, Cor09a, Cor08b}, \emph{ii)}~to study synthenies in microorganisms~\cite{Bon11}, \emph{iii)}~to analyse RNA secondary structure~\cite{Cor08a}, and \emph{iv)}~to discover groups of genes showing similar expression profiles under the same set of experimental conditions~\cite{Vis13a, Cor09b, Vis11c, Vis12b}.
+
+\bulletitem \smalltitle{Machine learning techniques for solving biological problems.}\\
+Machine learning focuses on the development of algorithms that improve through experience. An important application of Machine Learning  is the prediction of new knowledge from patterns learnt from data. 
+Alessia Visconti leveraged and combined machine learning approaches to deal with several biological problems. Past works based on this approach comprise: \emph{i)}~the prediction of promoter activities from promoter sequences, \emph{ii)}~the identification of pharmacogenes~\cite{Vis12a, Vis12b}, and \emph{iii)}~the study of peptide-based drugs~\cite{Erm14, Vis15a, Erm13a}.
+
+\bulletitem \smalltitle{Gene Ontology restructuration.} \\
+Gene Ontology represents a collaborative effort to provide a structured vocabulary for consistent gene descriptions. Although Gene Ontology facilitates information retrieval, its structure may hide some useful knowledge, such as gene cooperation.
+Alessia Visconti worked on a restructuration of Gene Ontology, called RGO, that is useful for emphasising genes involved in the same biological process and for inferring new pieces of information about gene functions and localisation. The RGO enhances some kinds of automated analysis, such as gene profiling and clustering, statistical enrichment, as well as the evaluation of gene functional similarities~\cite{Vis11a, Vis10a, Vis12b}.
+
+\bulletitem \smalltitle{Probabilistic Graphical Models.}\\
+Probabilistic Graphical Models (PGMs) sport a rigorous theoretical foundation and provide an abstract language for modeling application domains. Answering Maximum a Posteriori queries over a PGM entails finding the assignment to the graph variables that \emph{globally} maximises the probability of an observation. 
+Alessia Visconti contributed to the development of a novel exact algorithm for answering Maximum a Posteriori queries on tree-structured PGMs~\cite{Esp13}.
+
+\end{itemize}
+
+
+\newpage
+
+% --------------------------------
+% PUBLICATIONS
+% --------------------------------
+
+\mediumtitle{Publications}
+
+{\footnotesize \noindent \emph{(~$^{\textbf{$\dag $}}$ indicates that the authors share first co-authorship)}}
+
+\vspace{0.2cm}
+
+\smalltitle{International Journal}
+
+\indentp{
+	\begin{itemize}
+		\bibitem[J20]{Cul18} Cullen H., Krishnan M.L., Selzam S., Ball G., \textbf{Visconti A.}, Saxena A., Counsell S.J., Hajnal J., Breen G., Plomin R., and Edwards, A.D. \emph{Polygenic risk for neuropsychiatric disease and vulnerability to abnormal deep grey matter development}, Scientific Reports, 2019, doi:10.1038/s41598-019-38957-1
+		\bibitem[J19]{Duf17} Duffy D., Zhu G., Li X., \dots, \textbf{Visconti, A.}, \dots, Falchi M., Han J., Martin N.G., Melanoma GWAS Consortium \emph{Novel pleiotropic risk loci for melanoma and nevus density implicate multiple biological pathways}, Nature Communications, 2018, doi: 10.1038/s41467-018-06649-5		
+		\bibitem[J18]{Vis18c} Martin T.C.$^{\textbf{$\dag $}}$, \textbf{Visconti A}$^{\textbf{$\dag $}}$ , Tim D. Spector, and Falchi M., \emph{Conducting metagenomic studies in microbiology and clinical research}, Appl Microbiol Biotechnol, 2018, doi: 10.1007/s00253-018-9209-9
+		\bibitem[J17]{Vis18b} \textbf{Visconti A}, Martin T.C., and Falchi M., \emph{YAMP: a containerised workflow enabling reproducibility in metagenomics research}, GigaScience, 2018, doi: 10.1093/gigascience/giy072
+		 \bibitem[J16]{Vis18a} \textbf{Visconti, A.}, Duffy, D., Liu, F., Zhu, G., \dots, Han, J., Bataille, V., and Falchi, M., \emph{Genome-wide association study in 176,678 Europeans reveals genetic loci for tanning response to sun exposure}, Nature Communications, 2018, doi: 10.1038/s41467-018-04086-y
+		\bibitem[J15]{Hys18}  Hysi, P.G.$^{\textbf{$\dag $}}$, Valdes, A.M.$^{\textbf{$\dag $}}$, Liu, F.$^{\textbf{$\dag $}}$, Furlotte, N.A., Evans, D.M., Bataille, V., \textbf{Visconti, A.}, \dots, Kayser, M., and Spector, T.D., \emph{Genome-wide association meta-analysis of individuals of European ancestry identifies new loci explaining a substantial fraction of hair color variation and heritability}, Nature Genetics, 2018, doi: 10.1038/s41588-018-0100-5
+ 		\bibitem[J14]{Zag18} Zaghlool, S.B., Mook-Kanamori, D.O., Kader,S., Stephan, N., Halama, A., Engelke, R., Sarwath, H., Al-Dous, E. K., Mohamoud, Y. A., Roemisch-Margl, W., Adamski, J., Kastenmüller, G., Friedrich, N., \textbf{Visconti, A.}, \dots, Malek, J.A., and Suhre K, \emph{Deep molecular phenotypes link complex disorders and physiological insult to CpG methylation}, Human Molecular Genetics, 2018, doi: 10.1093/hmg/ddy006
+		\bibitem[J13]{Vis16} \textbf{Visconti A.}, Al-Shafai M.,  Al Muftah W.A.,  Zaghlool S.B., Mangino M., Suhre K., and Falchi M., \emph{PopPAnTe: population and pedigree association testing for quantitative data}, BMC Genomics, doi: 10.1186/s12864-017-3527-7
+		\bibitem[J12]{Pui16} Puig-Butille J.A., Gimenez-Xavier P., \textbf{Visconti A.}, Nsengimana J., Garcia-Garcia F., Tell-Marti G., Escamez M.J., Newton-Bishop J.A., Bataille V., Del Rio M., Dopazo J., Falchi M, and Puig S., \emph{Genomic expression differences between cutaneous cells from red hair colour individuals and black hair colour individuals based on bioinformatic analysis.}, Oncotarget, 2016, doi:10.18632/oncotarget.14140
+		\bibitem[J11]{Rib16} Ribero S.$^{\textbf{$\dag $}}$, Sanna M.$^{\textbf{$\dag $}}$, \textbf{Visconti A.}, Navarini A., Aviv A.,Glass D., Spector T.D., Smith C., Simpson M., Barker J., Mangino M., Falchi M., and Bataille V., \emph{Acne and telomere length. A new spectrum between senescence and apoptosis pathways}, The Journal of Investigative Dermatology, 2016, doi:10.1016/j.jid.2016.09.014 
+		\bibitem[J10]{Lom16} Lomax-Browne H.J.$^{\textbf{$\dag $}}$, \textbf{Visconti A.}$^{\textbf{$\dag $}}$, Pusey C.D., Cook H.T., Spector T.D., Pickering M.C, and Falchi M, \emph{IgA Glycosylation is Heritable in Healthy Twins}, Journal of the American Society of Nephrology, 2016, doi:10.1681/ASN.2016020184 
+		\bibitem[J9]{Gia16} Gialluisi A., \textbf{Visconti A.}, Willcutt E.G., Smith S.D., Pennington B.F. Falchi M., DeFries J.C.,  Olson R.K., Francks C., and Fisher S.E., \emph{Investigating the effects of copy number variants on reading and language performance}, Journal of Neurodevelopmental Disorders, 2016, doi:10.1186/s11689-016-9147-8
+		\bibitem[J8]{AlM15} Al Muftah W.A.$^{\textbf{$\dag $}}$, Al-Shafai M.$^{\textbf{$\dag $}}$, Zaghlool S.B., \textbf{Visconti A.}, Tsai P.C., Kumar P., Spector T., Bell J., Falchi M., and Suhre K., \emph{Epigenetic associations of type 2 diabetes and BMI in an Arab population}, Clinical Epigenetics, 2016, doi:10.1186/s13148-016-0177-6
+	\end{itemize}
+}
+
+\indentp{
+	\begin{itemize}		
+		\bibitem[J7]{Joh15} Johnson M.R., Shkura K., Langley S.R., \dots, \textbf{Visconti A.}, \dots, Kaminski R.M., Deary I.J., and Petretto E., \emph{Systems genetics identifies a convergent gene network for cognition and neurodevelopmental disease}, Nature Neuroscience, doi:10.1038/nn.4205
+		\bibitem[J6]{Vis15a}\textbf{Visconti A.}, Ermondi G., Caron G., and Esposito R., \emph{Prediction and Interpretation of the Lipophilicity of Small Peptides.} Journal of Computer-Aided Molecular Design, 2015, pp. 1-10
+		\bibitem[J5]{Vis13a}\textbf{Visconti A.}, Cordero F., and Pensa R.G., \emph{Leveraging additional knowledge to support coherent bicluster discovery in gene expression data.} Intelligent Data Analysis, 18:5, 2014, pp. 837-855
+		\bibitem[J4]{Erm14}Ermondi G., \textbf{Visconti A.}, Esposito R., and Caron G., \emph{The Block Relevance (BR) analysis supports the dominating effect of solutes hydrogen bond acidity on $\Delta \log P_{\text{oct-tol}}$.} European Journal of Pharmaceutical Sciences, 53, 2014, pp. 50-45
+		\bibitem[J3]{Mar12} Marbach D., Costello J.C., K\"{u}ffner R., Vega N., Prill R.J., Camacho D., Allison K.R., \dots, \textbf{Visconti A.}, \dots, Kellis M., Collins J.J., and Stolovitzky G., \emph{Wisdom of crowds for robust gene network inference.} Nature Methods, Vol. 9, 2012, pp. 796-804		
+		\bibitem[J2]{Vis11a} \textbf{Visconti A.}, Esposito R., and Cordero F., \emph{Restructuring the Gene Ontology to Emphasize Regulative Pathways and to Improve Gene Similarity Queries.} Int. J. Computational Biology and Drug Design, Vol. 4, No. 3, 2011, Inderscience Publishers, pp. 220-238
+		\bibitem[J1]{Bon11} Bonfante P., Cordero F., Ghignone S., Ienco D., Lanfranco L., Leonardi G., Meo R., Montani S., Roversi L., and \textbf{Visconti A.}, \emph{A Modular Database Architecture Enabled to Comparative Sequence Analysis.} LNCS Transactions on Large-Scale Data- and Knowledge-Centered Systems - TLDKS IV, LNCS 6990, 2011, Springer, pp. 124-147 
+	\end{itemize}
+}
+
+\vspace{0.4cm}
+% \newpage
+
+\smalltitle{In proceeding}
+
+\indentp{
+	\begin{itemize}
+		\bibitem[P5]{Esp13} Esposito R, Radicioni D.P., and \textbf{Visconti A.}, \emph{CDoT: optimizing MAP queries on trees.} In proceedings of AI*IA 2013: Advances in Artificial Intelligence, XIIIth Int. Conf. of the Italian Association for Artificial Intelligence, Torino, December 4-6, 2013, LNAI 8249, pp. 481--492. Springer	
+		\bibitem[P4]{Vis11b}  \textbf{Visconti A.}, Esposito R., and Cordero F., \emph{Tackling the DREAM Challenge for Gene Regulatory Networks Reverse Engineering.} In Proceedings of AI*IA 2011: Artificial Intelligence Around Man and Beyond, XIIth Int. Conf. of the Italian Association for Artificial Intelligence - Palermo, September 15-17, 2011, LNAI 6934, pp. 373-383, Springer 
+		\bibitem[P3]{Vis10a} \textbf{Visconti A.}, Cordero F., Botta M., Calogero R.A., \emph{Gene Ontology rewritten for computing gene functional similarity.} In Proceedings of the Fourth International Conferences on Complex, Intelligent and Software Intensive Systems, February 15-18, 2010, IEEE Computer Society Press, pp. 694-699
+		\bibitem[P2]{Cor09b} Cordero F., Pensa R.G, \textbf{Visconti A.}, Ienco D. and  Botta M., \emph{Ontology-driven Co-clustering of Gene Expression Data.} In proceedings of AI*IA 2009: Emergent Perspectives in Artificial Intelligence, XI Int. Conf. of the Italian Association for Artificial Intelligence - Reggio Emilia, December 9-12, 2009, LNAI 5883, pp. 426-435, Springer
+		\bibitem[P1]{Cor09a} Cordero F., \textbf{Visconti A.}, and Botta M., \emph{A new protein motif extraction framework based on constrained co-clustering.} In Proceedings of the 24th Annual ACM Symposium on Applied Computing - March 8-12, 2009, ACM Press, pp. 776-781
+	\end{itemize}
+}
+
+\vspace{0.4cm}
+% \newpage
+
+\smalltitle{Book Chapters}
+
+\indentp{
+	\begin{itemize}
+		\bibitem[BC1]{Vis11c} \textbf{Visconti A.}, Cordero F., Ienco D., and Pensa R.G., \emph{Coclustering under Gene Ontology Derived Constraints for Pathway Identification.} Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, John Wiley \& Sons, pp. 625-642
+	\end{itemize}
+}
+
+% \vspace{0.2cm}
+\newpage
+
+\smalltitle{Pre Prints}
+
+\indentp{
+	\begin{itemize}
+		\bibitem[PP1]{Vis19} \textbf{Visconti A.}$^{\textbf{$\dag $}}$, Le Roy C.I.$^{\textbf{$\dag $}}$, Rosa F., Rossi N., Martin T.C., Mohney R.P., Li W., de Rinaldis E., Bell J.T., Venter J.C., Nelson K.E., Spector T.D., and Falchi M., \emph{Interplay between the human gut microbiome and host metabolism}, bioRxiv, 2019, doi: 10.1101/561787
+
+	\end{itemize}
+}
+
+% \newpage
+\vspace{0.2cm}
+
+\smalltitle{Selected Abstracts and Posters}
+
+\indentp{
+	\begin{itemize}
+		\bibitem[A7]{Car16} Carnero-Montoro E., \textbf{Visconti A.}, Sacco C, Tsai P.C, Spector T.D, Falchi M., and Bell J.T., \emph{Environmentally-induced epigenetic variability is associated with metabolic traits}, American Society of Human Genetics, October 2016
+		\bibitem[A6]{Rib15a} Ribero S., \textbf{Visconti A.}, Sanna M., Glass D., Spector T.D. Bataille V., and Mario F., \emph{Heritability of melanoma risk factors: variable contribution of naevogenic genes towards the variance in naevus counts according to body sites with effects on heritability.} European Association of Dermato-Oncology, Marseille, October 2015
+		\bibitem[A5]{Swi15} \'Swistak M., \textbf{Visconti A.}, Falchi M., Bataille V., and Spector T.D., \emph{Differential expression and coexpression analysis across multiple tissues in twins.} EMBO Young Scientists Forum, Warsaw, July 2015, pp. 192	
+		\bibitem[A4]{Erm13a} Ermondi G., Esposito R., \textbf{Visconti A.}, Visentin S., Vallaro M., Rinaldi L, and Caron G., \emph{Application of in-silico ``classical'' drug discovery tools to peptide research.} NovAliX Conference 2013, Biophysics in drug discovery, Strasbourg, October 2013, pp. P14
+		\bibitem[A3]{Vis12a} \textbf{Visconti A.}, Calogero R.A, and Cordero F., \emph{Improving biomarker discovering for chemosensitivity prediction using an integrated approach.} 9th Annual Meeting of the Italian Society of Bioinformatics (BITS), EMBnet.journal, Supplement A, April 2012, pp. 24	
+		\bibitem[A2]{Cor08b} Cordero F., \textbf{Visconti A.}, and Botta M., \emph{A web interface to extract protein motif by constrained co-clustering.} RECOMB Regulatory Genomics 2008, Boston, October 23-November 3, 2008.
+		\bibitem[A1]{Cor08a} Cordero F., \textbf{Visconti A.}, and Botta M., \emph{A motif extraction framework applied on RNA secondary structure.} Alternative Splicing Workshop - Milano, October 3, 2008.
+\end{itemize}
+}
+
+% \newpage
+\vspace{0.2cm}
+
+\smalltitle{Thesis}
+
+\indentp{
+\begin{itemize}
+	\bibitem[T2]{Vis12b} \textbf{Visconti A.}, \emph{Systems Biology: Knowledge Discovery and Reverse Engineering.} PhD Thesis, Doctoral School in Science and High Technology, University of Turin, 2012.
+	\bibitem[T1]{Vis08} \textbf{Visconti A.}, \emph{SPOT: an algorithm for the extraction and the analysis of biological patterns.} Master Thesis, Department of Computer Science, University of Turin, 2008.
+\end{itemize}
+}
+
+\newpage
+% \vspace{0.2cm}
+
+% --------------------------------
+% SOFTWARE
+% --------------------------------
+
+\mediumtitle{Software}
+
+{\small \noindent The software is available at \url{http://compbio.di.unito.it}, \url{http://twinsuk.ac.uk/resources-for-researchers/software/}, \url{https://github.com/alesssia}, or upon request.}
+
+\vspace{0.2cm}
+
+\begin{doubletablelist}
+	\dtlist{AID-ISA}{extracts biologically relevant biclusters from microarray gene expression data by leveraging additional knowledge}
+	\dtlist{CDoT}{is a novel exact algorithm for answering Maximum a Posteriori queries on tree-structured Probabilistic Graphical Models}
+	\dtlist{famCNV (v2.0)}{enables genome-wide association of copy number variants with quantitative phenotypes in families}
+	\dtlist{GOClust}{performs a coclustering of microarray gene expression data by means of Gene Ontology-derived constraints}
+	\dtlist{MotifsLinker}{associates clusters of proteins with their frequent motifs}
+	\dtlist{PopPAnTe}{enables pairwise association testing in related samples}
+	\dtlist{RGO}{is a reorganization of the Gene Ontology emphasing regulative information and providing better structure for gene functional analysis}
+	\dtlist{SPOT}{performs an exhaustive search of frequent motifs in sets of biological sequences}
+	\dtlist{YAMP}{allows processing raw metagenomic sequencing data up to the functional annotation}
+\end{doubletablelist}
+
+\begin{flushright}
+London, \today
+\end{flushright}
+
+\end{document}
+
