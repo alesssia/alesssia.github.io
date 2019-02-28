@@ -7,12 +7,12 @@ title: Publications
   [[Journals]](#journals)
 | [[In proceedings]](#in-proceedings)
 | [[Book Chapters]](#book-chapters)
-<!-- | [[Pre Prints]](#pre-prints) -->
+| [[Pre Prints]](#pre-prints)
 | [[Selected Abstracts and Posters]](#selected-abstracts-and-posters)
 | [[Thesis]](#thesis)
 
 
-- <sup>†</sup> means that the authors contributed equally to the work
+<sup>†</sup> means that the authors contributed equally to the work
 
 ###  Journals
 
@@ -75,14 +75,16 @@ title: Publications
 
 - **Visconti A.**, Cordero F., Ienco D., and Pensa R.G., *Coclustering under Gene Ontology Derived Constraints for Pathway Identification*, Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, John Wiley & Sons, pp. 625-642, [doi:10.1002/9781118617151.ch27](http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch27/summary)
 
-<!-- ### Pre Prints -->
+### Pre Prints
+
+-  **Visconti A.**<sup>†</sup>, Le Roy C.I.<sup>†</sup>, Rosa F., Rossi N., Martin T.C., Mohney R.P., Li W., de Rinaldis E., Bell J.T., Venter J.C., Nelson K.E., Spector T.D., and Falchi M., *Interplay between the human gut microbiome and host metabolism*, bioRxiv, 2019, [doi:10.1101/561787](https://www.biorxiv.org/content/10.1101/561787v1)
 
 
 ### Selected Abstracts and Posters
 
 - Carnero-Montoro E., **Visconti A.**, Sacco C, Tsai P.C, Spector T.D, Falchi M., and Bell J.T.,  *Environmentally-induced epigenetic variability is associated with metabolic traits*, American Society of Human Genetics, October 2016
 
-- Ribero S., **Visconti A.**, Sanna M., Glass D., Spector T.D. Bataille V., and Falchi M., *Heritability of melanoma risk factors: variable contribution of naevogenic genes towards the variance in naevus counts according to body sites with effects on heritability*, European Association of Dermato Oncology, Marseille, October 2015
+- Ribero S., **Visconti A.**, Sanna M., Glass D., Spector T.D. Bataille V., and Falchi M., *Heritability of melanoma risk factors: variable contribution of naevogenic genes towards the variance in naevus counts according to body sites with effects on heritability*, European Association of Dermato-Oncology, Marseille, October 2015
 		
 - Swistak M., **Visconti A.**, Falchi M., Bataille V., and Spector T.D., *Differential expression and coexpression analysis across multiple tissues in twins*, EMBO Young Scientists Forum, Warsaw, July 2015, pp. 192
 			
