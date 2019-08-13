@@ -16,8 +16,9 @@ title: Publications
 
 ###  Journals
 
-- Cullen H., Krishnan M.L., Selzam S., Ball G., **Visconti A**, Saxena A., Counsell S.J., Hajnal J., Breen G., Plomin R. & Edwards A.D., 
-*Polygenic risk for neuropsychiatric disease and vulnerability to abnormal deep grey matter development*, Scientific Reports, 2019, [doi:10.1038/s41598-019-38957-1](https://doi.org/10.1038/s41598-019-38957-1)
+- **Visconti A.**, Ribero S., Sanna M., Spector T.D. Bataille V., and Falchi M., *Body site‐specific genetic effects influence naevus count distribution in women*, Pigmented Cell & Melanoma Research, 2019, [doi:10.1111/pcmr.12820](https://doi.org/10.1111/pcmr.12820)
+
+- Cullen H., Krishnan M.L., Selzam S., Ball G., **Visconti A**, Saxena A., Counsell S.J., Hajnal J., Breen G., Plomin R. & Edwards A.D., *Polygenic risk for neuropsychiatric disease and vulnerability to abnormal deep grey matter development*, Scientific Reports, 2019, [doi:10.1038/s41598-019-38957-1](https://doi.org/10.1038/s41598-019-38957-1)
 
 - Duffy D., Zhu G., Li X., ..., **Visconti A.**, ... Falchi M., Han J., Martin N.G., Melanoma GWAS Consortium *Novel pleiotropic risk loci for melanoma and nevus density implicate multiple biological pathways*, Nature Communications, 2018, [doi:10.1038/s41467-018-06649-5](https://doi.org/10.1038/s41467-018-06649-5)
 		
@@ -85,8 +86,6 @@ title: Publications
 ### Selected Abstracts and Posters
 
 - Carnero-Montoro E., **Visconti A.**, Sacco C, Tsai P.C, Spector T.D, Falchi M., and Bell J.T.,  *Environmentally-induced epigenetic variability is associated with metabolic traits*, American Society of Human Genetics, October 2016
-
-- Ribero S., **Visconti A.**, Sanna M., Glass D., Spector T.D. Bataille V., and Falchi M., *Heritability of melanoma risk factors: variable contribution of naevogenic genes towards the variance in naevus counts according to body sites with effects on heritability*, European Association of Dermato-Oncology, Marseille, October 2015
 		
 - Swistak M., **Visconti A.**, Falchi M., Bataille V., and Spector T.D., *Differential expression and coexpression analysis across multiple tissues in twins*, EMBO Young Scientists Forum, Warsaw, July 2015, pp. 192
 			
