@@ -16,6 +16,8 @@ title: Publications
 
 ###  Journals
 
+- **Visconti A.**<sup>†</sup>, Le Roy C.I.<sup>†</sup>, Rosa F., Rossi N., Martin T.C., Mohney R.P., Li W., de Rinaldis E., Bell J.T., Venter J.C., Nelson K.E., Spector T.D., and Falchi M., *Interplay between the human gut microbiome and host metabolism*, Nature Communications, 2019, [doi:10.1038/s41467-019-12476-z](https://www.nature.com/articles/s41467-019-12476-z)
+
 - **Visconti A.**, Ribero S., Sanna M., Spector T.D. Bataille V., and Falchi M., *Body site‐specific genetic effects influence naevus count distribution in women*, Pigmented Cell & Melanoma Research, 2019, [doi:10.1111/pcmr.12820](https://doi.org/10.1111/pcmr.12820)
 
 - Cullen H., Krishnan M.L., Selzam S., Ball G., **Visconti A**, Saxena A., Counsell S.J., Hajnal J., Breen G., Plomin R. & Edwards A.D., *Polygenic risk for neuropsychiatric disease and vulnerability to abnormal deep grey matter development*, Scientific Reports, 2019, [doi:10.1038/s41598-019-38957-1](https://doi.org/10.1038/s41598-019-38957-1)
@@ -80,7 +82,6 @@ title: Publications
 
 - Martin T.C., Illieva K.M., **Visconti A.**, Beaumont M., Kiddle S.J., Dobson R.J.B., Mangino M., Lim E.M., Pezer M., Steves C.J., Bell J.T., Wilson S.G., Lauc G., Roederer M., Walsh J.P., Spector T.D., Karagiannis S.N., *Multi-omic analyses reveal antibody-dependent natural killer cell-mediated cytotoxicity in autoimmune thyroid diseases*, bioRxiv, 2019, [doi:10.1101/662957](https://www.biorxiv.org/content/10.1101/662957v1)
 
-- **Visconti A.**<sup>†</sup>, Le Roy C.I.<sup>†</sup>, Rosa F., Rossi N., Martin T.C., Mohney R.P., Li W., de Rinaldis E., Bell J.T., Venter J.C., Nelson K.E., Spector T.D., and Falchi M., *Interplay between the human gut microbiome and host metabolism*, bioRxiv, 2019, [doi:10.1101/561787](https://www.biorxiv.org/content/10.1101/561787v1)
 
 
 ### Selected Abstracts and Posters
