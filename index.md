@@ -18,9 +18,11 @@ Westminster Bridge Road, London SE1 7EH
 
 Alessia Visconti received her M.Sc. degree in Computer Science in 2008, and her PhD in Science and High Technology (Computational Biology) in 2012, both at the University of Torino.
 
-Currently, she is a research fellow at the [Department of Twin Research and Genetic Epidemiology](http://www.twinsuk.ac.uk/), King's College London (where she is member of the Computational Biology Group), and an honorary research associate at [the CERN OpenLab](http://openlab.cern/), CERN. 
+Currently, she is a research fellow at the [Department of Twin Research & Genetic Epidemiology](http://www.twinsuk.ac.uk/), King's College London, where she is member of the Computational Biology Group. 
 
-Previously, she had been a research associate at the Department of Genomics of Common Disease, School of Public Health, Imperial College London, and a postdoctoral fellow at the Department of Computer Science, University of Torino, where she was a member of the [Computational Biology Group](http://compbio.di.unito.it) and of the [Machine Learning and Data Mining Group](http://mldm.di.unito.it).
+Previously, she had been a research associate at the Department of Genomics of Common Disease, School of Public Health, Imperial College London, an honorary research associate at [the CERN OpenLab](http://openlab.cern/), CERN, and a postdoctoral fellow at the Department of Computer Science, University of Torino, where she was a member of the [Computational Biology Group](http://compbio.di.unito.it) and of the [Machine Learning and Data Mining Group](http://mldm.di.unito.it). 
+
+She is a certified [Carpentries](https://carpentries.org/) Instructor.
 
 ## Curriculum Vitae
 
