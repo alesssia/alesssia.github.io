@@ -7,14 +7,17 @@ title: Publications
   [[Journals]](#journals)
 | [[In proceedings]](#in-proceedings)
 | [[Book Chapters]](#book-chapters)
-| [[Pre Prints]](#pre-prints)
 | [[Selected Abstracts and Posters]](#selected-abstracts-and-posters)
 | [[Thesis]](#thesis)
-
+<!-- | [[Pre Prints]](#pre-prints) -->
 
 <sup>†</sup> means that the authors contributed equally to the work
 
 ###  Journals
+
+- **Visconti A.**, Sanna M., Bataille V., and Mario F., *Genetics plays a role in nevi distribution in women*, Melanoma Management, 2020, [doi:10.2217/mmt-2019-0019](https://www.futuremedicine.com/doi/10.2217/mmt-2019-0019) [Invited editorial]
+
+- Martin T.C., Illieva K.M., **Visconti A.**, Beaumont M., Kiddle S.J., Dobson R.J.B., Mangino M., Lim E.M., Pezer M., Steves C.J., Bell J.T., Wilson S.G., Lauc G., Roederer M., Walsh J.P., Spector T.D., Karagiannis S.N., *Dysregulated Antibody, Natural Killer Cell and Immune Mediator Profiles in Autoimmune Thyroid Diseases*, MDPI Cells, 2020, [doi:10.3390/cells9030665](https://www.mdpi.com/2073-4409/9/3/665)
 
 - **Visconti A.**<sup>†</sup>, Le Roy C.I.<sup>†</sup>, Rosa F., Rossi N., Martin T.C., Mohney R.P., Li W., de Rinaldis E., Bell J.T., Venter J.C., Nelson K.E., Spector T.D., and Falchi M., *Interplay between the human gut microbiome and host metabolism*, Nature Communications, 2019, [doi:10.1038/s41467-019-12476-z](https://www.nature.com/articles/s41467-019-12476-z)
 
@@ -78,10 +81,7 @@ title: Publications
 
 - **Visconti A.**, Cordero F., Ienco D., and Pensa R.G., *Coclustering under Gene Ontology Derived Constraints for Pathway Identification*, Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, John Wiley & Sons, pp. 625-642, [doi:10.1002/9781118617151.ch27](http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch27/summary)
 
-### Pre Prints
-
-- Martin T.C., Illieva K.M., **Visconti A.**, Beaumont M., Kiddle S.J., Dobson R.J.B., Mangino M., Lim E.M., Pezer M., Steves C.J., Bell J.T., Wilson S.G., Lauc G., Roederer M., Walsh J.P., Spector T.D., Karagiannis S.N., *Multi-omic analyses reveal antibody-dependent natural killer cell-mediated cytotoxicity in autoimmune thyroid diseases*, bioRxiv, 2019, [doi:10.1101/662957](https://www.biorxiv.org/content/10.1101/662957v1)
-
+<!-- ### Pre Prints -->
 
 
 ### Selected Abstracts and Posters
