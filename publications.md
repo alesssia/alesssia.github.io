@@ -15,6 +15,8 @@ title: Publications
 
 ###  Journals
 
+-  Landi M.T., Bishop D.T., MacGregor S., ..., **Visconti A.**, ..., Shi J., Iles M.M. and Law M.H., *Genome-wide association meta-analyses combining multiple risk phenotypes provide insights into the genetic architecture of cutaneous melanoma susceptibility*, Nature Genetics, 2020, [doi:10.1038/s41588-020-0611-8](https://www.nature.com/articles/s41588-020-0611-8)	
+
 - **Visconti A.**, Sanna M., Bataille V., and Mario F., *Genetics plays a role in nevi distribution in women*, Melanoma Management, 2020, [doi:10.2217/mmt-2019-0019](https://www.futuremedicine.com/doi/10.2217/mmt-2019-0019) [Invited editorial]
 
 - Martin T.C., Illieva K.M., **Visconti A.**, Beaumont M., Kiddle S.J., Dobson R.J.B., Mangino M., Lim E.M., Pezer M., Steves C.J., Bell J.T., Wilson S.G., Lauc G., Roederer M., Walsh J.P., Spector T.D., Karagiannis S.N., *Dysregulated Antibody, Natural Killer Cell and Immune Mediator Profiles in Autoimmune Thyroid Diseases*, MDPI Cells, 2020, [doi:10.3390/cells9030665](https://www.mdpi.com/2073-4409/9/3/665)
