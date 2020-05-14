@@ -15,7 +15,9 @@ title: Publications
 
 ###  Journals
 
--  Landi M.T., Bishop D.T., MacGregor S., ..., **Visconti A.**, ..., Shi J., Iles M.M. and Law M.H., *Genome-wide association meta-analyses combining multiple risk phenotypes provide insights into the genetic architecture of cutaneous melanoma susceptibility*, Nature Genetics, 2020, [doi:10.1038/s41588-020-0611-8](https://www.nature.com/articles/s41588-020-0611-8)	
+- Menni, C., Valdes, A. M., Freidin, M. B., Sudre, C. H., Nguyen, L. H., Drew, D. A., Ganesh, S., Varsavsky, T., Cardoso, M. J., El-Sayed Moustafa, J. S., **Visconti, A.**, Hysi, P., Bowyer, R. C. E., Mangino, M., Falchi, M., Wolf, J., Ourselin, S., Chan, A. T., Steves, C. J., and Spector, T. D., *Real-time tracking of self-reported symptoms to predict potential COVID-19*, Nature Medicine, 2020, [doi:10.1038/s41591-020-0916-2](https://www.nature.com/articles/s41591-020-0916-2)
+
+- Landi M.T., Bishop D.T., MacGregor S., ..., **Visconti A.**, ..., Shi J., Iles M.M. and Law M.H., *Genome-wide association meta-analyses combining multiple risk phenotypes provide insights into the genetic architecture of cutaneous melanoma susceptibility*, Nature Genetics, 2020, [doi:10.1038/s41588-020-0611-8](https://www.nature.com/articles/s41588-020-0611-8)	
 
 - **Visconti A.**, Sanna M., Bataille V., and Mario F., *Genetics plays a role in nevi distribution in women*, Melanoma Management, 2020, [doi:10.2217/mmt-2019-0019](https://www.futuremedicine.com/doi/10.2217/mmt-2019-0019) [Invited editorial]
 
