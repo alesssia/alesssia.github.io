@@ -15,6 +15,8 @@ title: Publications
 
 ###  Journals
 
+- Scarfi F., Orozco A.P., **Visconti A.**, and Bataille V., *An Aggressive Clinical Presentation of Familial Leiomyomatosis Associated with a Fumarate Hydratase Gene Variant of Uncertain Clinical Significance*, Acta Dermato-venereologica, 2020, [doi:10.2340/00015555-3573](https://www.medicaljournals.se/acta/content/abstract/10.2340/00015555-3573)
+
 - Menni, C., Valdes, A. M., Freidin, M. B., Sudre, C. H., Nguyen, L. H., Drew, D. A., Ganesh, S., Varsavsky, T., Cardoso, M. J., El-Sayed Moustafa, J. S., **Visconti, A.**, Hysi, P., Bowyer, R. C. E., Mangino, M., Falchi, M., Wolf, J., Ourselin, S., Chan, A. T., Steves, C. J., and Spector, T. D., *Real-time tracking of self-reported symptoms to predict potential COVID-19*, Nature Medicine, 2020, [doi:10.1038/s41591-020-0916-2](https://www.nature.com/articles/s41591-020-0916-2)
 
 - Landi M.T., Bishop D.T., MacGregor S., ..., **Visconti A.**, ..., Shi J., Iles M.M. and Law M.H., *Genome-wide association meta-analyses combining multiple risk phenotypes provide insights into the genetic architecture of cutaneous melanoma susceptibility*, Nature Genetics, 2020, [doi:10.1038/s41588-020-0611-8](https://www.nature.com/articles/s41588-020-0611-8)	
