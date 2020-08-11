@@ -9,7 +9,7 @@ title: Publications
 | [[Book Chapters]](#book-chapters)
 | [[Selected Abstracts and Posters]](#selected-abstracts-and-posters)
 | [[Thesis]](#thesis)
-<!-- | [[Pre Prints]](#pre-prints) -->
+| [[Pre Prints]](#pre-prints)
 
 <sup>†</sup> means that the authors contributed equally to the work
 
@@ -55,7 +55,7 @@ title: Publications
 		
 - Al Muftah W.A.<sup>†</sup>, Al-Shafai M.<sup>†</sup>, Zaghlool S.B., **Visconti A.**, Tsai P.C., Kumar P., Spector T., Bell J., Falchi M., and Suhre K., *Epigenetic associations of type 2 diabetes and BMI in an Arab population*, Clinical Epigenetics, 2016, [doi:10.1186/s13148-016-0177-6](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-016-0177-6)
 		
-- Johnson M.R., Shkura K., Langley S.R., ..., **Visconti A.**, ..., Kaminski R.M., Deary I.J., and Petretto E., *Systems genetics identifies a convergent gene network for cognition and neurodevelopmental disease*, Nature Neuroscience, [doi:10.1038/nn.4205](http://www.nature.com/neuro/journal/v19/n2/abs/nn.4205.html)
+- Johnson M.R., Shkura K., Langley S.R., ..., **Visconti A.**, ..., Kaminski R.M., Deary I.J., and Petretto E., *Systems genetics identifies a convergent gene network for cognition and neurodevelopmental disease*, Nature Neuroscience, 2015 [doi:10.1038/nn.4205](http://www.nature.com/neuro/journal/v19/n2/abs/nn.4205.html)
 		
 - **Visconti A.**, Ermondi G., Caron G., and Esposito R., *Prediction and Interpretation of the Lipophilicity of Small Peptides.*,  Journal of Computer-Aided Molecular Design, 2015, pp. 1-10 [doi:10.1007/s10822-015-9829-4](https://link.springer.com/article/10.1007%2Fs10822-015-9829-4)
 	
@@ -87,7 +87,9 @@ title: Publications
 
 - **Visconti A.**, Cordero F., Ienco D., and Pensa R.G., *Coclustering under Gene Ontology Derived Constraints for Pathway Identification*, Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, John Wiley & Sons, pp. 625-642, [doi:10.1002/9781118617151.ch27](http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch27/summary)
 
-<!-- ### Pre Prints -->
+### Pre Prints
+
+- Bataille V.<sup>†</sup>, **Visconti A<sup>†</sup>**,, Rossi N., Murray B., Bournot A., Wolf J., Ourselin S., Steves C., Spector T.D., and Falchi M., *Diagnostic value of skin manifestation of SARS-CoV-2 infection*, medRxiv, 2020 [doi:10.1101/2020.07.10.20150656](https://www.medrxiv.org/content/10.1101/2020.07.10.20150656v1)
 
 
 ### Selected Abstracts and Posters
