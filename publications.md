@@ -15,6 +15,8 @@ title: Publications
 
 ###  Journals
 
+- Sanna M.<sup>†</sup>, Li X.<sup>†</sup>, **Visconti A.**, Freidin M. B., Sacco C., Ribero S., Hysi P., Bataille V., Han J., and Falchi M., *Looking for Sunshine: Genetic Predisposition to Sun-Seeking in 265,000 Individuals of European Ancestry*, Journal of Investigative Dermatology, 2020, [doi:10.1016/j.jid.2020.08.014](https://www.jidonline.org/article/S0022-202X(20)32049-2/fulltext)
+
 - Scarfi F., Orozco A.P., **Visconti A.**, and Bataille V., *An Aggressive Clinical Presentation of Familial Leiomyomatosis Associated with a Fumarate Hydratase Gene Variant of Uncertain Clinical Significance*, Acta Dermato-venereologica, 2020, [doi:10.2340/00015555-3573](https://www.medicaljournals.se/acta/content/abstract/10.2340/00015555-3573)
 
 - Menni, C., Valdes, A. M., Freidin, M. B., Sudre, C. H., Nguyen, L. H., Drew, D. A., Ganesh, S., Varsavsky, T., Cardoso, M. J., El-Sayed Moustafa, J. S., **Visconti, A.**, Hysi, P., Bowyer, R. C. E., Mangino, M., Falchi, M., Wolf, J., Ourselin, S., Chan, A. T., Steves, C. J., and Spector, T. D., *Real-time tracking of self-reported symptoms to predict potential COVID-19*, Nature Medicine, 2020, [doi:10.1038/s41591-020-0916-2](https://www.nature.com/articles/s41591-020-0916-2)
