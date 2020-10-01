@@ -15,7 +15,11 @@ title: Publications
 
 ###  Journals
 
+- Zazzara M.B., Penfold R.S., Roberts A.L., Lee, K.A., Dooley H., Sudre C.H., Welch C., Bowyer R.C.E, **Visconti A.**, ..., Martin F.C., Steves C.J., Lochlainn M.N., *Probable delirium is a presenting symptom of COVID-19 in frail, older adults: a cohort study of 322 hospitalised and 535 community-based older adults*, Age and Ageing, 2020, [doi:10.1093/ageing/afaa223](https://doi.org/10.1093/ageing/afaa223)
+
 - Sanna M.<sup>†</sup>, Li X.<sup>†</sup>, **Visconti A.**, Freidin M. B., Sacco C., Ribero S., Hysi P., Bataille V., Han J., and Falchi M., *Looking for Sunshine: Genetic Predisposition to Sun-Seeking in 265,000 Individuals of European Ancestry*, Journal of Investigative Dermatology, 2020, [doi:10.1016/j.jid.2020.08.014](https://www.jidonline.org/article/S0022-202X(20)32049-2/fulltext)
+
+- Lee K.A., Ma W., Sikavi D.R., ..., **Visconti A.**, ..., Ourselin S., Spector T.D., and Chan A.T., COPE consortium, *Cancer and Risk of COVID-19 Through a General Community Survey*, Oncologist, 2020, [doi:10.1634/theoncologist.2020-0572](https://theoncologist.onlinelibrary.wiley.com/doi/full/10.1634/theoncologist.2020-0572)
 
 - Scarfi F., Orozco A.P., **Visconti A.**, and Bataille V., *An Aggressive Clinical Presentation of Familial Leiomyomatosis Associated with a Fumarate Hydratase Gene Variant of Uncertain Clinical Significance*, Acta Dermato-venereologica, 2020, [doi:10.2340/00015555-3573](https://www.medicaljournals.se/acta/content/abstract/10.2340/00015555-3573)
 
