@@ -15,7 +15,9 @@ title: Publications
 
 ###  Journals
 
-- Zazzara M.B., Penfold R.S., Roberts A.L., Lee, K.A., Dooley H., Sudre C.H., Welch C., Bowyer R.C.E, **Visconti A.**, ..., Martin F.C., Steves C.J., Lochlainn M.N., *Probable delirium is a presenting symptom of COVID-19 in frail, older adults: a cohort study of 322 hospitalised and 535 community-based older adults*, Age and Ageing, 2020, [doi:10.1093/ageing/afaa223](https://doi.org/10.1093/ageing/afaa223)
+- Bar N., Korem T., Weissbrod O., Zeevi D., Rothschild D., Leviatan S., Kosower N., Lotan-Pompan M., Weinberger A., Le Roy C.I., Menni C., **Visconti A.**, Falchi M., Spector T.D., The IMI DIRECT consortium, Adamski J., Franks P.W., Pedersen O. and Segal E., *A reference map of potential determinants for the human serum metabolome*, Nature, 2020, [10.1038/s41586-020-2896-2](https://www.nature.com/articles/s41586-020-2896-2)
+
+- Zazzara M.B., Penfold R.S., Roberts A.L., Lee, K.A., Dooley H., Sudre C.H., Welch C., Bowyer R.C.E, **Visconti A.**, ..., Martin F.C., Steves C.J., and Lochlainn M.N., *Probable delirium is a presenting symptom of COVID-19 in frail, older adults: a cohort study of 322 hospitalised and 535 community-based older adults*, Age and Ageing, 2020, [doi:10.1093/ageing/afaa223](https://doi.org/10.1093/ageing/afaa223)
 
 - Sanna M.<sup>†</sup>, Li X.<sup>†</sup>, **Visconti A.**, Freidin M. B., Sacco C., Ribero S., Hysi P., Bataille V., Han J., and Falchi M., *Looking for Sunshine: Genetic Predisposition to Sun-Seeking in 265,000 Individuals of European Ancestry*, Journal of Investigative Dermatology, 2020, [doi:10.1016/j.jid.2020.08.014](https://www.jidonline.org/article/S0022-202X(20)32049-2/fulltext)
 
