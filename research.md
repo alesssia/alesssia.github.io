@@ -4,8 +4,8 @@ title: Research Interests
 ---
 
 
-- Computational Biology
-- *-omics* data analysis
+- Computational Biology & Medicine
+- Big data
 - Machine Learning & Data Mining
 - Scientific Software Development
 

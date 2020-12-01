@@ -6,12 +6,12 @@ highlighter: rouge
 permalink:   pretty
 
 # Setup
-title:       Alessia Visconti
+title:       Dr Alessia Visconti
 tagline:     ''
-description: 'Computational Biologist, PhD'
+description: 'Research Fellow in Computational Medicine'
 url:         http://alesssia.github.io/
 baseurl:     /
-lastmod:    '20201113'
+lastmod:    '20201201'
 
 author:
   name:      'Alessia Visconti'
