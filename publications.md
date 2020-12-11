@@ -11,35 +11,36 @@ title: Publications
 | [[Thesis]](#thesis)
 | [[Pre Prints]](#pre-prints)
 
-<sup>†</sup> means that the authors contributed equally to the work
+<sup>†</sup> means that the authors contributed equally to the work<br/>
+<sup>‡</sup> means that the authors jointly supervised the work
 
 ###  Journals
 
-- Bar N., Korem T., Weissbrod O., Zeevi D., Rothschild D., Leviatan S., Kosower N., Lotan-Pompan M., Weinberger A., Le Roy C.I., Menni C., **Visconti A.**, Falchi M., Spector T.D., The IMI DIRECT consortium, Adamski J., Franks P.W., Pedersen O. and Segal E., *A reference map of potential determinants for the human serum metabolome*, Nature, 2020, [10.1038/s41586-020-2896-2](https://www.nature.com/articles/s41586-020-2896-2)
+- Bar N.<sup>†</sup>, Korem T.<sup>†</sup>, Weissbrod O., Zeevi D., Rothschild D., Leviatan S., Kosower N., Lotan-Pompan M., Weinberger A., Le Roy C.I., Menni C., **Visconti A.**, Falchi M., Spector T.D., The IMI DIRECT consortium, Adamski J., Franks P.W., Pedersen O. and Segal E., *A reference map of potential determinants for the human serum metabolome*, Nature, 2020, [10.1038/s41586-020-2896-2](https://www.nature.com/articles/s41586-020-2896-2)
 
-- Zazzara M.B., Penfold R.S., Roberts A.L., Lee, K.A., Dooley H., Sudre C.H., Welch C., Bowyer R.C.E, **Visconti A.**, ..., Martin F.C., Steves C.J., and Lochlainn M.N., *Probable delirium is a presenting symptom of COVID-19 in frail, older adults: a cohort study of 322 hospitalised and 535 community-based older adults*, Age and Ageing, 2020, [doi:10.1093/ageing/afaa223](https://doi.org/10.1093/ageing/afaa223)
+- Zazzara M.B.<sup>†</sup>, Penfold R.S.<sup>†</sup>, Roberts A.L.<sup>†</sup>, Lee, K.A., Dooley H., Sudre C.H., Welch C., Bowyer R.C.E, **Visconti A.**, ..., Martin F.C., Steves C.J.<sup>‡</sup>, and Lochlainn M.N.<sup>‡</sup>, *Probable delirium is a presenting symptom of COVID-19 in frail, older adults: a cohort study of 322 hospitalised and 535 community-based older adults*, Age and Ageing, 2020, [doi:10.1093/ageing/afaa223](https://doi.org/10.1093/ageing/afaa223)
 
-- Sanna M.<sup>†</sup>, Li X.<sup>†</sup>, **Visconti A.**, Freidin M. B., Sacco C., Ribero S., Hysi P., Bataille V., Han J., and Falchi M., *Looking for Sunshine: Genetic Predisposition to Sun-Seeking in 265,000 Individuals of European Ancestry*, Journal of Investigative Dermatology, 2020, [doi:10.1016/j.jid.2020.08.014](https://www.jidonline.org/article/S0022-202X(20)32049-2/fulltext)
+- Sanna M.<sup>†</sup>, Li X.<sup>†</sup>, **Visconti A.**, Freidin M. B., Sacco C., Ribero S., Hysi P., Bataille V., Han J.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Looking for Sunshine: Genetic Predisposition to Sun-Seeking in 265,000 Individuals of European Ancestry*, Journal of Investigative Dermatology, 2020, [doi:10.1016/j.jid.2020.08.014](https://www.jidonline.org/article/S0022-202X(20)32049-2/fulltext)
 
-- Lee K.A., Ma W., Sikavi D.R., ..., **Visconti A.**, ..., Ourselin S., Spector T.D., and Chan A.T., COPE consortium, *Cancer and Risk of COVID-19 Through a General Community Survey*, Oncologist, 2020, [doi:10.1634/theoncologist.2020-0572](https://theoncologist.onlinelibrary.wiley.com/doi/full/10.1634/theoncologist.2020-0572)
+- Lee K.A.<sup>†</sup>, Ma W.<sup>†</sup>, Sikavi D.R., ..., **Visconti A.**, ..., Ourselin S., Spector T.D., and Chan A.T., COPE consortium, *Cancer and Risk of COVID-19 Through a General Community Survey*, Oncologist, 2020, [doi:10.1634/theoncologist.2020-0572](https://theoncologist.onlinelibrary.wiley.com/doi/full/10.1634/theoncologist.2020-0572)
 
 - Scarfi F., Orozco A.P., **Visconti A.**, and Bataille V., *An Aggressive Clinical Presentation of Familial Leiomyomatosis Associated with a Fumarate Hydratase Gene Variant of Uncertain Clinical Significance*, Acta Dermato-venereologica, 2020, [doi:10.2340/00015555-3573](https://www.medicaljournals.se/acta/content/abstract/10.2340/00015555-3573)
 
-- Menni, C., Valdes, A. M., Freidin, M. B., Sudre, C. H., Nguyen, L. H., Drew, D. A., Ganesh, S., Varsavsky, T., Cardoso, M. J., El-Sayed Moustafa, J. S., **Visconti, A.**, Hysi, P., Bowyer, R. C. E., Mangino, M., Falchi, M., Wolf, J., Ourselin, S., Chan, A. T., Steves, C. J., and Spector, T. D., *Real-time tracking of self-reported symptoms to predict potential COVID-19*, Nature Medicine, 2020, [doi:10.1038/s41591-020-0916-2](https://www.nature.com/articles/s41591-020-0916-2)
+- Menni, C.<sup>†</sup>, Valdes, A. M.<sup>†</sup>, Freidin, M. B., Sudre, C. H., Nguyen, L. H., Drew, D. A., Ganesh, S., Varsavsky, T., Cardoso, M. J., El-Sayed Moustafa, J. S., **Visconti, A.**, Hysi, P., Bowyer, R. C. E., Mangino, M., Falchi, M., Wolf, J., Ourselin, S., Chan, A. T., Steves, C. J.<sup>‡</sup>, and Spector, T. D.<sup>‡</sup>, *Real-time tracking of self-reported symptoms to predict potential COVID-19*, Nature Medicine, 2020, [doi:10.1038/s41591-020-0916-2](https://www.nature.com/articles/s41591-020-0916-2)
 
 - Landi M.T., Bishop D.T., MacGregor S., ..., **Visconti A.**, ..., Shi J., Iles M.M. and Law M.H., *Genome-wide association meta-analyses combining multiple risk phenotypes provide insights into the genetic architecture of cutaneous melanoma susceptibility*, Nature Genetics, 2020, [doi:10.1038/s41588-020-0611-8](https://www.nature.com/articles/s41588-020-0611-8)	
 
 - **Visconti A.**, Sanna M., Bataille V., and Mario F., *Genetics plays a role in nevi distribution in women*, Melanoma Management, 2020, [doi:10.2217/mmt-2019-0019](https://www.futuremedicine.com/doi/10.2217/mmt-2019-0019) [Invited editorial]
 
-- Martin T.C., Illieva K.M., **Visconti A.**, Beaumont M., Kiddle S.J., Dobson R.J.B., Mangino M., Lim E.M., Pezer M., Steves C.J., Bell J.T., Wilson S.G., Lauc G., Roederer M., Walsh J.P., Spector T.D., Karagiannis S.N., *Dysregulated Antibody, Natural Killer Cell and Immune Mediator Profiles in Autoimmune Thyroid Diseases*, MDPI Cells, 2020, [doi:10.3390/cells9030665](https://www.mdpi.com/2073-4409/9/3/665)
+- Martin T.C., Illieva K.M., **Visconti A.**, Beaumont M., Kiddle S.J., Dobson R.J.B., Mangino M., Lim E.M., Pezer M., Steves C.J., Bell J.T., Wilson S.G., Lauc G., Roederer M., Walsh J.P., Spector T.D.<sup>‡</sup>, Karagiannis S.N.<sup>‡</sup>, *Dysregulated Antibody, Natural Killer Cell and Immune Mediator Profiles in Autoimmune Thyroid Diseases*, MDPI Cells, 2020, [doi:10.3390/cells9030665](https://www.mdpi.com/2073-4409/9/3/665)
 
-- **Visconti A.**<sup>†</sup>, Le Roy C.I.<sup>†</sup>, Rosa F., Rossi N., Martin T.C., Mohney R.P., Li W., de Rinaldis E., Bell J.T., Venter J.C., Nelson K.E., Spector T.D., and Falchi M., *Interplay between the human gut microbiome and host metabolism*, Nature Communications, 2019, [doi:10.1038/s41467-019-12476-z](https://www.nature.com/articles/s41467-019-12476-z)
+- **Visconti A.**<sup>†</sup>, Le Roy C.I.<sup>†</sup>, Rosa F., Rossi N., Martin T.C., Mohney R.P., Li W., de Rinaldis E., Bell J.T., Venter J.C., Nelson K.E., Spector T.D.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Interplay between the human gut microbiome and host metabolism*, Nature Communications, 2019, [doi:10.1038/s41467-019-12476-z](https://www.nature.com/articles/s41467-019-12476-z)
 
 - **Visconti A.**, Ribero S., Sanna M., Spector T.D. Bataille V., and Falchi M., *Body site‐specific genetic effects influence naevus count distribution in women*, Pigmented Cell & Melanoma Research, 2019, [doi:10.1111/pcmr.12820](https://doi.org/10.1111/pcmr.12820)
 
 - Cullen H., Krishnan M.L., Selzam S., Ball G., **Visconti A**, Saxena A., Counsell S.J., Hajnal J., Breen G., Plomin R. & Edwards A.D., *Polygenic risk for neuropsychiatric disease and vulnerability to abnormal deep grey matter development*, Scientific Reports, 2019, [doi:10.1038/s41598-019-38957-1](https://doi.org/10.1038/s41598-019-38957-1)
 
-- Duffy D., Zhu G., Li X., ..., **Visconti A.**, ... Falchi M., Han J., Martin N.G., Melanoma GWAS Consortium *Novel pleiotropic risk loci for melanoma and nevus density implicate multiple biological pathways*, Nature Communications, 2018, [doi:10.1038/s41467-018-06649-5](https://doi.org/10.1038/s41467-018-06649-5)
+- Duffy D., Zhu G., Li X., ..., **Visconti A.**, ... Falchi M., Han J.<sup>‡</sup>, Martin N.G.<sup>‡</sup>, Melanoma GWAS Consortium *Novel pleiotropic risk loci for melanoma and nevus density implicate multiple biological pathways*, Nature Communications, 2018, [doi:10.1038/s41467-018-06649-5](https://doi.org/10.1038/s41467-018-06649-5)
 		
 - Martin T.C.<sup>†</sup>, **Visconti A<sup>†</sup>**, Tim D. Spector, and Falchi M., *Conducting metagenomic studies in microbiology and clinical research*, Appl Microbiol Biotechnol, 2018, [doi:10.1007/s00253-018-9209-9](https://link.springer.com/article/10.1007%2Fs00253-018-9209-9)
 		
@@ -47,7 +48,7 @@ title: Publications
 
 - **Visconti A.**, Duffy D., Liu F., Zhu G., ..., Han J., Bataille V., and Falchi M., *Genome-wide association study in 176,678 Europeans reveals genetic loci for tanning response to sun exposure*, Nature Communications, 2018, [doi:10.1038/s41467-018-04086-y](http://dx.doi.org/10.1038/s41467-018-04086-y)
 
-- Hysi P.G.<sup>†</sup>, Valdes A.M.<sup>†</sup>, Liu F.<sup>†</sup>, Furlotte N.A., Evans D.M., Bataille V., **Visconti A.**,  ..., Kayser M., and Spector T.D., *Genome-wide association meta-analysis of individuals of European ancestry identifies new loci explaining a substantial fraction of hair color variation and heritability*, Nature Genetics, 2018, [doi:10.1038/s41588-018-0100-5](https://www.nature.com/articles/s41588-018-0100-5)
+- Hysi P.G.<sup>†</sup>, Valdes A.M.<sup>†</sup>, Liu F.<sup>†</sup>, Furlotte N.A., Evans D.M., Bataille V., **Visconti A.**,  ..., Kayser M.<sup>‡</sup>, and Spector T.D.<sup>‡</sup>, *Genome-wide association meta-analysis of individuals of European ancestry identifies new loci explaining a substantial fraction of hair color variation and heritability*, Nature Genetics, 2018, [doi:10.1038/s41588-018-0100-5](https://www.nature.com/articles/s41588-018-0100-5)
 
 - Zaghlool S.B., Mook-Kanamori D.O., Kader S., Stephan N., Halama A., Engelke R., Sarwath H., Al-Dous E. K., Mohamoud Y. A., Roemisch-Margl W., Adamski J., Kastenmüller G., Friedrich N., **Visconti A.**, ...,  Malek J.A., and Suhre K, *Deep molecular phenotypes link complex disorders and physiological insult to CpG methylation*, Human Molecular Genetics, 2018, [doi:10.1093/hmg/ddy006](https://doi.org/10.1093/hmg/ddy006)
 
@@ -55,13 +56,13 @@ title: Publications
 		
 - Puig-Butille J.A., Gimenez-Xavier P., **Visconti A.**, Nsengimana J., Garcia-Garcia F., Tell-Marti G., Escamez M.J., Newton-Bishop J.A., Bataille V., Del Rio M., Dopazo J., Falchi M, and Puig S., *Genomic expression differences between cutaneous cells from red hair colour individuals and black hair colour individuals based on bioinformatic analysis*, Oncotarget, 2016, [doi:10.18632/oncotarget.14140](http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=14140)
 		
-- Ribero S.<sup>†</sup>, Sanna M.<sup>†</sup>, **Visconti A.**, Navarini A., Aviv A.,Glass D., Spector T.D., Smith C., Simpson M., Barker J., Mangino M., Falchi M., and Bataille V., *Acne and telomere length. A new spectrum between senescence and apoptosis pathways*, The Journal of Investigative Dermatology, 2016, [doi:10.1016/j.jid.2016.09.014](http://www.sciencedirect.com/science/article/pii/S0022202X16324563) 
+- Ribero S.<sup>†</sup>, Sanna M.<sup>†</sup>, **Visconti A.**, Navarini A., Aviv A.,Glass D., Spector T.D., Smith C., Simpson M., Barker J., Mangino M., Falchi M.<sup>‡</sup>, and Bataille V.<sup>‡</sup>, *Acne and telomere length. A new spectrum between senescence and apoptosis pathways*, The Journal of Investigative Dermatology, 2016, [doi:10.1016/j.jid.2016.09.014](http://www.sciencedirect.com/science/article/pii/S0022202X16324563) 
 				
-- Lomax-Browne H.J.<sup>†</sup>, **Visconti A.<sup>†</sup>**, Pusey C.D., Cook H.T., Spector T.D., Pickering M.C, and Falchi M, *IgA Glycosylation is Heritable in Healthy Twins*, Journal of the American Society of Nephrology, 2016, [doi:10.1681/ASN.2016020184](http://jasn.asnjournals.org/content/early/2016/06/20/ASN.2016020184) 
+- Lomax-Browne H.J.<sup>†</sup>, **Visconti A.<sup>†</sup>**, Pusey C.D., Cook H.T., Spector T.D., Pickering M.C<sup>‡</sup>, and Falchi M<sup>‡</sup>, *IgA Glycosylation is Heritable in Healthy Twins*, Journal of the American Society of Nephrology, 2016, [doi:10.1681/ASN.2016020184](http://jasn.asnjournals.org/content/early/2016/06/20/ASN.2016020184) 
 		
 - Gialluisi A., **Visconti A.**, Willcutt E.G., Smith S.D., Pennington B.F. Falchi M., DeFries J.C.,  Olson R.K., Francks C., and Fisher S.E., *Investigating the effects of copy number variants on reading and language performance*, Journal of Neurodevelopmental Disorders, 2016, [doi:10.1186/s11689-016-9147-8](https://jneurodevdisorders.biomedcentral.com/articles/10.1186/s11689-016-9147-8)
 		
-- Al Muftah W.A.<sup>†</sup>, Al-Shafai M.<sup>†</sup>, Zaghlool S.B., **Visconti A.**, Tsai P.C., Kumar P., Spector T., Bell J., Falchi M., and Suhre K., *Epigenetic associations of type 2 diabetes and BMI in an Arab population*, Clinical Epigenetics, 2016, [doi:10.1186/s13148-016-0177-6](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-016-0177-6)
+- Al Muftah W.A.<sup>†</sup>, Al-Shafai M.<sup>†</sup>, Zaghlool S.B., **Visconti A.**, Tsai P.C., Kumar P., Spector T., Bell J., Falchi M.<sup>‡</sup>, and Suhre K.<sup>‡</sup>, *Epigenetic associations of type 2 diabetes and BMI in an Arab population*, Clinical Epigenetics, 2016, [doi:10.1186/s13148-016-0177-6](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-016-0177-6)
 		
 - Johnson M.R., Shkura K., Langley S.R., ..., **Visconti A.**, ..., Kaminski R.M., Deary I.J., and Petretto E., *Systems genetics identifies a convergent gene network for cognition and neurodevelopmental disease*, Nature Neuroscience, 2015 [doi:10.1038/nn.4205](http://www.nature.com/neuro/journal/v19/n2/abs/nn.4205.html)
 		
@@ -97,7 +98,7 @@ title: Publications
 
 ### Pre Prints
 
-- Bataille V.<sup>†</sup>, **Visconti A<sup>†</sup>**,, Rossi N., Murray B., Bournot A., Wolf J., Ourselin S., Steves C., Spector T.D., and Falchi M., *Diagnostic value of skin manifestation of SARS-CoV-2 infection*, medRxiv, 2020 [doi:10.1101/2020.07.10.20150656](https://www.medrxiv.org/content/10.1101/2020.07.10.20150656v1)
+- Bataille V.<sup>†</sup>, **Visconti A<sup>†</sup>**,, Rossi N., Murray B., Bournot A., Wolf J., Ourselin S., Steves C., Spector T.D.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Diagnostic value of skin manifestation of SARS-CoV-2 infection*, medRxiv, 2020 [doi:10.1101/2020.07.10.20150656](https://www.medrxiv.org/content/10.1101/2020.07.10.20150656v1)
 
 
 ### Selected Abstracts and Posters
