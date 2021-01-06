@@ -16,7 +16,9 @@ title: Publications
 
 ###  Journals
 
-- Bar N.<sup>†</sup>, Korem T.<sup>†</sup>, Weissbrod O., Zeevi D., Rothschild D., Leviatan S., Kosower N., Lotan-Pompan M., Weinberger A., Le Roy C.I., Menni C., **Visconti A.**, Falchi M., Spector T.D., The IMI DIRECT consortium, Adamski J., Franks P.W., Pedersen O. and Segal E., *A reference map of potential determinants for the human serum metabolome*, Nature, 2020, [10.1038/s41586-020-2896-2](https://www.nature.com/articles/s41586-020-2896-2)
+- Hopkinson N.S.<sup>†</sup>, Rossi N.<sup>†</sup>, El-Sayed_Moustafa J., Laverty A.A., Quint J.K., Freidin M., **Visconti A.**, Murray B., Modat M., Ourselin S., Small K., Davies R., Wolf J., Spector T.D., Steves C.J.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Current smoking and COVID-19 risk: results from a population symptom app in over 2.4 million people*, Thorax, 2021, [doi:10.1136/thoraxjnl-2020-216422](https://thorax.bmj.com/content/early/2021/01/05/thoraxjnl-2020-216422.full)
+
+- Bar N.<sup>†</sup>, Korem T.<sup>†</sup>, Weissbrod O., Zeevi D., Rothschild D., Leviatan S., Kosower N., Lotan-Pompan M., Weinberger A., Le Roy C.I., Menni C., **Visconti A.**, Falchi M., Spector T.D., The IMI DIRECT consortium, Adamski J., Franks P.W., Pedersen O. and Segal E., *A reference map of potential determinants for the human serum metabolome*, Nature, 2020, [doi:10.1038/s41586-020-2896-2](https://www.nature.com/articles/s41586-020-2896-2)
 
 - Zazzara M.B.<sup>†</sup>, Penfold R.S.<sup>†</sup>, Roberts A.L.<sup>†</sup>, Lee, K.A., Dooley H., Sudre C.H., Welch C., Bowyer R.C.E, **Visconti A.**, ..., Martin F.C., Steves C.J.<sup>‡</sup>, and Lochlainn M.N.<sup>‡</sup>, *Probable delirium is a presenting symptom of COVID-19 in frail, older adults: a cohort study of 322 hospitalised and 535 community-based older adults*, Age and Ageing, 2020, [doi:10.1093/ageing/afaa223](https://doi.org/10.1093/ageing/afaa223)
 
