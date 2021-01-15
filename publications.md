@@ -9,12 +9,14 @@ title: Publications
 | [[Book Chapters]](#book-chapters)
 | [[Selected Abstracts and Posters]](#selected-abstracts-and-posters)
 | [[Thesis]](#thesis)
-| [[Pre Prints]](#pre-prints)
+<!-- | [[Pre Prints]](#pre-prints) -->
 
 <sup>†</sup> means that the authors contributed equally to the work<br/>
 <sup>‡</sup> means that the authors jointly supervised the work
 
 ###  Journals
+
+- **Visconti A.<sup>†</sup>**, Bataille V.<sup>†</sup>, Rossi N., Kluk J., Murphy R., Puig S., Nambi R., Bowyer R.C.E., Murray B., Bournot A., Wolf J., Ourselin S., Steves C., Spector T.D.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Diagnostic value of cutaneous manifestation of SARS-CoV-2 infection*, BJD, 2021, [doi:10.1111/bjd.19807](https://onlinelibrary.wiley.com/doi/10.1111/bjd.19807)
 
 - Hopkinson N.S.<sup>†</sup>, Rossi N.<sup>†</sup>, El-Sayed_Moustafa J., Laverty A.A., Quint J.K., Freidin M., **Visconti A.**, Murray B., Modat M., Ourselin S., Small K., Davies R., Wolf J., Spector T.D., Steves C.J.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Current smoking and COVID-19 risk: results from a population symptom app in over 2.4 million people*, Thorax, 2021, [doi:10.1136/thoraxjnl-2020-216422](https://thorax.bmj.com/content/early/2021/01/05/thoraxjnl-2020-216422.full)
 
@@ -98,9 +100,7 @@ title: Publications
 
 - **Visconti A.**, Cordero F., Ienco D., and Pensa R.G., *Coclustering under Gene Ontology Derived Constraints for Pathway Identification*, Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, John Wiley & Sons, pp. 625-642, [doi:10.1002/9781118617151.ch27](http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch27/summary)
 
-### Pre Prints
-
-- Bataille V.<sup>†</sup>, **Visconti A<sup>†</sup>**,, Rossi N., Murray B., Bournot A., Wolf J., Ourselin S., Steves C., Spector T.D.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Diagnostic value of skin manifestation of SARS-CoV-2 infection*, medRxiv, 2020 [doi:10.1101/2020.07.10.20150656](https://www.medrxiv.org/content/10.1101/2020.07.10.20150656v1)
+<!-- ### Pre Prints -->
 
 
 ### Selected Abstracts and Posters
