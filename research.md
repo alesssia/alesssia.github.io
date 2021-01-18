@@ -14,11 +14,10 @@ title: Research Interests
 
 ## Brief Synopsis of Research
 
-Alessia Visconti's research activity deals with the study of the genomics and epigenomics of human diseases. Her work focuses on the identification of genetic and epigenetic modifications influencing the risk of common diseases or of related phenotypes, with a focus on melanoma, cognition and neurodevelopmental disorders, and IgA nephropathy. She is also interested in the human microbiome and its connections to human health and diseases.
+Alessia Visconti is an expert in bioinformatics and genetic epidemiology, and her research activity deals with the development and application of statistical and computational methods to identify multi*-omics* modifications influencing complex human phenotypes. 
 She has also worked on the problem of knowledge discovery in biological data, developing new approaches tailored to solve biological tasks, and on the reverse engineering of gene regulatory networks. 
 
-A more detailed description of Alessia's research activity and of her research projects can be found on her [CV]({{ "/" | relative_url }}assets/CV-Visconti.pdf), while a list of her publications can be found [here](publications.html). She is also an active software developer, and the list of scientific software she has contributed to is available [here](software.html).
-
+A more detailed description of Alessia's research activity and of her research projects can be found on her [CV]({{ "/" | relative_url }}assets/CV-Visconti.pdf), while a list of her publications can be found [here]({{ "/" | relative_url }}publications/). She is also an active software developer, and the list of scientific software she has contributed to is available [here]({{ "/" | relative_url }}software/).
 
 
 
