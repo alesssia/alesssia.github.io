@@ -18,6 +18,8 @@ title: Publications
 
 - Piaggeschi G., Rolla S., Rossi N., Brusa D., Naccarati A., Couvreur S., Spector T.D., Roederer M., Mangino M., Cordero F., Falchi M.<sup>‡</sup>, and **Visconti A.<sup>‡</sup>**, *Immune trait shifts in association with tobacco smoking: a study in healthy women*, Frontiers in immunology, 2021, [doi:10.3389/fimmu.2021.637974](https://www.frontiersin.org/articles/10.3389/fimmu.2021.637974)
 
+- Rossi N.<sup>†</sup>, Aliyev E.<sup>†</sup>, **Visconti A.**, Akil A.S.A., Syed N., Aamer W., Padmajeya S.S., Falchi M.<sup>‡</sup>, and Fakhro K.A.<sup>‡</sup>, *Ethnic-specific association of amylase gene copy number with adiposity traits in a large Middle Eastern biobank*, Genomic Medicine, 2021, [doi:110.1038/s41525-021-00170-3](https://www.nature.com/articles/s41525-021-00170-3)
+
 - **Visconti A.<sup>†</sup>**, Bataille V.<sup>†</sup>, Rossi N., Kluk J., Murphy R., Puig S., Nambi R., Bowyer R.C.E., Murray B., Bournot A., Wolf J., Ourselin S., Steves C., Spector T.D.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Diagnostic value of cutaneous manifestation of SARS-CoV-2 infection*, British Journals of Dermatology, 2021, [doi:10.1111/bjd.19807](https://onlinelibrary.wiley.com/doi/10.1111/bjd.19807)
 
 - Hopkinson N.S.<sup>†</sup>, Rossi N.<sup>†</sup>, El-Sayed_Moustafa J., Laverty A.A., Quint J.K., Freidin M., **Visconti A.**, Murray B., Modat M., Ourselin S., Small K., Davies R., Wolf J., Spector T.D., Steves C.J.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Current smoking and COVID-19 risk: results from a population symptom app in over 2.4 million people*, Thorax, 2021, [doi:10.1136/thoraxjnl-2020-216422](https://thorax.bmj.com/content/early/2021/01/05/thoraxjnl-2020-216422.full)
