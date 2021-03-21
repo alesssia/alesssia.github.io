@@ -16,6 +16,8 @@ title: Publications
 
 ###  Journals
 
+- Sudre C.H.<sup>†</sup>, Lee K.A.<sup>†</sup>, Lochlainn M.N.<sup>†</sup>, Varsavsky T, Murray B., ..., **Visconti A.**, ..., Spector T.D., Steves C.J.<sup>‡</sup>, and Ourselin S.<sup>‡</sup>, *Symptom clusters in COVID-19: A potential clinical prediction tool from the COVID Symptom Study app*, Science Advances, 2021, [doi:10.1126/sciadv.abd4177](https://advances.sciencemag.org/content/7/12/eabd4177)
+
 - Piaggeschi G., Rolla S., Rossi N., Brusa D., Naccarati A., Couvreur S., Spector T.D., Roederer M., Mangino M., Cordero F., Falchi M.<sup>‡</sup>, and **Visconti A.<sup>‡</sup>**, *Immune trait shifts in association with tobacco smoking: a study in healthy women*, Frontiers in immunology, 2021, [doi:10.3389/fimmu.2021.637974](https://www.frontiersin.org/articles/10.3389/fimmu.2021.637974)
 
 - Rossi N.<sup>†</sup>, Aliyev E.<sup>†</sup>, **Visconti A.**, Akil A.S.A., Syed N., Aamer W., Padmajeya S.S., Falchi M.<sup>‡</sup>, and Fakhro K.A.<sup>‡</sup>, *Ethnic-specific association of amylase gene copy number with adiposity traits in a large Middle Eastern biobank*, Genomic Medicine, 2021, [doi:110.1038/s41525-021-00170-3](https://www.nature.com/articles/s41525-021-00170-3)
@@ -91,7 +93,7 @@ title: Publications
 
 ### In proceedings
 
-- Esposito R, Radicioni D.P., and **Visconti A.**, *CDoT: optimizing MAP queries on trees*, In proceedings of AI*IA 2013: Advances in Artificial Intelligence, XIIIth Int. Conf. of the Italian Association for Artificial Intelligence, Torino, December 4-6, 2013, LNAI 8249, pp. 481--492. Springer, [doi:10.1007/978-3-319-03524-6_41](https://link.springer.com/chapter/10.1007/978-3-319-03524-6_41)	
+- Esposito R, Radicioni D.P., and **Visconti A.**, *CDoT: optimizing MAP queries on trees*, In proceedings of AI*IA 2013: Advances in Artificial Intelligence, XIIIth Int. Conf. of the Italian Association for Artificial Intelligence, Turin, December 4-6, 2013, LNAI 8249, pp. 481--492. Springer, [doi:10.1007/978-3-319-03524-6_41](https://link.springer.com/chapter/10.1007/978-3-319-03524-6_41)	
 
 - **Visconti A.**, Esposito R., and Cordero F., *Tackling the DREAM Challenge for Gene Regulatory Networks Reverse Engineering*, In Proceedings of AI*IA 2011: Artificial Intelligence Around Man and Beyond, XIIth Int. Conf. of the Italian Association for Artificial Intelligence - Palermo, September 15-17, 2011, LNAI 6934, pp. 373-383, Springer [doi:10.1007/978-3-642-23954-0_34](https://link.springer.com/chapter/10.1007/978-3-642-23954-0_34)
 
@@ -126,8 +128,8 @@ title: Publications
 
 ### Thesis
 
-- **Visconti A.**, *Systems Biology: Knowledge Discovery and Reverse Engineering*, PhD Thesis, Doctoral School in Science and High Technology, Department of Computer Science, University of Torino, July 2012.
+- **Visconti A.**, *Systems Biology: Knowledge Discovery and Reverse Engineering*, PhD Thesis, Doctoral School in Science and High Technology, Department of Computer Science, University of Turin, July 2012.
 
-- **Visconti A.**, *SPOT: an algorithm for the extraction and the analysis of biological patterns*, Master Thesis, Department of Computer Science, University of Torino, July 2008.
+- **Visconti A.**, *SPOT: an algorithm for the extraction and the analysis of biological patterns*, Master Thesis, Department of Computer Science, University of Turin, July 2008.
 
-
+- **Visconti A.**, *The Haskell language*, Bachelor Thesis, Department of Computer Science, University of Turin, 2006.
