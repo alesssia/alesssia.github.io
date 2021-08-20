@@ -24,6 +24,7 @@
 \usepackage{longtable}
 \usepackage{url}
 \usepackage{xcolor}
+\usepackage{eurosym}
 
 %%%% TITLE SETTING
 \newcommand{\bigtitle}[1]{
@@ -58,7 +59,7 @@
 
 %%%% LIST
 %double item
-\newcolumntype{A}{>{\raggedleft}p{0.24\textwidth}}
+\newcolumntype{A}{>{\raggedleft}p{0.22\textwidth}}
 \newcolumntype{B}{p{0.7\textwidth}}
 \newenvironment{doubletablelist}
 {
@@ -68,7 +69,7 @@
 \newcommand{\dtlist}[2]{
 \hspace{-3cm}
 \noindent
-	\begin{minipage}{0.24\textwidth}
+	\begin{minipage}{0.22\textwidth}
 	\begin{flushright}
 	\textsc{#1}
 	\end{flushright}
@@ -110,8 +111,8 @@
 \vspace{0.2cm}
 
 \noindent
-Department of Twin Research \& Genetics Epidemiology, King's College London\\
-St Thomas' Hospital Campus, 3rd Floor South Wing Block D\\
+\textsc{\textbf{Research Fellow}}, Department of Twin Research \& Genetics Epidemiology\\
+King's College London, St Thomas' Hospital Campus, 3rd Floor South Wing Block D\\
 Westminster Bridge Road, London SE1 7EH
 
 \noindent
@@ -125,7 +126,7 @@ Westminster Bridge Road, London SE1 7EH
  	\minusitem  \textsc{Data Mining \& Machine Learning}
 	% \minusitem  \textsc{High-Throughput Biology}
 	% \minusitem  \textsc{Complex Disease Genetics}
-	\minusitem  \textsc{Big Data}
+	% \minusitem  \textsc{Big Data}
 	\minusitem  \textsc{Research Software Engineering}
 \end{itemize}
 
@@ -169,7 +170,7 @@ She has also worked on the problem of knowledge discovery in biological data, de
 							&\textsc{Other languages}: CSS, \LaTeX, HTML, PyQt, XML\\
 							&\textsc{Statistical software}: R, SAS\\
 							&\textsc{Database management}: MySQL, MariaDB\\
-							&\textsc{Version control systems \& reproducibility }: GIT, nextflow, docker\\
+							&\textsc{Version control systems \& reproducibility }: GIT, nextflow, docker, singularity\\
 							&\textsc{Bioinformatics \& Genetic analysis}: BBmap, BEDTools, DESeq2, GCTA, GWAMA, LDAK, limma, lmekin, metal, Merlin, PLINK, QTDT, samtools, vcftools, \dots\\
 							&\textsc{Structural Equation Modelling}: openMX, Mplus\\
 							&\textsc{Data visualisation}: dot, ggplot2}
@@ -181,7 +182,7 @@ She has also worked on the problem of knowledge discovery in biological data, de
 % RESEARCH
 % --------------------------------
 
-\mediumtitle{Research activity}
+\mediumtitle{Research posts}
 \begin{doubletablelist}
     \dtlist{Aug 2017 - Present}{\textbf{Research fellow} at the Department of Twin Research \& Genetic Epidemiology, King's College London, UK %\\
 	% &\textsc{Supervisor}: Dr. Mario Falchi
@@ -195,19 +196,99 @@ She has also worked on the problem of knowledge discovery in biological data, de
     \dtlist{Jan 2014 - Mar 2015}{\textbf{Research associate} at the Department of Genomics of Common Disease, School of Public Health, Imperial College London, UK %\\
 	% &\textsc{Supervisor}: Dr. Mario Falchi
 	}
-	\dtlist{Jan 2012 - Dec 2013}{\textbf{Research associate} at the Department of Computer Science, University of Turin, Italy %\\
+	\dtlist{Jan 2012 - Dec 2013}{\textbf{Research associate} at the Department of Computer Science, University of Turin, Italy. %Recipient of a 2 year fellowship for her research proposal, awarded by the Italian Minister of Education, University and Research. %\\
 	% &\textsc{Supervisors}: Dr. Roberto Esposito
 	}
 	\dtlist{Jun 2011 - Dec 2011}{\textbf{Visiting researcher} at the Regulatory Genomics Group at the Center of Biological Sequence Analysis, Systems Biology Department, Technical University of Denmark, Denmark %\\
 	% &\textsc{Supervisor}: Prof. Christopher Workman
 	}
-	\dtlist{Jan 2009 - Dec 2011}{\textbf{Awarded PhD candidate} at the School of Science and High Technology, University of Turin, Italy %\\
+	\dtlist{Jan 2009 - Dec 2011}{\textbf{PhD student} at the School of Science and High Technology, University of Turin, Italy.
 	% &\textsc{Supervisors}: Dr. Roberto Esposito, Prof. Marco Botta
 	}
 	\dtlist{Sep 2008 - Dec 2008}{\textbf{Research assistant} at the Department of Computer Science, University of Turin and in collaboration with the Department of Arboriculture and Pomology, University of Turin, Italy %\\
 	% &\textsc{Supervisors}: Prof. Marco Botta, Prof. Roberto Botta
 	}
 \end{doubletablelist}
+
+
+\mediumtitle{Awarded fellowships}
+
+\begin{doubletablelist}
+    \dtlist{Jan 2012 - Dec 2013}{\textbf{2 years postdoctoral fellowship} awarded by the Italian Minister of Education, University and Research} 
+	\dtlist{Jan 2009 - Dec 2011}{\textbf{3 years PhD fellowship} awarded by the Italian Minister of Education, University and Research (best PhD project)}
+\end{doubletablelist}
+
+% --------------------------------
+% PROJECTS
+% --------------------------------
+
+\mediumtitle{Research collaborations}
+
+\begin{itemize}
+
+	\bulletitem\rule{1mm}{0pt}  \begin{minipage}{0.91\textwidth}
+		\textsc{\textbf{Title:}} \emph{``Understanding phenotype and mechanisms of spontaneous preterm birth in sub-Saharan Africa (PRECISE-SPTB)''}\\
+		\textsc{\textbf{Funder:}} \emph{MRC} -- 2021-2024\\
+		\textsc{\textbf{Role:}} Named bioinformatics instructor,  contribution to project proposal
+	\end{minipage}
+
+	\bulletitem\rule{1mm}{0pt}  \begin{minipage}{0.91\textwidth}
+		\textsc{\textbf{Title:}} \emph{``A multi-omics study to dissect the role of the gut microbiome in IgA nephropathy risk''}\\
+		\textsc{\textbf{Funder:}} \emph{King's College London - Peking University Health Science Centre Joint Institute for Medical Research} -- 2020-2021\\
+		\textsc{\textbf{Role:}} Named researcher, co-writer of proposal
+	\end{minipage}
+	
+	\bulletitem\rule{1mm}{0pt}  \begin{minipage}{0.91\textwidth}
+		\textsc{\textbf{Title:}} \emph{``Dissecting the mechanisms of immune-mediated inflammation: a systems-immunology approach''}\\
+		\textsc{\textbf{Funder:}} \emph{MRC} -- 2019-2021\\
+		\textsc{\textbf{Role:}} Researcher
+	\end{minipage}
+	
+	\bulletitem\rule{1mm}{0pt}  \begin{minipage}{0.91\textwidth}
+		\textsc{\textbf{Title:}} \emph{``A high resolution map of copy number and structural variation in Qatari genomes and their contribution to quantitative traits and disease''}\\
+		\textsc{\textbf{Funder:}} \emph{Qatar Foundation} -- 2016-2018\\
+		\textsc{\textbf{Role:}} Named researcher, co-writer of proposal
+	\end{minipage}
+	
+	\bulletitem\rule{1mm}{0pt}  \begin{minipage}{0.91\textwidth}
+		\textsc{\textbf{Title:}} \emph{``An integrative genomics approach for non-invasive diagnostic biomarkers discovery in IgA nephropathy''}\\
+		\textsc{\textbf{Funder:}} \emph{MRC} -- 2014-2016\\
+		\textsc{\textbf{Role:}} Researcher
+	\end{minipage}
+	
+	\bulletitem\rule{1mm}{0pt}  \begin{minipage}{0.91\textwidth}
+		\textsc{\textbf{Title:}} \emph{``Senescence and melanoma -- An integrative systems biology approach to characterise the link between reduced biological senescence and melanoma susceptibility''}\\
+		\textsc{\textbf{Funder:}} \emph{British Skin Foundation} -- 2013-2015\\
+		\textsc{\textbf{Role:}} Researcher
+	\end{minipage}
+		
+	\bulletitem\rule{1mm}{0pt}  \begin{minipage}{0.91\textwidth}
+		\textsc{\textbf{Title:}} \emph{``Genomic analysis of Type 2 Diabetes in Qatar, towards diabetes personalized medicine''}\\
+		\textsc{\textbf{Funder:}} \emph{Qatar Foundation} -- 2013-2018\\
+		\textsc{\textbf{Role:}} Researcher
+	\end{minipage}
+	
+	\bulletitem\rule{1mm}{0pt}  \begin{minipage}{0.91\textwidth}
+		\textsc{\textbf{Title:}} \emph{``LIMPET -- Isotropic And Anisotropic Lipophilicity To Model Permeability Of New Therapeutic Peptides''}\\
+		\textsc{\textbf{Funder:}} \emph{Compagnia di San Paolo} -- 2012-2013\\
+		\textsc{\textbf{Role:}} Named researcher, co-writer of proposal
+	\end{minipage}	
+
+	\bulletitem\rule{1mm}{0pt}   \begin{minipage}{0.91\textwidth}
+		\textsc{\textbf{Title:}} \emph{``BioBITs -- Developing white and green biotechnologies by converging platforms from biology and information technology towards metagenomics''}\\
+		\textsc{\textbf{Funder:}} \emph{Regione Piemonte} -- 2007-2011\\
+		\textsc{\textbf{Role:}} Researcher
+	\end{minipage}
+	
+	\bulletitem\rule{1mm}{0pt}  \begin{minipage}{0.91\textwidth}
+		\textsc{\textbf{Title:}} \emph{``Realizzazione di modelli informatici per la valorizzazione della qualit\`a e la tracciabilit\`a delle produzioni in specie da frutto coltivate in Piemonte''}\\
+		\textsc{\textbf{Funder:}} \emph{Regione Piemonte} -- 2004-2009\\
+		\textsc{\textbf{Role:}} Developer
+	\end{minipage}
+			
+\end{itemize}
+
+\vspace{0.4cm}
 
 % --------------------------------
 % TEACHING
@@ -216,7 +297,7 @@ She has also worked on the problem of knowledge discovery in biological data, de
 \mediumtitle{Teaching activity}
 \begin{doubletablelist}
 	
-	\dtlist{Dec 2019/present}{\textbf{Instructor} for several Carpentries workshops\\
+	\dtlist{Dec 2019/present}{\textbf{Instructor} for several Carpentries workshops (details at \url{https://kcl-carpentries.github.io/})\\
 							& \hskip1cm - The Unix Shell\\
 							& \hskip1cm - Version Control with Git\\
 							& \hskip1cm - Programming with Python \& R\\
@@ -236,35 +317,18 @@ She has also worked on the problem of knowledge discovery in biological data, de
 {\footnotesize \noindent (Italian only)}
 
 \begin{doubletablelist}
-	\dtlist{a.y. 2013/2014}{\textbf{Lecturer} for the \emph{``Data analysis''} course \\ 
-							& \hskip0.5cm Department of Biological Science, University of Turin\\
-							&\textbf{Lecturer} for the \emph{``Operating System''} course \\ 
-							& \hskip0.5cm  Department of Computer Science, University of Turin}
-	\dtlist{a.y. 2012/2013}{\textbf{Lecturer} for the \emph{``Operating System and Networking''} course \\ 
-							& \hskip0.5cm  Interfaculty School of Strategic Studies, University of Turin\\
-							&\textbf{Lecturer} for the \emph{``Operating System''} course \\ 
-							& \hskip0.5cm  Department of Computer Science, University of Turin}
-	\dtlist{a.y. 2011/2012}{\textbf{Lecturer} for the \emph{``Database''} course \\ 
-							& \hskip0.5cm Department of Computer Science, University of Turin}
-\end{doubletablelist}							
-
-\newpage
-
-\begin{doubletablelist}
-	\dtlist{a.y. 2010/2011}{\textbf{Lecturer} for the \emph{``Database''} course \\
-							& \hskip0.5cm  Department of Computer Science, University of Turin\\
-							&\textbf{Lecturer} for the \emph{``Formal Language''} course \\ 
-							& \hskip0.5cm  Department of Computer Science, University of Turin\\
-							&\textbf{Lecturer} for the \emph{``Statistics and data mining with SAS''} course \\ 
-							& \hskip0.5cm Department of Mathematics, University of Turin}
-	\dtlist{a.y. 2009/2010}{\textbf{Lecturer} for the \emph{``Computer Science''} course \\ 
-							& \hskip0.5cm Department of Letters and Philosophy, University of Turin}
-	\dtlist{a.y. 2006/2007}{\textbf{Teaching assistant} for the \emph{``Program Languages - JAVA''} course \\ 
-							& \hskip0.5cm Department of Computer Science, University of Turin}
-	\dtlist{a.y. 2005/2006}{\textbf{Teaching assistant} for the \emph{``Program Languages - JAVA''} course \\ 
-							&  \hskip0.5cm Department of Computer Science, University of Turin}
-	\dtlist{a.y. 2004/2005}{\textbf{Teaching assistant}  for the \emph{``Program Languages - C''} course \\ 
-							&  \hskip0.5cm Department of Computer Science, University of Turin}
+	\dtlist{a.y. 2013/2014}{\textbf{Lecturer} for the \emph{``Data analysis''} course, Department of Biological Science, University of Turin\\
+							&\textbf{Lecturer} for the \emph{``Operating System''} course, Department of Computer Science, University of Turin}
+	\dtlist{a.y. 2012/2013}{\textbf{Lecturer} for the \emph{``Operating System and Networking''} course, Interfaculty School of Strategic Studies, University of Turin\\
+							&\textbf{Lecturer} for the \emph{``Operating System''} course,  Department of Computer Science, University of Turin}
+	\dtlist{a.y. 2011/2012}{\textbf{Lecturer} for the \emph{``Database''} course, Department of Computer Science, University of Turin}
+	\dtlist{a.y. 2010/2011}{\textbf{Lecturer} for the \emph{``Database''} course, Department of Computer Science, University of Turin\\
+							&\textbf{Lecturer} for the \emph{``Formal Language''} course, Department of Computer Science, University of Turin\\
+							&\textbf{Lecturer} for the \emph{``Statistics and data mining with SAS''} course, Department of Mathematics, University of Turin}
+	\dtlist{a.y. 2009/2010}{\textbf{Lecturer} for the \emph{``Computer Science''} course, Department of Letters and Philosophy, University of Turin}
+	\dtlist{a.y. 2006/2007}{\textbf{Teaching assistant} for the \emph{``Program Languages - JAVA''} course, Department of Computer Science, University of Turin}
+	\dtlist{a.y. 2005/2006}{\textbf{Teaching assistant} for the \emph{``Program Languages - JAVA''} course, Department of Computer Science, University of Turin}
+	\dtlist{a.y. 2004/2005}{\textbf{Teaching assistant}  for the \emph{``Program Languages - C''} course, Department of Computer Science, University of Turin}
 \end{doubletablelist}
 
 %\newpage
@@ -277,10 +341,10 @@ She has also worked on the problem of knowledge discovery in biological data, de
 
 \begin{doubletablelist}	
 	\dtlist{a.y. 2021/present}{\textbf{Co-supervisor} of Mr Roger Compte Boixader in his PhD project at King's College London.}
-	\dtlist{a.y. 2020/present}{\textbf{Co-supervisor} of Ms Raphaela Joos in her MSc project in \emph{Microbiome in Health and Disease} at King's College London. Raphaela's project aims at studying the interaction between the presence of \emph{Lactobacillacee} in the faeces and blood lipid level.}
-	\dtlist{a.y. 2020/present}{\textbf{Co-supervisor} of Ms Petra Blackburn in her MSc project in \emph{Microbiome in Health and Disease} at King's College London. Petra's project aims at studying the interaction between the host gene expression and the gut microbiome.}
-	\dtlist{a.y. 2020/present}{\textbf{Co-supervisor} of Ms Natalie Falshaw in her MSc project in \emph{Microbiome in Health and Disease} at King's College London. Natalie's project aims at studying the interaction between the host DNA methylome and the gut microbiome.}
 	\dtlist{a.y. 2019/present}{\textbf{Assistance with the supervision} of Ms Xinyuan Zhang in her PhD project at King's College London. Xinyuan's PhD project aims at studying the interplay between the gut metagenome, medications, and diseases.}
+	\dtlist{a.y. 2020/21}{\textbf{Co-supervisor} of Ms Raphaela Joos in her MSc project in \emph{Microbiome in Health and Disease} at King's College London. Raphaela's project aims at studying the interaction between the presence of \emph{Lactobacillacee} in the faeces and blood lipid level.}
+	\dtlist{a.y. 2020/21}{\textbf{Co-supervisor} of Ms Petra Blackburn in her MSc project in \emph{Microbiome in Health and Disease} at King's College London. Petra's project aims at studying the interaction between the host gene expression and the gut microbiome.}
+	\dtlist{a.y. 2020/21}{\textbf{Co-supervisor} of Ms Natalie Falshaw in her MSc project in \emph{Microbiome in Health and Disease} at King's College London. Natalie's project aims at studying the interaction between the host DNA methylome and the gut microbiome.}
 	\dtlist{a.y. 2019/2020}{\textbf{Assistance with the supervision} of Mr Simon Couvreur in his project at King's College London. Simon's project aimed at studying the human glycome.}
 	\dtlist{a.y. 2019/2020}{\textbf{Co-supervisor} of Ms Xinyu Huang in her MSc project in Pharmacology at King's College London. Xinyu's project aimed at studying the interaction between medications and the gut microbiome.}
 	\dtlist{a.y. 2019/2020}{\textbf{Co-supervisor} of Ms Helen King in her PhD rotation project at King's College London. Helen's project aimed at dissecting the interaction between the gut microbiome and lipid levels in blood.}
@@ -324,6 +388,20 @@ She has also worked on the problem of knowledge discovery in biological data, de
 % \end{doubletablelist}
 %
 
+% --------------------------------
+% ADMIN
+% --------------------------------
+
+\mediumtitle{University Responsibilities}
+
+\begin{doubletablelist}
+
+	\dtlist{Nov 2016 -- present}{Co-organiser of the journal club on genetic and epigenetic regulation of gene expression at the Department of Twins Research \& Genetic Epidemiology, King's College London}
+	\dtlist{Jan 2012 -- Dec 2013}{Faculty member as representative of postdoctoral fellows at the Department of Computer Science, University of Turin}
+	\dtlist{Jan 2009 -- Dec 2011}{faculty member as representative of PhD students at the Department of Computer Science, University of Turin}
+	
+\end{doubletablelist}
+
 
 % --------------------------------
 % MISCELLANEA
@@ -332,68 +410,7 @@ She has also worked on the problem of knowledge discovery in biological data, de
 \newpage
 \mediumtitle{Other activities}
 
-% --------------------------------
-% PROJECTS
-
 \begin{doubletablelist}
-\dtlist{Participation in research projects}{
-	\vspace{-0.8cm}
-	\begin{itemize} %[itemsep=-0.5ex]
-
-   		\minusitem  \begin{minipage}{0.65\textwidth}
-   			\emph{``A multi-omics study to dissect the role of the gut microbiome in IgA nephropathy risk''}, funded by \emph{King's College London - Peking University Health Science Centre Joint Institute for Medical Research} -- 2020-2021\\
-   			\textsc{Role:} Researcher, Contribution to project proposal
-   		\end{minipage}
-		
-		\minusitem  \begin{minipage}{0.65\textwidth}
-			\emph{``Dissecting the mechanisms of immune-mediated inflammation: a systems-immunology approach''}, funded by \emph{MRC} -- 2019-2021\\
-			\textsc{Role:} Researcher
-		\end{minipage}
-		
-%
-% 	\end{itemize}
-% }
-%
-% \dtlist{}{
-% 	\vspace{-0.8cm}
-% 	\begin{itemize} %[itemsep=-0.5ex]
-	
-		\minusitem  \begin{minipage}{0.65\textwidth}
-			\emph{``A high resolution map of copy number and structural variation in Qatari genomes and their contribution to quantitative traits and disease''}, funded by \emph{Qatar Foundation} -- 2016-2018\\
-			\textsc{Role:} Researcher, Contribution to project proposal
-		\end{minipage}
-		
-		\minusitem  \begin{minipage}{0.65\textwidth}
-			\emph{``An integrative genomics approach for non-invasive diagnostic biomarkers discovery in IgA nephropathy''}, funded by \emph{MRC} -- 2014-2016\\
-			\textsc{Role:} Researcher
-		\end{minipage}
-		
-		\minusitem  \begin{minipage}{0.65\textwidth}
-			\emph{``Senescence and melanoma -- An integrative systems biology approach to characterise the link between reduced biological senescence and melanoma susceptibility''}, funded by \emph{British Skin Foundation} -- 2013-2015\\
-			\textsc{Role:} Researcher
-		\end{minipage}
-			
-		\minusitem  \begin{minipage}{0.65\textwidth}
-			\emph{``Genomic analysis of Type 2 Diabetes in Qatar, towards diabetes personalized medicine''}, funded by \emph{Qatar Foundation} -- 2013-2018\\
-			\textsc{Role:} Researcher
-		\end{minipage}
-		
-		\minusitem  \begin{minipage}{0.65\textwidth}
-			\emph{``LIMPET -- Isotropic And Anisotropic Lipophilicity To Model Permeability Of New Therapeutic Peptides''}, funded by \emph{Compagnia di San Paolo} -- 2012-2013\\
-			\textsc{Role:} Researcher
-		\end{minipage}	
-	
-		\minusitem   \begin{minipage}{0.65\textwidth}
-			\emph{``BioBITs -- Developing white and green biotechnologies by converging platforms from biology and information technology towards metagenomics''}, funded by \emph{Regione Piemonte} -- 2007-2011\\
-			\textsc{Role:} Researcher
-		\end{minipage}
-		
-		\minusitem  \begin{minipage}{0.65\textwidth}
-			\emph{``Realizzazione di modelli informatici per la valorizzazione della qualit\`a e la tracciabilit\`a delle produzioni in specie da frutto coltivate in Piemonte''}, funded by \emph{Regione Piemonte} -- 2004-2009\\
-			\textsc{Role:} Developer
-		\end{minipage}		
-	\end{itemize}
-}
 
 % --------------------------------
 % AWARDS
@@ -401,11 +418,17 @@ She has also worked on the problem of knowledge discovery in biological data, de
 % \dtlist{Awards}{
 % 	\vspace{-0.6cm}
 % 	\begin{itemize} %[itemsep=-0.5ex]
+%
 % 		\minusitem \begin{minipage}{0.65\textwidth}
-% 		 \textsc{PhD fellowship} -- Three-years PhD fellowship at the School of Science and High Technology, Department of Computer Science, University of Turin (best project). Founded by Italian Minister of Education, Universty and Research (MIUR)
+% 		 \textsc{Two-years Postdoctoral fellowship} at the Department of Computer Science, University of Turin. Founded by Italian Minister of Education, University and Research (MIUR) -- 2012-2013
 % 		\end{minipage}
+%
 % 		\minusitem \begin{minipage}{0.65\textwidth}
-% 		 \textsc{Sholarship} -- post-doctoral training grant to partecipate to conferences, workshop, courses, and schools. Founded by Regione Piemonte. %3000€
+% 		 \textsc{Post-doctoral training grant} (\euro3000). Founded by Regione Piemonte -- 2012
+% 		\end{minipage}
+%
+% 		\minusitem \begin{minipage}{0.65\textwidth}
+% 		 \textsc{Three-years PhD fellowship (best project)} at the School of Science and High Technology, Department of Computer Science, University of Turin. Founded by Italian Minister of Education, University and Research (MIUR) -- 2009-2011
 % 		\end{minipage}
 % 	\end{itemize}
 % }
@@ -421,16 +444,18 @@ She has also worked on the problem of knowledge discovery in biological data, de
 			%\textsc{Team:} Visconti A., Jun Aruga, Oliver Giles, Ioannis Valasakis, Chen Zhang\\
 			\textsc{Rank:} 1st on the ARM, Cavium, and Atos Challenge: \emph{How can we use mobile technology to transform biological data processing?}
 		\end{minipage}
-		\minusitem   \begin{minipage}{0.65\textwidth}
-			\emph{``DREAM5 -- Network Inference Challenge''}\\
-			%\textsc{Team:} Visconti A., Esposito R., and Cordero F. (University of Turin)\\
-			\textsc{Rank:} 15th out of 29 participants when both synthetic and real network are considered, 3rd on real networks, and 1st on \emph{S. Cerevisiae}'s network
-		\end{minipage}		
+	
 		\minusitem  \begin{minipage}{0.65\textwidth}
 			\emph{``DREAM6 -- Promoter Activity Prediction Challenge''}\\
 			%\textsc{Team:} Visconti A. (University of Turin) and Workman C.T. (Technical University of Denmark)\\
 			\textsc{Rank:} 8th out of 21 participants
 		\end{minipage}
+
+		\minusitem   \begin{minipage}{0.65\textwidth}
+			\emph{``DREAM5 -- Network Inference Challenge''}\\
+			%\textsc{Team:} Visconti A., Esposito R., and Cordero F. (University of Turin)\\
+			\textsc{Rank:} 15th out of 29 participants when both synthetic and real network are considered, 3rd on real networks, and 1st on \emph{S. Cerevisiae}'s network
+		\end{minipage}	
 	\end{itemize}
 }
 	
@@ -449,17 +474,6 @@ She has also worked on the problem of knowledge discovery in biological data, de
 % 	\end{itemize}
 % }
 
-% --------------------------------
-% ADMIN
-
-\dtlist{Administrative tasks}{
-	\vspace{-0.6cm}
-	\begin{itemize}[itemsep=-0.5ex]
-		\minusitem  \emph{Nov 2016 -- present : } co-organiser of the journal club on genetic and epigenetic regulation of gene expression at the Department of Twins Research \& Genetic Epidemiology, King's College London
-		\minusitem  \emph{Jan 2012 -- Dec 2013 : } faculty member as representative of postdoctoral fellows at the Department of Computer Science, University of Turin
-		\minusitem  \emph{Jan 2009 -- Dec 2011 : } faculty member as representative of PhD students fellows at the Department of Computer Science, University of Turin
-	\end{itemize}
-}
 
 % --------------------------------
 % EXTRA
@@ -471,6 +485,7 @@ She has also worked on the problem of knowledge discovery in biological data, de
 		\minusitem  \emph{Mar 2016 -- Sep 2017 : } member, tutor, and mentor of the \emph{RLadies London} community and of \emph{Researc[her] Research} community. These groups aim at promoting gender diversity in the R and STEM community via meetups, mentorship and global collaboration. With \emph{Researc[her]}, Alessia Visconti gave speeches on reproducibility, and workflow development.
 	\end{itemize}
 }
+
 \end{doubletablelist}
 
 \newpage
@@ -483,7 +498,7 @@ She has also worked on the problem of knowledge discovery in biological data, de
 
 \begin{itemize}
 	
-\bulletitem \smalltitle{\emph{-omics} of human diseases.}\\
+\bulletitem \smalltitle{\emph{-omics} of human diseases}\\
 Advances in \emph{-omics} data collection created an opportunity to identify factors influencing the risk of common diseases. Alessia Visconti is mainly involved in a set of projects aiming at dissecting the aetiology of melanoma, melanoma risk phenotypes, and their connection with ageing~\cite{Rib16,Pui16,Hys18,Vis18a,Duf17,Vis19a,Vis20,Lan20,San20,Swi15}. 
 She also used systems biology and bioinformatics approaches to study IgA Nephropathy~\cite{Lom16,Dot21}, cognition and neurodevelopmental disease~\cite{Joh15,Cul18}, reading and language disabilities~\cite{Gia16}, epigenetic plasticity~\cite{Car16} and modification~\cite{Zag18}, thyroid diseases~\cite{Mar20}, cardiovascular diseases and their risk factors~\cite{Ros21}, and immune system modifications~\cite{Pia21}. 
 She developed a framework for pairwise association testing in related samples~\cite{Vis16}, that has been used to perform the first epigenome-wide association study in an Arab population~\cite{AlM15}. 
@@ -493,24 +508,24 @@ She also reported on how to conduct metagenomic studies in microbiology and clin
 The SARS-CoV-2 virus is responsible for an acute respiratory illness.
 Alessia Visconti was part of the team that performed the first data cleaning and analyses for the information collected by the COVID Symptom Tracker app (developed by ZOE Ltd. in collaboration with TwinsUK). Several publications arose from this work~\cite{Men20,Lee20, Zaz20,Hop21,Wil21,Sud21}, and, in particular, she co-led a study investigating skin manifestations of SARS-CoV-2~\cite{Vis21}.
 
-\bulletitem \smalltitle{Reverse engineering of gene regulatory networks.}\\
+\bulletitem \smalltitle{Reverse engineering of gene regulatory networks}\\
 The reverse engineering problem, \emph{i.e.}, the inference of gene regulatory networks from data, is a cardinal task on the biological research agenda.
 Alessia Visconti worked on two approaches that allow the reverse engineering of gene regulatory networks and applied them to several organisms (\emph{E.~Coli}, \emph{S.~Cerevisiae}, \emph{S.~Pombe}). In the first approach a Naive Bayes-based framework has been developed. It merges multiple pieces of information derived from microarray experiments~\cite{Mar12, Vis11b}. In the second approach a method aiming at deciphering temporal influences among genes and proteins has been proposed~\cite{Vis12b}. 
 
-\bulletitem \smalltitle{Data mining techniques for biological data analysis.}\\
+\bulletitem \smalltitle{Data mining techniques for biological data analysis}\\
 Data mining allows the extraction of previously unknown knowledge from large data sets.
 Alessia Visconti developed novel techniques that allow the exploitation of domain knowledge and multiple data sources to improve coclustering and biclustering results.
 These have been used: \emph{i)}~to identify protein sequences characterised by common patterns~\cite{Vis08, Cor09a, Cor08b}, \emph{ii)}~to study synthenies in microorganisms~\cite{Bon11}, \emph{iii)}~to analyse RNA secondary structure~\cite{Cor08a}, and \emph{iv)}~to discover groups of genes showing similar expression profiles under the same set of experimental conditions~\cite{Vis13a, Cor09b, Vis11c, Vis12b}.
 
-\bulletitem \smalltitle{Machine learning techniques for solving biological problems.}\\
+\bulletitem \smalltitle{Machine learning techniques for solving biological problems}\\
 Machine learning focuses on the development of algorithms that improve through experience. An important application of Machine Learning  is the prediction of new knowledge from patterns learnt from data. 
 Alessia Visconti leveraged and combined machine learning approaches to deal with several biological problems, such as: \emph{i)}~the prediction of promoter activities from promoter sequences, \emph{ii)}~the identification of pharmacogenes~\cite{Vis12a, Vis12b}, and \emph{iii)}~the study of peptide-based drugs~\cite{Erm14, Vis15a, Erm13a}.
 
-\bulletitem \smalltitle{Gene Ontology restructuration.} \\
+\bulletitem \smalltitle{Gene Ontology restructuration} \\
 The Gene Ontology (GO) represents a collaborative effort to provide a structured vocabulary for consistent gene descriptions. Although GO facilitates information retrieval, its structure may hide some useful knowledge, such as gene cooperation.
 Alessia Visconti worked on a restructuration of Gene Ontology (RGO) that enhances automated analysis, such as gene profiling and clustering, statistical enrichment, as well as the evaluation of gene functional similarities~\cite{Vis11a, Vis10a, Vis12b}.
 
-\bulletitem \smalltitle{Probabilistic Graphical Models.}\\
+\bulletitem \smalltitle{Probabilistic Graphical Models}\\
 Probabilistic Graphical Models (PGMs) sport a rigorous theoretical foundation and provide an abstract language for modeling application domains. Answering Maximum a Posteriori queries over a PGM entails finding the assignment to the graph variables that \emph{globally} maximises the probability of an observation. 
 Alessia Visconti contributed to the development of a novel exact algorithm for answering Maximum a Posteriori queries on tree-structured PGMs~\cite{Esp13}.
 
