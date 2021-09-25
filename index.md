@@ -16,7 +16,7 @@ Westminster Bridge Road, London SE1 7EH
 
 ## Brief Vitae
 
-Alessia Visconti received her B.Sc. and M.Sc. degree in Computer Science, and her PhD in Science and High Technology (Computational Biology) at the University of Turin.
+Alessia Visconti received her B.Sc, M.Sc. and PhD degree in Computer Science  at the University of Turin.
 
 Currently, she is a research fellow at the [Department of Twin Research & Genetic Epidemiology](http://www.twinsuk.ac.uk/), King's College London, where she is member of the Computational Medicine Group.
 
