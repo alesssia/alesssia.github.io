@@ -6,10 +6,9 @@ title: Research Interests
 <br>
 
 - Computational Biology & Medicine
-- Big data
 - Machine Learning & Data Mining
 - Research Software Engineering
-
+<!-- - Big data analysis -->
 
 <br>
 

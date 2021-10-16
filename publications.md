@@ -22,7 +22,7 @@ title: Publications
 
 - Piaggeschi G., Rolla S., Rossi N., Brusa D., Naccarati A., Couvreur S., Spector T.D., Roederer M., Mangino M., Cordero F., Falchi M.<sup>‡</sup>, and **Visconti A.<sup>‡</sup>**, *Immune trait shifts in association with tobacco smoking: a study in healthy women*, Frontiers in immunology, 2021, [doi:10.3389/fimmu.2021.637974](https://www.frontiersin.org/articles/10.3389/fimmu.2021.637974)
 
-- Rossi N.<sup>†</sup>, Aliyev E.<sup>†</sup>, **Visconti A.**, Akil A.S.A., Syed N., Aamer W., Padmajeya S.S., Falchi M.<sup>‡</sup>, and Fakhro K.A.<sup>‡</sup>, *Ethnic-specific association of amylase gene copy number with adiposity traits in a large Middle Eastern biobank*, Genomic Medicine, 2021, [doi:110.1038/s41525-021-00170-3](https://www.nature.com/articles/s41525-021-00170-3)
+- Rossi N.<sup>†</sup>, Aliyev E.<sup>†</sup>, **Visconti A.**, Akil A.S.A., Syed N., Aamer W., Padmajeya S.S., Falchi M.<sup>‡</sup>, and Fakhro K.A.<sup>‡</sup>, *Ethnic-specific association of amylase gene copy number with adiposity traits in a large Middle Eastern biobank*, Genomic Medicine, 2021, [doi:10.1038/s41525-021-00170-3](https://www.nature.com/articles/s41525-021-00170-3)
 
 - Williams F.M.K., Freidin M.B., Mangino M., Couvreur S., **Visconti A.**, Bowyer R.C.E., Le Roy C.I., Falchi M., Mompeó O., Sudre C., Davies R., Hammond C., Menni C., Steves C.J., and Spector T.D., *Self-Reported Symptoms of COVID-19, Including Symptoms Most Predictive of SARS-CoV-2 Infection, Are Heritable*, Twin Research and Human Genetics, 2021, [doi:10.1017/thg.2020.85](https://doi.org/10.1017/thg.2020.85)
 
@@ -40,7 +40,7 @@ title: Publications
 
 - Scarfi F., Orozco A.P., **Visconti A.**, and Bataille V., *An Aggressive Clinical Presentation of Familial Leiomyomatosis Associated with a Fumarate Hydratase Gene Variant of Uncertain Clinical Significance*, Acta Dermato-venereologica, 2020, [doi:10.2340/00015555-3573](https://www.medicaljournals.se/acta/content/abstract/10.2340/00015555-3573)
 
-- Menni, C.<sup>†</sup>, Valdes, A. M.<sup>†</sup>, Freidin, M. B., Sudre, C. H., Nguyen, L. H., Drew, D. A., Ganesh, S., Varsavsky, T., Cardoso, M. J., El-Sayed Moustafa, J. S., **Visconti, A.**, Hysi, P., Bowyer, R. C. E., Mangino, M., Falchi, M., Wolf, J., Ourselin, S., Chan, A. T., Steves, C. J.<sup>‡</sup>, and Spector, T. D.<sup>‡</sup>, *Real-time tracking of self-reported symptoms to predict potential COVID-19*, Nature Medicine, 2020, [doi:10.1038/s41591-020-0916-2](https://www.nature.com/articles/s41591-020-0916-2)
+- Menni C.<sup>†</sup>, Valdes A. M.<sup>†</sup>, Freidin M.B., Sudre C.H., Nguyen L.H., Drew D.A., Ganesh S., Varsavsky T., Cardoso M.J., El-Sayed Moustafa J.S., **Visconti A.**, Hysi P., Bowyer R.C.E., Mangino M., Falchi M., Wolf J., Ourselin S., Chan A.T., Steves C.J.<sup>‡</sup>, and Spector T.D.<sup>‡</sup>, *Real-time tracking of self-reported symptoms to predict potential COVID-19*, Nature Medicine, 2020, [doi:10.1038/s41591-020-0916-2](https://www.nature.com/articles/s41591-020-0916-2)
 
 - Landi M.T., Bishop D.T., MacGregor S., ..., **Visconti A.**, ..., Shi J., Iles M.M. and Law M.H., *Genome-wide association meta-analyses combining multiple risk phenotypes provide insights into the genetic architecture of cutaneous melanoma susceptibility*, Nature Genetics, 2020, [doi:10.1038/s41588-020-0611-8](https://www.nature.com/articles/s41588-020-0611-8)	
 
@@ -56,7 +56,7 @@ title: Publications
 
 - Duffy D., Zhu G., Li X., ..., **Visconti A.**, ... Falchi M., Han J.<sup>‡</sup>, Martin N.G.<sup>‡</sup>, Melanoma GWAS Consortium *Novel pleiotropic risk loci for melanoma and nevus density implicate multiple biological pathways*, Nature Communications, 2018, [doi:10.1038/s41467-018-06649-5](https://doi.org/10.1038/s41467-018-06649-5)
 		
-- Martin T.C.<sup>†</sup>, **Visconti A<sup>†</sup>**, Tim D. Spector, and Falchi M., *Conducting metagenomic studies in microbiology and clinical research*, Appl Microbiol Biotechnol, 2018, [doi:10.1007/s00253-018-9209-9](https://link.springer.com/article/10.1007%2Fs00253-018-9209-9)
+- Martin T.C.<sup>†</sup>, **Visconti A<sup>†</sup>**, Spector T.D., and Falchi M., *Conducting metagenomic studies in microbiology and clinical research*, Applied Microbiology and Biotechnology, 2018, [doi:10.1007/s00253-018-9209-9](https://link.springer.com/article/10.1007%2Fs00253-018-9209-9)
 		
 - **Visconti A.**, Martin T.C., and Falchi M., *YAMP: a containerised workflow enabling reproducibility in metagenomics research*, GigaScience, 2018, [doi:10.1093/gigascience/giy072](https://doi.org/10.1093/gigascience/giy072)
 
@@ -76,62 +76,62 @@ title: Publications
 		
 - Gialluisi A., **Visconti A.**, Willcutt E.G., Smith S.D., Pennington B.F. Falchi M., DeFries J.C.,  Olson R.K., Francks C., and Fisher S.E., *Investigating the effects of copy number variants on reading and language performance*, Journal of Neurodevelopmental Disorders, 2016, [doi:10.1186/s11689-016-9147-8](https://jneurodevdisorders.biomedcentral.com/articles/10.1186/s11689-016-9147-8)
 		
-- Al Muftah W.A.<sup>†</sup>, Al-Shafai M.<sup>†</sup>, Zaghlool S.B., **Visconti A.**, Tsai P.C., Kumar P., Spector T., Bell J., Falchi M.<sup>‡</sup>, and Suhre K.<sup>‡</sup>, *Epigenetic associations of type 2 diabetes and BMI in an Arab population*, Clinical Epigenetics, 2016, [doi:10.1186/s13148-016-0177-6](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-016-0177-6)
+- Al Muftah W.A.<sup>†</sup>, Al-Shafai M.<sup>†</sup>, Zaghlool S.B., **Visconti A.**, Tsai P.C., Kumar P., Spector T., Bell J.T., Falchi M.<sup>‡</sup>, and Suhre K.<sup>‡</sup>, *Epigenetic associations of type 2 diabetes and BMI in an Arab population*, Clinical Epigenetics, 2016, [doi:10.1186/s13148-016-0177-6](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-016-0177-6)
 		
 - Johnson M.R., Shkura K., Langley S.R., ..., **Visconti A.**, ..., Kaminski R.M., Deary I.J., and Petretto E., *Systems genetics identifies a convergent gene network for cognition and neurodevelopmental disease*, Nature Neuroscience, 2015 [doi:10.1038/nn.4205](http://www.nature.com/neuro/journal/v19/n2/abs/nn.4205.html)
 		
-- **Visconti A.**, Ermondi G., Caron G., and Esposito R., *Prediction and Interpretation of the Lipophilicity of Small Peptides.*,  Journal of Computer-Aided Molecular Design, 2015, pp. 1-10 [doi:10.1007/s10822-015-9829-4](https://link.springer.com/article/10.1007%2Fs10822-015-9829-4)
+- **Visconti A.**, Ermondi G., Caron G., and Esposito R., *Prediction and Interpretation of the Lipophilicity of Small Peptides*,  Journal of Computer-Aided Molecular Design, 2015, [doi:10.1007/s10822-015-9829-4](https://link.springer.com/article/10.1007%2Fs10822-015-9829-4)
 	
-- **Visconti A.**, Cordero F., and Pensa R.G., *Leveraging additional knowledge to support coherent bicluster discovery in gene expression data*, Intelligent Data Analysis, 18:5, 2014, pp. 837-855, [doi:10.3233/IDA-140671](http://content.iospress.com/articles/intelligent-data-analysis/ida00671)
+- **Visconti A.**, Cordero F., and Pensa R.G., *Leveraging additional knowledge to support coherent bicluster discovery in gene expression data*, Intelligent Data Analysis, 2014, [doi:10.3233/IDA-140671](http://content.iospress.com/articles/intelligent-data-analysis/ida00671)
 		
-- Ermondi G., **Visconti A.**, Esposito R., and Caron G., *The Block Relevance (BR) analysis supports the dominating effect of solutes hydrogen bond acidity on D(logP_oct-tol)*, European Journal of Pharmaceutical Sciences, 53, 2014, pp. 50-45 [doi:10.1016/j.ejps.2013.12.007](http://www.sciencedirect.com/science/article/pii/S0928098713004648?via%3Dihub)
+- Ermondi G., **Visconti A.**, Esposito R., and Caron G., *The Block Relevance (BR) analysis supports the dominating effect of solutes hydrogen bond acidity on D(logP_oct-tol)*, European Journal of Pharmaceutical Sciences, 2014, [doi:10.1016/j.ejps.2013.12.007](http://www.sciencedirect.com/science/article/pii/S0928098713004648?via%3Dihub)
 	
-- Marbach D., Costello J.C., Kuffner R., Vega N., Prill R.J., Camacho D., Allison K.R., ..., **Visconti A.**, ..., Kellis M., Collins J.J., and Stolovitzky G., *Wisdom of crowds for robust gene network inference*, Nature Methods, Vol. 9, 2012, pp. 796-804 [doi:10.1038/nmeth.2016](http://www.nature.com/nmeth/journal/v9/n8/abs/nmeth.2016.html)
+- Marbach D., Costello J.C., Kuffner R., Vega N., Prill R.J., Camacho D., Allison K.R., ..., **Visconti A.**, ..., Kellis M., Collins J.J., and Stolovitzky G., *Wisdom of crowds for robust gene network inference*, Nature Methods, 2012, [doi:10.1038/nmeth.2016](http://www.nature.com/nmeth/journal/v9/n8/abs/nmeth.2016.html)
 		
-- **Visconti A.**, Esposito R., and Cordero F., *Restructuring the Gene Ontology to Emphasize Regulative Pathways and to Improve Gene Similarity Queries*, Int. J. Computational Biology and Drug Design, Vol. 4, No. 3, 2011, Inderscience Publishers, pp. 220-238, ISSN 1756-0764 [doi:10.1504/IJCBDD.2011.041411](http://www.inderscience.com/info/inarticle.php?artid=41411)
+- **Visconti A.**, Esposito R., and Cordero F., *Restructuring the Gene Ontology to Emphasize Regulative Pathways and to Improve Gene Similarity Queries*, Int. J. Computational Biology and Drug Design, 2011, [doi:10.1504/IJCBDD.2011.041411](http://www.inderscience.com/info/inarticle.php?artid=41411)
 
-- Bonfante P., Cordero F., Ghignone S., Ienco D., Lanfranco L., Leonardi G., Meo R., Montani S., Roversi L., and **Visconti A.**, *A Modular Database Architecture Enabled to Comparative Sequence Analysis*, LNCS Transactions on Large-Scale Data- and Knowledge-Centered Systems - TLDKS IV, LNCS 6990, 2011, Springer, pp. 124-147 [doi:10.1007/978-3-642-23740-9_6](https://link.springer.com/chapter/10.1007%2F978-3-642-23740-9_6)
+- Bonfante P., Cordero F., Ghignone S., Ienco D., Lanfranco L., Leonardi G., Meo R., Montani S., Roversi L., and **Visconti A.**, *A Modular Database Architecture Enabled to Comparative Sequence Analysis*, LNCS Transactions on Large-Scale Data- and Knowledge-Centered Systems - TLDKS IV, LNCS 6990, 2011, [doi:10.1007/978-3-642-23740-9_6](https://link.springer.com/chapter/10.1007%2F978-3-642-23740-9_6)
 
 
 ### In proceedings
 
-- Esposito R, Radicioni D.P., and **Visconti A.**, *CDoT: optimizing MAP queries on trees*, In proceedings of AI*IA 2013: Advances in Artificial Intelligence, XIIIth Int. Conf. of the Italian Association for Artificial Intelligence, Turin, December 4-6, 2013, LNAI 8249, pp. 481--492. Springer, [doi:10.1007/978-3-319-03524-6_41](https://link.springer.com/chapter/10.1007/978-3-319-03524-6_41)	
+- Esposito R, Radicioni D.P., and **Visconti A.**, *CDoT: optimizing MAP queries on trees*, In proceedings of AI*IA 2013: Advances in Artificial Intelligence, XIIIth Int. Conf. of the Italian Association for Artificial Intelligence, Turin, December 4-6, 2013, LNAI 8249, [doi:10.1007/978-3-319-03524-6_41](https://link.springer.com/chapter/10.1007/978-3-319-03524-6_41)	
 
-- **Visconti A.**, Esposito R., and Cordero F., *Tackling the DREAM Challenge for Gene Regulatory Networks Reverse Engineering*, In Proceedings of AI*IA 2011: Artificial Intelligence Around Man and Beyond, XIIth Int. Conf. of the Italian Association for Artificial Intelligence - Palermo, September 15-17, 2011, LNAI 6934, pp. 373-383, Springer [doi:10.1007/978-3-642-23954-0_34](https://link.springer.com/chapter/10.1007/978-3-642-23954-0_34)
+- **Visconti A.**, Esposito R., and Cordero F., *Tackling the DREAM Challenge for Gene Regulatory Networks Reverse Engineering*, In Proceedings of AI*IA 2011: Artificial Intelligence Around Man and Beyond, XIIth Int. Conf. of the Italian Association for Artificial Intelligence - Palermo, September 15-17, 2011, LNAI 6934, [doi:10.1007/978-3-642-23954-0_34](https://link.springer.com/chapter/10.1007/978-3-642-23954-0_34)
 
-- **Visconti A.**, Cordero F., Botta M., Calogero R.A., *Gene Ontology rewritten for computing gene functional similarity*, In Proceedings of the Fourth International Conferences on Complex, Intelligent and Software Intensive Systems, February 15-18, 2010, IEEE Computer Society Press, pp. 694-699 [doi:10.1109/CISIS.2010.30](https://www.computer.org/csdl/proceedings/cisis/2010/3967/00/3967a694-abs.html)
+- **Visconti A.**, Cordero F., Botta M., Calogero R.A., *Gene Ontology rewritten for computing gene functional similarity*, In Proceedings of the Fourth International Conferences on Complex, Intelligent and Software Intensive Systems, February 15-18, 2010, [doi:10.1109/CISIS.2010.30](https://www.computer.org/csdl/proceedings/cisis/2010/3967/00/3967a694-abs.html)
 		
-- Cordero F., Pensa R.G, **Visconti A.**, Ienco D. and  Botta M., *Ontology-driven Co-clustering of Gene Expression Data*, In proceedings of AI*IA 2009: Emergent Perspectives in Artificial Intelligence, XI Int. Conf. of the Italian Association for Artificial Intelligence - Reggio Emilia, December 9-12, 2009, LNAI 5883, pp. 426-435, Springer, December 2009, [doi:10.1007/978-3-642-10291-2_43](https://link.springer.com/chapter/10.1007%2F978-3-642-10291-2_43)
+- Cordero F., Pensa R.G, **Visconti A.**, Ienco D. and  Botta M., *Ontology-driven Co-clustering of Gene Expression Data*, In proceedings of AI*IA 2009: Emergent Perspectives in Artificial Intelligence, XI Int. Conf. of the Italian Association for Artificial Intelligence - Reggio Emilia, December 9-12, 2009, LNAI 5883, [doi:10.1007/978-3-642-10291-2_43](https://link.springer.com/chapter/10.1007%2F978-3-642-10291-2_43)
 		
-- Cordero F., **Visconti A.**, and Botta M., *A new protein motif extraction framework based on constrained co-clustering*, In Proceedings of the 24th Annual ACM Symposium on Applied Computing - March 8-12, 2009, ACM Press, pp. 776-781, [doi:10.1145/1529282.1529445](http://dl.acm.org/citation.cfm?doid=1529282.1529445)
+- Cordero F., **Visconti A.**, and Botta M., *A new protein motif extraction framework based on constrained co-clustering*, In Proceedings of the 24th Annual ACM Symposium on Applied Computing - March 8-12, 2009, [doi:10.1145/1529282.1529445](http://dl.acm.org/citation.cfm?doid=1529282.1529445)
 
 
 ### Book Chapters
 
-- **Visconti A.**, Cordero F., Ienco D., and Pensa R.G., *Coclustering under Gene Ontology Derived Constraints for Pathway Identification*, Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, John Wiley & Sons, pp. 625-642, [doi:10.1002/9781118617151.ch27](http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch27/summary)
+- **Visconti A.**, Cordero F., Ienco D., and Pensa R.G., *Coclustering under Gene Ontology Derived Constraints for Pathway Identification*, Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, [doi:10.1002/9781118617151.ch27](http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch27/summary)
 
 <!-- ### Pre Prints -->
 
 
 ### Selected Abstracts and Posters
 
-- Carnero-Montoro E., **Visconti A.**, Sacco C, Tsai P.C, Spector T.D, Falchi M., and Bell J.T.,  *Environmentally-induced epigenetic variability is associated with metabolic traits*, American Society of Human Genetics, October 2016
+- Carnero-Montoro E., **Visconti A.**, Sacco C., Tsai P.C, Spector T.D, Falchi M., and Bell J.T.,  *Environmentally-induced epigenetic variability is associated with metabolic traits*, American Society of Human Genetics, October 2016
 		
-- Swistak M., **Visconti A.**, Falchi M., Bataille V., and Spector T.D., *Differential expression and coexpression analysis across multiple tissues in twins*, EMBO Young Scientists Forum, Warsaw, July 2015, pp. 192
+- Swistak M., **Visconti A.**, Falchi M., Bataille V., and Spector T.D., *Differential expression and coexpression analysis across multiple tissues in twins*, EMBO Young Scientists Forum, Warsaw, July 2015
 			
-- Ermondi G., Esposito R., **Visconti A.**, Visentin S., Vallaro M., Rinaldi L, and Caron G., *Application of in-silico ``classical'' drug discovery tools to peptide research*, NovAliX Conference 2013, Biophysics in drug discovery, Strasbourg, October 2013, pp. P14
+- Ermondi G., Esposito R., **Visconti A.**, Visentin S., Vallaro M., Rinaldi L, and Caron G., *Application of in-silico ``classical'' drug discovery tools to peptide research*, NovAliX Conference 2013, Biophysics in drug discovery, Strasbourg, October 2013
 	
-- **Visconti A.**, Calogero R.A, and Cordero F., *Improving biomarker discovering for chemosensitivity prediction using an integrated approach*, 9th Annual Meeting of the Italian Society of Bioinformatics (BITS), EMBnet.journal, Supplement A, April 2012, pp. 24
+- **Visconti A.**, Calogero R.A, and Cordero F., *Improving biomarker discovering for chemosensitivity prediction using an integrated approach*, 9th Annual Meeting of the Italian Society of Bioinformatics (BITS), EMBnet.journal, Supplement A, April 2012
 
-- Cordero F., **Visconti A.**, and Botta M., *A web interface to extract protein motif by constrained co-clustering*, RECOMB Regulatory Genomics 2008, Boston, October 23-November 3, 2008.
+- Cordero F., **Visconti A.**, and Botta M., *A web interface to extract protein motif by constrained co-clustering*, RECOMB Regulatory Genomics 2008, Boston, October 23-November 3, 2008
 
-- Cordero F., **Visconti A.**, and Botta M., *A motif extraction framework applied on RNA secondary structure*, Alternative Splicing Workshop - Milano, October 3, 2008.
+- Cordero F., **Visconti A.**, and Botta M., *A motif extraction framework applied on RNA secondary structure*, Alternative Splicing Workshop - Milano, October 3, 2008
 
 
 ### Thesis
 
-- **Visconti A.**, *Systems Biology: Knowledge Discovery and Reverse Engineering*, PhD Thesis, Doctoral School in Science and High Technology, Department of Computer Science, University of Turin, July 2012.
+- **Visconti A.**, *Systems Biology: Knowledge Discovery and Reverse Engineering*, PhD Thesis, Department of Computer Science, University of Turin, 2012
 
-- **Visconti A.**, *SPOT: an algorithm for the extraction and the analysis of biological patterns*, Master Thesis, Department of Computer Science, University of Turin, July 2008.
+- **Visconti A.**, *SPOT: an algorithm for the extraction and the analysis of biological patterns*, Master Thesis, Department of Computer Science, University of Turin, 2008
 
-- **Visconti A.**, *The Haskell language*, Bachelor Thesis, Department of Computer Science, University of Turin, 2006.
+- **Visconti A.**, *The Haskell language*, Bachelor Thesis, Department of Computer Science, University of Turin, 2006
