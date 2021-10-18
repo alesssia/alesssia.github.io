@@ -7,9 +7,10 @@ title: Publications
   [[Journals]](#journals)
 | [[In proceedings]](#in-proceedings)
 | [[Book Chapters]](#book-chapters)
+| [[Pre Prints]](#pre-prints)
 | [[Selected Abstracts and Posters]](#selected-abstracts-and-posters)
 | [[Thesis]](#thesis)
-<!-- | [[Pre Prints]](#pre-prints) -->
+
 
 <sup>†</sup> means that the authors contributed equally to the work<br/>
 <sup>‡</sup> means that the authors jointly supervised the work
@@ -110,7 +111,10 @@ title: Publications
 
 - **Visconti A.**, Cordero F., Ienco D., and Pensa R.G., *Coclustering under Gene Ontology Derived Constraints for Pathway Identification*, Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, [doi:10.1002/9781118617151.ch27](http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch27/summary)
 
-<!-- ### Pre Prints -->
+
+### Pre Prints 
+
+- Zito A., Roberts A.L., **Visconti A.**, Rossi N., Andres-Ejarque R., Nardone S., El-Sayed Moustafa J.S., Falchi M., and Small K.S., *Escape from X-inactivation in twins exhibits intra- and inter-individual variability across tissues and is heritable*, bioRxiv, 2021, [doi:10.1101/2021.10.15.463586](https://www.biorxiv.org/content/10.1101/2021.10.15.463586v1)
 
 
 ### Selected Abstracts and Posters
@@ -135,3 +139,5 @@ title: Publications
 - **Visconti A.**, *SPOT: an algorithm for the extraction and the analysis of biological patterns*, Master Thesis, Department of Computer Science, University of Turin, 2008
 
 - **Visconti A.**, *The Haskell language*, Bachelor Thesis, Department of Computer Science, University of Turin, 2006
+
+
