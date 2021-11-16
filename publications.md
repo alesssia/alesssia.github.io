@@ -17,7 +17,9 @@ title: Publications
 
 ###  Journals
 
-- Dotz V.<sup>†</sup>, **Visconti A.**<sup>†</sup>, Lomax-Browne H.<sup>†</sup>, Florent C.<sup>†</sup>, Ederveen A.H., Medjeral-Thomas N., Cook H.T., Pickering M.,  Wuhrer M.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *O- and N-Glycosylation of Serum Immunoglobulin A is Associated with IgA Nephropathy and Glomerular Function*, , Journal of the American Society of Nephrology, 2021, [doi:10.1681/ASN.2020081208](https://jasn.asnjournals.org/content/early/2021/06/11/ASN.2020081208)
+- Grosche S.<sup>†</sup>, Marenholz I.<sup>†</sup>, Esparza-Gordillo J.<sup>†</sup>, Arnau-Sole A.<sup>†</sup>, ..., **Visconti A.**, ..., Worth CL, Xu CJ, and Lee YA, *Rare variant analysis in eczema identifies exonic variants in DUSP1, NOTCH4 and SLC9A4*, Nature Communications, 2021, [doi:10.1038/s41467-021-26783-x](https://www.nature.com/articles/s41467-021-26783-x)
+
+- Dotz V.<sup>†</sup>, **Visconti A.**<sup>†</sup>, Lomax-Browne H.<sup>†</sup>, Florent C.<sup>†</sup>, Ederveen A.H., Medjeral-Thomas N., Cook H.T., Pickering M.,  Wuhrer M.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *O- and N-Glycosylation of Serum Immunoglobulin A is Associated with IgA Nephropathy and Glomerular Function*, Journal of the American Society of Nephrology, 2021, [doi:10.1681/ASN.2020081208](https://jasn.asnjournals.org/content/early/2021/06/11/ASN.2020081208)
 
 - Sudre C.H.<sup>†</sup>, Lee K.A.<sup>†</sup>, Lochlainn M.N.<sup>†</sup>, Varsavsky T, Murray B., ..., **Visconti A.**, ..., Spector T.D., Steves C.J.<sup>‡</sup>, and Ourselin S.<sup>‡</sup>, *Symptom clusters in COVID-19: A potential clinical prediction tool from the COVID Symptom Study app*, Science Advances, 2021, [doi:10.1126/sciadv.abd4177](https://advances.sciencemag.org/content/7/12/eabd4177)
 
