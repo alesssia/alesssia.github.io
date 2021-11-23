@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+- Murray B., Kerfoot E., Chen L., Deng J., Graham M.S., Sudre C.H., Molteni E., Canas L.S., Antonelli M., Klaser K., **Visconti A.**, Hammers A., Chan A.T., Franks P.W., Davies R., Wolf J., Spector T.D., Steves C.J., Modat M., and Ourselin S. *Accessible data curation and analytics for international-scale citizen science datasets*, Scientific Data, 2021, [doi:10.1038/s41597-021-01071-x](https://www.nature.com/articles/s41597-021-01071-x)
+
 - Grosche S.<sup>†</sup>, Marenholz I.<sup>†</sup>, Esparza-Gordillo J.<sup>†</sup>, Arnau-Sole A.<sup>†</sup>, ..., **Visconti A.**, ..., Worth CL, Xu CJ, and Lee YA, *Rare variant analysis in eczema identifies exonic variants in DUSP1, NOTCH4 and SLC9A4*, Nature Communications, 2021, [doi:10.1038/s41467-021-26783-x](https://www.nature.com/articles/s41467-021-26783-x)
 
 - Dotz V.<sup>†</sup>, **Visconti A.**<sup>†</sup>, Lomax-Browne H.<sup>†</sup>, Florent C.<sup>†</sup>, Ederveen A.H., Medjeral-Thomas N., Cook H.T., Pickering M.,  Wuhrer M.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *O- and N-Glycosylation of Serum Immunoglobulin A is Associated with IgA Nephropathy and Glomerular Function*, Journal of the American Society of Nephrology, 2021, [doi:10.1681/ASN.2020081208](https://jasn.asnjournals.org/content/early/2021/06/11/ASN.2020081208)
