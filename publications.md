@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+- Le Roy C.I., Kurilshikov A., Leeming E.R., **Visconti A.**, Bowyer R.C.E, Menni C., Fachi M., Koutnikova H., Veiga P., Zhernakova A., Derrien M., and Spector T.D. *Yoghurt consumption is associated with changes in the composition of the human gut microbiome and metabolome*, BMC Microbiology, 2022, [doi:10.1186/s12866-021-02364-2](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02364-2)
+
 - Murray B., Kerfoot E., Chen L., Deng J., Graham M.S., Sudre C.H., Molteni E., Canas L.S., Antonelli M., Klaser K., **Visconti A.**, Hammers A., Chan A.T., Franks P.W., Davies R., Wolf J., Spector T.D., Steves C.J., Modat M., and Ourselin S. *Accessible data curation and analytics for international-scale citizen science datasets*, Scientific Data, 2021, [doi:10.1038/s41597-021-01071-x](https://www.nature.com/articles/s41597-021-01071-x)
 
 - Grosche S.<sup>†</sup>, Marenholz I.<sup>†</sup>, Esparza-Gordillo J.<sup>†</sup>, Arnau-Sole A.<sup>†</sup>, ..., **Visconti A.**, ..., Worth CL, Xu CJ, and Lee YA, *Rare variant analysis in eczema identifies exonic variants in DUSP1, NOTCH4 and SLC9A4*, Nature Communications, 2021, [doi:10.1038/s41467-021-26783-x](https://www.nature.com/articles/s41467-021-26783-x)
