@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+-  **Visconti A.<sup>†</sup>**, Murray B.<sup>†</sup>, Rossi N., Wolf J., Ourselin S., Spector T.D., Freeman E.E., Bataille V.<sup>‡</sup>, and Falchi M.<sup>‡</sup> *Cutaneous Manifestations of SARS-CoV-2 infection during the Delta and Omicron waves in 348,691 UK users of the UK ZOE COVID Study App*, British Journal of Dermatology, 2022, [doi:10.1111/bjd.21784](https://onlinelibrary.wiley.com/doi/10.1111/bjd.21784)
+
 - Le Roy C.I., Kurilshikov A., Leeming E.R., **Visconti A.**, Bowyer R.C.E, Menni C., Falchi M., Koutnikova H., Veiga P., Zhernakova A., Derrien M., and Spector T.D. *Yoghurt consumption is associated with changes in the composition of the human gut microbiome and metabolome*, BMC Microbiology, 2022, [doi:10.1186/s12866-021-02364-2](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02364-2)
 
 - Murray B., Kerfoot E., Chen L., Deng J., Graham M.S., Sudre C.H., Molteni E., Canas L.S., Antonelli M., Klaser K., **Visconti A.**, Hammers A., Chan A.T., Franks P.W., Davies R., Wolf J., Spector T.D., Steves C.J., Modat M., and Ourselin S. *Accessible data curation and analytics for international-scale citizen science datasets*, Scientific Data, 2021, [doi:10.1038/s41597-021-01071-x](https://www.nature.com/articles/s41597-021-01071-x)
