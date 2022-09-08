@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+-  Rossi N.<sup>†</sup>, Lee K. A.<sup>†</sup>, Bermudez M.V., **Visconti A.**, Thomas A.M., Bolte L.A., ..., Weersma R.K., Hospers G.A.P., Fehrmann R.S.N, Bataille V.<sup>‡</sup>, Falchi M.<sup>‡</sup>, *Circulating inflammatory proteins associate with response to immune checkpoint inhibition therapy in patients with advanced melanoma*, EBioMedicine, 2022 [doi:10.1016/j.ebiom.2022.104235](https://doi.org/10.1016/j.ebiom.2022.104235)
+
 -  **Visconti A.<sup>†</sup>**, Murray B.<sup>†</sup>, Rossi N., Wolf J., Ourselin S., Spector T.D., Freeman E.E., Bataille V.<sup>‡</sup>, and Falchi M.<sup>‡</sup> *Cutaneous Manifestations of SARS-CoV-2 infection during the Delta and Omicron waves in 348,691 UK users of the UK ZOE COVID Study App*, British Journal of Dermatology, 2022, [doi:10.1111/bjd.21784](https://onlinelibrary.wiley.com/doi/10.1111/bjd.21784)
 
 - Le Roy C.I., Kurilshikov A., Leeming E.R., **Visconti A.**, Bowyer R.C.E, Menni C., Falchi M., Koutnikova H., Veiga P., Zhernakova A., Derrien M., and Spector T.D. *Yoghurt consumption is associated with changes in the composition of the human gut microbiome and metabolome*, BMC Microbiology, 2022, [doi:10.1186/s12866-021-02364-2](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02364-2)
