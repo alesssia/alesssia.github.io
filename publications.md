@@ -124,6 +124,8 @@ title: Publications
 
 ### Pre Prints 
 
+- Budu-Aggrey A., Kilanowski A., Sobczyk M.K., Shringarpure S.S., Mitchell R., ...,  **Visconti A.**, ..., Holloway J.W., Min J., Brown S.J., Standl M., Paternoster L., *European and multi-ancestry genome-wide association meta-analysis of atopic dermatitis highlights importance of systemic immune regulation*, medRxiv, 2022, [doi:10.1101/2022.10.05.22279072](https://doi.org/10.1101/2022.10.05.22279072)
+
 - Zito A., Roberts A.L., **Visconti A.**, Rossi N., Andres-Ejarque R., Nardone S., El-Sayed Moustafa J.S., Falchi M., and Small K.S., *Escape from X-inactivation in twins exhibits intra- and inter-individual variability across tissues and is heritable*, bioRxiv, 2021, [doi:10.1101/2021.10.15.463586](https://www.biorxiv.org/content/10.1101/2021.10.15.463586v1)
 
 
