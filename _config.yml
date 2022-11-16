@@ -11,13 +11,14 @@ tagline:     ''
 description: 'PhD'
 url:         http://alesssia.github.io/
 baseurl:     /
-lastmod:    '2022-10-12'
+lastmod:    '2022-11-16'
 
 author:
   name:      'Alessia Visconti'
   url:       http://alesssia.github.io/
   email:     alessia.visconti@kcl.ac.uk
   twitter:   _alesssia
+  mastodon:  mas.to/@alesssia
   github:    alesssia
   orcid:     '0000-0003-4144-2019'
 

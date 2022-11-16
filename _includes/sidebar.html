@@ -43,6 +43,12 @@
 			</a> &nbsp;&nbsp;
 		  {% endif %}
 		  
+		  {% if site.author.mastodon %}
+			<a rel="me" href="https://{{ site.author.mastodon }}">
+			 <i class="fab fa-brands fa-mastodon ai-2x"></i>
+			</a> &nbsp;&nbsp;
+		  {% endif %}
+		  
 		  {% if site.author.orcid %}
 			<a href="https://profiles.impactstory.org/u/{{ site.author.orcid }}">
 			  <i class="ai ai-impactstory ai-2x"></i>
