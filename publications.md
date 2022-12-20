@@ -17,7 +17,9 @@ title: Publications
 
 ###  Journals
 
--  Rossi N.<sup>†</sup>, Lee K. A.<sup>†</sup>, Bermudez M.V., **Visconti A.**, Thomas A.M., Bolte L.A., ..., Weersma R.K., Hospers G.A.P., Fehrmann R.S.N, Bataille V.<sup>‡</sup>, Falchi M.<sup>‡</sup>, *Circulating inflammatory proteins associate with response to immune checkpoint inhibition therapy in patients with advanced melanoma*, EBioMedicine, 2022 [doi:10.1016/j.ebiom.2022.104235](https://doi.org/10.1016/j.ebiom.2022.104235)
+-  Zhang X., Adebayo A.S., Wang D., Raza Y., Tomlinson M., Dooley H., Bowyer R.C.E., Small K., Steves C.J., Spector T.D., Duncan E.L., **Visconti A.<sup>‡</sup>**, and Falchi M.<sup>‡</sup>, *PPI-induced changes in plasma metabolite levels influence total hip bone mineral density in a UK cohort*, Journal of Bone and Mineral Research, 2022 [doi:10.1002/jbmr.4754](https://asbmr.onlinelibrary.wiley.com/doi/epdf/10.1002/jbmr.4754)
+
+-  Rossi N.<sup>†</sup>, Lee K. A.<sup>†</sup>, Bermudez M.V., **Visconti A.**, Thomas A.M., Bolte L.A., ..., Weersma R.K., Hospers G.A.P., Fehrmann R.S.N, Bataille V.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Circulating inflammatory proteins associate with response to immune checkpoint inhibition therapy in patients with advanced melanoma*, EBioMedicine, 2022 [doi:10.1016/j.ebiom.2022.104235](https://doi.org/10.1016/j.ebiom.2022.104235)
 
 -  **Visconti A.<sup>†</sup>**, Murray B.<sup>†</sup>, Rossi N., Wolf J., Ourselin S., Spector T.D., Freeman E.E., Bataille V.<sup>‡</sup>, and Falchi M.<sup>‡</sup> *Cutaneous Manifestations of SARS-CoV-2 infection during the Delta and Omicron waves in 348,691 UK users of the UK ZOE COVID Study App*, British Journal of Dermatology, 2022, [doi:10.1111/bjd.21784](https://onlinelibrary.wiley.com/doi/10.1111/bjd.21784)
 
