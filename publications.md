@@ -16,14 +16,18 @@ title: Publications
 <sup>‡</sup> means that the authors jointly supervised the work
 
 ###  Journals
+
+- Zito A.<sup>†</sup>, Roberts A.L.<sup>†</sup>, **Visconti A.<sup>†</sup>**, Rossi N., Andres-Ejarque R., Nardone S., El-Sayed Moustafa J.S., Falchi M., and Small K.S., *Escape from X-inactivation in twins exhibits intra- and inter-individual variability across tissues and is heritable*, PLoS Genetics, 2023, [doi:10.1371/journal.pgen.1010556](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010556)
+
+- **Visconti A.**, Rossi N., Deriš H., Lee K.A., ..., Sasieni P., Bataille V.<sup>‡</sup>,  Lauc G.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, Total serum N‐glycans associate with response to immune checkpoint inhibition therapy and survival in patients with advanced melanoma, BMC Cancer, 2023 [doi:10.1186/s12885-023-10511-3](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-023-10511-3)
  
--  Valles-Colomer M., Blanco-Míguez A., Manghi P., Asnicar F., ..., **Visconti A.**, ..., Spector T.D., Domenici E., Collado M.C., and Segata N., *The person-to-person transmission landscape of the gut and oral microbiomes*, Nature, 2023 [doi:10.1038/s41586-022-05620-1](https://www.nature.com/articles/s41586-022-05620-1)
+- Valles-Colomer M., Blanco-Míguez A., Manghi P., Asnicar F., ..., **Visconti A.**, ..., Spector T.D., Domenici E., Collado M.C., and Segata N., *The person-to-person transmission landscape of the gut and oral microbiomes*, Nature, 2023 [doi:10.1038/s41586-022-05620-1](https://www.nature.com/articles/s41586-022-05620-1)
 
--  Zhang X., Adebayo A.S., Wang D., Raza Y., Tomlinson M., Dooley H., Bowyer R.C.E., Small K., Steves C.J., Spector T.D., Duncan E.L., **Visconti A.<sup>‡</sup>**, and Falchi M.<sup>‡</sup>, *PPI-induced changes in plasma metabolite levels influence total hip bone mineral density in a UK cohort*, Journal of Bone and Mineral Research, 2022 [doi:10.1002/jbmr.4754](https://asbmr.onlinelibrary.wiley.com/doi/epdf/10.1002/jbmr.4754)
+- Zhang X., Adebayo A.S., Wang D., Raza Y., Tomlinson M., Dooley H., Bowyer R.C.E., Small K., Steves C.J., Spector T.D., Duncan E.L., **Visconti A.<sup>‡</sup>**, and Falchi M.<sup>‡</sup>, *PPI-induced changes in plasma metabolite levels influence total hip bone mineral density in a UK cohort*, Journal of Bone and Mineral Research, 2022 [doi:10.1002/jbmr.4754](https://asbmr.onlinelibrary.wiley.com/doi/epdf/10.1002/jbmr.4754)
 
--  Rossi N.<sup>†</sup>, Lee K. A.<sup>†</sup>, Bermudez M.V., **Visconti A.**, Thomas A.M., Bolte L.A., ..., Weersma R.K., Hospers G.A.P., Fehrmann R.S.N, Bataille V.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Circulating inflammatory proteins associate with response to immune checkpoint inhibition therapy in patients with advanced melanoma*, EBioMedicine, 2022 [doi:10.1016/j.ebiom.2022.104235](https://doi.org/10.1016/j.ebiom.2022.104235)
+- Rossi N.<sup>†</sup>, Lee K. A.<sup>†</sup>, Bermudez M.V., **Visconti A.**, Thomas A.M., Bolte L.A., ..., Weersma R.K., Hospers G.A.P., Fehrmann R.S.N, Bataille V.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Circulating inflammatory proteins associate with response to immune checkpoint inhibition therapy in patients with advanced melanoma*, EBioMedicine, 2022 [doi:10.1016/j.ebiom.2022.104235](https://doi.org/10.1016/j.ebiom.2022.104235)
 
--  **Visconti A.<sup>†</sup>**, Murray B.<sup>†</sup>, Rossi N., Wolf J., Ourselin S., Spector T.D., Freeman E.E., Bataille V.<sup>‡</sup>, and Falchi M.<sup>‡</sup> *Cutaneous Manifestations of SARS-CoV-2 infection during the Delta and Omicron waves in 348,691 UK users of the UK ZOE COVID Study App*, British Journal of Dermatology, 2022, [doi:10.1111/bjd.21784](https://onlinelibrary.wiley.com/doi/10.1111/bjd.21784)
+- **Visconti A.<sup>†</sup>**, Murray B.<sup>†</sup>, Rossi N., Wolf J., Ourselin S., Spector T.D., Freeman E.E., Bataille V.<sup>‡</sup>, and Falchi M.<sup>‡</sup> *Cutaneous Manifestations of SARS-CoV-2 infection during the Delta and Omicron waves in 348,691 UK users of the UK ZOE COVID Study App*, British Journal of Dermatology, 2022, [doi:10.1111/bjd.21784](https://onlinelibrary.wiley.com/doi/10.1111/bjd.21784)
 
 - Le Roy C.I., Kurilshikov A., Leeming E.R., **Visconti A.**, Bowyer R.C.E, Menni C., Falchi M., Koutnikova H., Veiga P., Zhernakova A., Derrien M., and Spector T.D. *Yoghurt consumption is associated with changes in the composition of the human gut microbiome and metabolome*, BMC Microbiology, 2022, [doi:10.1186/s12866-021-02364-2](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02364-2)
 
@@ -129,8 +133,6 @@ title: Publications
 ### Pre Prints 
 
 - Budu-Aggrey A., Kilanowski A., Sobczyk M.K., Shringarpure S.S., Mitchell R., ...,  **Visconti A.**, ..., Holloway J.W., Min J., Brown S.J., Standl M., Paternoster L., *European and multi-ancestry genome-wide association meta-analysis of atopic dermatitis highlights importance of systemic immune regulation*, medRxiv, 2022, [doi:10.1101/2022.10.05.22279072](https://doi.org/10.1101/2022.10.05.22279072)
-
-- Zito A., Roberts A.L., **Visconti A.**, Rossi N., Andres-Ejarque R., Nardone S., El-Sayed Moustafa J.S., Falchi M., and Small K.S., *Escape from X-inactivation in twins exhibits intra- and inter-individual variability across tissues and is heritable*, bioRxiv, 2021, [doi:10.1101/2021.10.15.463586](https://www.biorxiv.org/content/10.1101/2021.10.15.463586v1)
 
 
 ### Selected Abstracts and Posters
