@@ -17,9 +17,11 @@ title: Publications
 
 ###  Journals
 
+- Louca P., Meijnikman A., Nogal MacHo A., Asnicar F., Attaye I., Vijay A., Kouraki A., **Visconti A.**, ..., Bulsiewicz W., Nieuwdorp M., Valdes A., Menni C., *The secondary bile acid isoursodeoxycholate is associated with postprandial lipaemia inflammation and appetite and changes post bariatric surgery*, Cell Reports Medicine, 2023, [doi:10.1016/j.xcrm.2023.100993](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00099-X)
+
 - Zito A., Roberts A.L.<sup>†</sup>, **Visconti A.<sup>†</sup>**, Rossi N., Andres-Ejarque R., Nardone S., El-Sayed Moustafa J.S., Falchi M., and Small K.S., *Escape from X-inactivation in twins exhibits intra- and inter-individual variability across tissues and is heritable*, PLoS Genetics, 2023, [doi:10.1371/journal.pgen.1010556](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010556)
 
-- **Visconti A.**, Rossi N., Deriš H., Lee K.A., ..., Sasieni P., Bataille V.<sup>‡</sup>,  Lauc G.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, Total serum N‐glycans associate with response to immune checkpoint inhibition therapy and survival in patients with advanced melanoma, BMC Cancer, 2023 [doi:10.1186/s12885-023-10511-3](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-023-10511-3)
+- **Visconti A.**, Rossi N., Deriš H., Lee K.A., ..., Sasieni P., Bataille V.<sup>‡</sup>,  Lauc G.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Total serum N‐glycans associate with response to immune checkpoint inhibition therapy and survival in patients with advanced melanoma*, BMC Cancer, 2023 [doi:10.1186/s12885-023-10511-3](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-023-10511-3)
  
 - Valles-Colomer M., Blanco-Míguez A., Manghi P., Asnicar F., ..., **Visconti A.**, ..., Spector T.D., Domenici E., Collado M.C., and Segata N., *The person-to-person transmission landscape of the gut and oral microbiomes*, Nature, 2023 [doi:10.1038/s41586-022-05620-1](https://www.nature.com/articles/s41586-022-05620-1)
 
