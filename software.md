@@ -17,6 +17,8 @@ title: Scientific Software
 
 - **MotifsLinker** associates clusters of proteins with their frequent motifs (&#9840;). <!-- It is available [here](http://compbio.di.unito.it/tools/recomb/motifslinker.html). -->
 
+- **PicNic** extracts topologies and discovers patterns in sets of chemical compound.
+
 - **PopPAnTe** enables pairwise association testing in related samples. It can be downloaded from [here](https://github.com/alesssia/poppante).
 
 - **RGO** (Restructured Gene Ontology) is a reorganisation of the Gene Ontology that emphasises regulative information so to provide better structure for gene functional analysis (&#9840;). <!-- It can be downloaded from [here](http://compbio.di.unito.it/tools/RGO/index.html). -->
