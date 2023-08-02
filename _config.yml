@@ -21,6 +21,7 @@ author:
   mastodon:  mas.to/@alesssia
   github:    alesssia
   orcid:     '0000-0003-4144-2019'
+  showCV:    CV
 
 pagination:
   indexpage: 'blog'
