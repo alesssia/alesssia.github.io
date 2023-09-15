@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+- Nogal, A.<sup>†</sup>, Tettamanzi F.<sup>†</sup>, Dong Q., Louca P., **Visconti, A.**, ...,  Spector T.D., Bell J.T., Gieger C., Valdes A.M.<sup>‡</sup>, and Menni C.<sup>‡</sup> *A faecal metabolite signature of impaired fasting glucose: results from two independent population-based cohorts*, Diabetes, 2023, [doi:/10.2337/db23-0170](https://diabetesjournals.org/diabetes/article/doi/10.2337/db23-0170/153601/A-faecal-metabolite-signature-of-impaired-fasting)
+
 - Nogal, A., Asnicar, F., Vijay, A., Kouraki, A., **Visconti, A.**, ..., Spector T.D., Valdes A.M.<sup>‡</sup>, and Menni C.<sup>‡</sup>, *Genetic and gut microbiome determinants of SCFA circulating and faecal levels, postprandial responses and links to chronic and acute inflammation*, Gut Microbes, 2023, [doi:0.1080/19490976.2023.2240050](https://www.tandfonline.com/doi/full/10.1080/19490976.2023.2240050)
 
 - Louca P., Meijnikman A., Nogal MacHo A., Asnicar F., Attaye I., Vijay A., Kouraki A., **Visconti A.**, ..., Bulsiewicz W., Nieuwdorp M., Valdes A., Menni C., *The secondary bile acid isoursodeoxycholate is associated with postprandial lipaemia inflammation and appetite and changes post bariatric surgery*, Cell Reports Medicine, 2023, [doi:10.1016/j.xcrm.2023.100993](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00099-X)
