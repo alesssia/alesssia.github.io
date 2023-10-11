@@ -6,11 +6,10 @@ title: About
 ![Alessia's profile pic]({{ "/" | relative_url }}assets/official_pic_xxsmall_web_face.png)
 
 **Alessia Visconti, PhD** \\
-Department of Twin Research and Genetic Epidemiology, King’s College London\\
-St Thomas’ Hospital, 3rd floor South Wing Block D \\
-Westminster Bridge Road, London, SE1 7EH 
+Genomics Research Centre, Human Technopole\\
+Palazzo Italia, Viale Rita Levi Montalcini, 1, 20157 Milan, Italy
 
-**E-mail:** [alessia.visconti@kcl.ac.uk](mailto:alessia.visconti@kcl.ac.uk)
+**E-mail:** [alessia.visconti@fht.org](mailto:alessia.visconti@fht.org)
 
 <br> 
 
@@ -18,9 +17,9 @@ Westminster Bridge Road, London, SE1 7EH
 
 Alessia Visconti received her B.Sc, M.Sc. and PhD degrees in Computer Science at the University of Turin.
 
-Currently, she is a research fellow at the [Department of Twin Research & Genetic Epidemiology](http://www.twinsuk.ac.uk/), King's College London, where she is member of the Computational Medicine Group.
+Currently, she is  a senior bioinformatician at the [Genomics Research Centre](https://humantechnopole.it/en/research-centres/genomics/), Human Technopole, Italy. 
 
-Previously, she has been a research associate at the Department of Genomics of Common Disease, School of Public Health, Imperial College London, a honorary research associate at [the CERN OpenLab](http://openlab.cern/), CERN, and a postdoctoral fellow at the Department of Computer Science, University of Turin, where she was a member of the Computational Biology and of the Machine Learning and Data Mining groups. 
+Previously, she has been a research fellow at the [Department of Twin Research & Genetic Epidemiology](http://www.twinsuk.ac.uk/), King's College London, a research associate at the Department of Genomics of Common Disease, School of Public Health, Imperial College London, a honorary research associate at [the CERN OpenLab](http://openlab.cern/), CERN, and a postdoctoral fellow at the Department of Computer Science, University of Turin, Italy.
 
 She is a certified [Carpentries](https://carpentries.org/) Instructor, volunteering for [King's College London](https://kcl-carpentries.github.io/index.html).
 

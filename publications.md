@@ -7,7 +7,7 @@ title: Publications
   [[Journals]](#journals)
 | [[In proceedings]](#in-proceedings)
 | [[Book Chapters]](#book-chapters)
-| [[Pre Prints]](#pre-prints)
+<!-- | [[Pre Prints]](#pre-prints) -->
 | [[Selected Abstracts and Posters]](#selected-abstracts-and-posters)
 | [[Thesis]](#thesis)
 
@@ -16,6 +16,8 @@ title: Publications
 <sup>‡</sup> means that the authors jointly supervised the work
 
 ###  Journals
+
+- Budu-Aggrey A., Kilanowski A., Sobczyk M.K., Shringarpure S.S., Mitchell R., ...,  **Visconti A.**, ..., Holloway J.W., Min J., Brown S.J., Standl M., Paternoster L., *European and multi-ancestry genome-wide association meta-analysis of atopic dermatitis highlights importance of systemic immune regulation*, Nature Communications, 2023, [doi:10.1038/s41467-023-41180-2](https://www.nature.com/articles/s41467-023-41180-2)
 
 - Nogal, A.<sup>†</sup>, Tettamanzi F.<sup>†</sup>, Dong Q., Louca P., **Visconti, A.**, ...,  Spector T.D., Bell J.T., Gieger C., Valdes A.M.<sup>‡</sup>, and Menni C.<sup>‡</sup> *A faecal metabolite signature of impaired fasting glucose: results from two independent population-based cohorts*, Diabetes, 2023, [doi:/10.2337/db23-0170](https://diabetesjournals.org/diabetes/article/doi/10.2337/db23-0170/153601/A-faecal-metabolite-signature-of-impaired-fasting)
 
@@ -29,7 +31,7 @@ title: Publications
  
 - Valles-Colomer M., Blanco-Míguez A., Manghi P., Asnicar F., ..., **Visconti A.**, ..., Spector T.D., Domenici E., Collado M.C., and Segata N., *The person-to-person transmission landscape of the gut and oral microbiomes*, Nature, 2023 [doi:10.1038/s41586-022-05620-1](https://www.nature.com/articles/s41586-022-05620-1)
 
-- Zhang X., Adebayo A.S., Wang D., Raza Y., Tomlinson M., Dooley H., Bowyer R.C.E., Small K., Steves C.J., Spector T.D., Duncan E.L., **Visconti A.<sup>‡</sup>**, and Falchi M.<sup>‡</sup>, *PPI-induced changes in plasma metabolite levels influence total hip bone mineral density in a UK cohort*, Journal of Bone and Mineral Research, 2022 [doi:10.1002/jbmr.4754](https://asbmr.onlinelibrary.wiley.com/doi/epdf/10.1002/jbmr.4754)
+- Zhang X., Adebayo A.S., Wang D., Raza Y., Tomlinson M., Dooley H., Bowyer R.C.E., Small K., Steves C.J., Spector T.D., Duncan E.L., **Visconti A.<sup>‡</sup>**, and Falchi M.<sup>‡</sup>, *PPI-induced changes in plasma metabolite levels influence total hip bone mineral density in a UK cohort*, Journal of Bone and Mineral Research, 2022 [doi:10.1002/jbmr.4754](https://asbmr.onlinelibrary.wiley.com/doi/full/10.1002/jbmr.4754)
 
 - Rossi N.<sup>†</sup>, Lee K. A.<sup>†</sup>, Bermudez M.V., **Visconti A.**, Thomas A.M., Bolte L.A., ..., Weersma R.K., Hospers G.A.P., Fehrmann R.S.N, Bataille V.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Circulating inflammatory proteins associate with response to immune checkpoint inhibition therapy in patients with advanced melanoma*, EBioMedicine, 2022 [doi:10.1016/j.ebiom.2022.104235](https://doi.org/10.1016/j.ebiom.2022.104235)
 
@@ -136,10 +138,9 @@ title: Publications
 - **Visconti A.**, Cordero F., Ienco D., and Pensa R.G., *Coclustering under Gene Ontology Derived Constraints for Pathway Identification*, Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, [doi:10.1002/9781118617151.ch27](http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch27/summary)
 
 
-### Pre Prints 
+<!-- ### Pre Prints
 
-- Budu-Aggrey A., Kilanowski A., Sobczyk M.K., Shringarpure S.S., Mitchell R., ...,  **Visconti A.**, ..., Holloway J.W., Min J., Brown S.J., Standl M., Paternoster L., *European and multi-ancestry genome-wide association meta-analysis of atopic dermatitis highlights importance of systemic immune regulation*, medRxiv, 2022, [doi:10.1101/2022.10.05.22279072](https://doi.org/10.1101/2022.10.05.22279072)
-
+ -->
 
 ### Selected Abstracts and Posters
 
