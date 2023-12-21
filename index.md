@@ -6,22 +6,19 @@ title: About
 ![Alessia's profile pic]({{ "/" | relative_url }}assets/official_pic_xxsmall_web_face.png)
 
 **Alessia Visconti, PhD** \\
-Genomics Research Centre, Human Technopole\\
-Palazzo Italia, Viale Rita Levi Montalcini, 1, 20157 Milan, Italy
+Department of Clinical and Biological Sciences, University of Turin\\
+Regione Gonzole 10, 10043, Orbassano, Torino, Italy
 
-**E-mail:** [alessia.visconti@fht.org](mailto:alessia.visconti@fht.org)
+**E-mail:** [alessia.visconti@unito.it](mailto:alessia.visconti@unito.it)
 
 <br> 
 
 ## Brief Vitae
 
-Alessia Visconti received her B.Sc, M.Sc. and PhD degrees in Computer Science at the University of Turin.
+Alessia Visconti is an assistant professor (tenure track) at the [Department of Clinical and Biological Sciences](https://www.clinbio.unito.it/do/home.pl), University of Turin, Italy. 
 
-Currently, she is  a senior bioinformatician at the [Genomics Research Centre](https://humantechnopole.it/en/research-centres/genomics/), Human Technopole, Italy. 
+Previously, she has been a research fellow at the [Department of Twin Research & Genetic Epidemiology](http://www.twinsuk.ac.uk/), King's College London, a research associate at the Department of Genomics of Common Disease, School of Public Health, Imperial College London, and a postdoctoral fellow at the Department of Computer Science, University of Turin, Italy.
 
-Previously, she has been a research fellow at the [Department of Twin Research & Genetic Epidemiology](http://www.twinsuk.ac.uk/), King's College London, a research associate at the Department of Genomics of Common Disease, School of Public Health, Imperial College London, a honorary research associate at [the CERN OpenLab](http://openlab.cern/), CERN, and a postdoctoral fellow at the Department of Computer Science, University of Turin, Italy.
-
-She is a certified [Carpentries](https://carpentries.org/) Instructor, volunteering for [King's College London](https://kcl-carpentries.github.io/index.html).
 
 <br> 
 
