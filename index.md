@@ -6,8 +6,9 @@ title: About
 ![Alessia's profile pic]({{ "/" | relative_url }}assets/official_pic_xxsmall_web_face.png)
 
 **Alessia Visconti, PhD** \\
+Center of Biostatistics, Epidemiology, and Public Health\\
 Department of Clinical and Biological Sciences, University of Turin\\
-Regione Gonzole 10, 10043, Orbassano, Torino, Italy
+Regione Gonzole 10, 10043, Orbassano, Turin, Italy
 
 **E-mail:** [alessia.visconti@unito.it](mailto:alessia.visconti@unito.it)
 

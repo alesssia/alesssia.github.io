@@ -7,8 +7,8 @@ title: Publications
   [[Journals]](#journals)
 | [[In proceedings]](#in-proceedings)
 | [[Book Chapters]](#book-chapters)
-<!-- | [[Pre Prints]](#pre-prints) -->
-| [[Selected Abstracts and Posters]](#selected-abstracts-and-posters)
+| [[Pre Prints]](#pre-prints)
+<!-- | [[Selected Abstracts and Posters]](#selected-abstracts-and-posters) -->
 | [[Thesis]](#thesis)
 
 
@@ -138,23 +138,24 @@ title: Publications
 - **Visconti A.**, Cordero F., Ienco D., and Pensa R.G., *Coclustering under Gene Ontology Derived Constraints for Pathway Identification*, Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, [doi:10.1002/9781118617151.ch27](http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch27/summary)
 
 
-<!-- ### Pre Prints
+### Pre Prints
 
- -->
+- **Visconti A.<sup>†</sup>**, Rossi N.<sup>†</sup>, Bondt A., Hipgrave Ederveen A., Thareja G., Koeleman C.A.M., Stephan N., Halama A., Lomax-Browne H.J., Pickering M.C., Zhou X., Wuhrer M.<sup>‡</sup>, Suhre K.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *The genetics and epidemiology of N- and O- IgA glycomics*, medRxiv, 2023, [doi:10.1101/2024.01.05.24300885 ](https://www.medrxiv.org/content/10.1101/2024.01.05.24300885v1)
 
-### Selected Abstracts and Posters
+
+<!-- ### Selected Abstracts and Posters
 
 - Carnero-Montoro E., **Visconti A.**, Sacco C., Tsai P.C, Spector T.D, Falchi M., and Bell J.T.,  *Environmentally-induced epigenetic variability is associated with metabolic traits*, American Society of Human Genetics, October 2016
-		
+
 - Swistak M., **Visconti A.**, Falchi M., Bataille V., and Spector T.D., *Differential expression and coexpression analysis across multiple tissues in twins*, EMBO Young Scientists Forum, Warsaw, July 2015
-			
+
 - Ermondi G., Esposito R., **Visconti A.**, Visentin S., Vallaro M., Rinaldi L, and Caron G., *Application of in-silico ``classical'' drug discovery tools to peptide research*, NovAliX Conference 2013, Biophysics in drug discovery, Strasbourg, October 2013
-	
+
 - **Visconti A.**, Calogero R.A, and Cordero F., *Improving biomarker discovering for chemosensitivity prediction using an integrated approach*, 9th Annual Meeting of the Italian Society of Bioinformatics (BITS), EMBnet.journal, Supplement A, April 2012
 
 - Cordero F., **Visconti A.**, and Botta M., *A web interface to extract protein motif by constrained co-clustering*, RECOMB Regulatory Genomics 2008, Boston, October 23-November 3, 2008
 
-- Cordero F., **Visconti A.**, and Botta M., *A motif extraction framework applied on RNA secondary structure*, Alternative Splicing Workshop - Milano, October 3, 2008
+- Cordero F., **Visconti A.**, and Botta M., *A motif extraction framework applied on RNA secondary structure*, Alternative Splicing Workshop - Milano, October 3, 2008 -->
 
 
 ### Thesis
