@@ -99,7 +99,7 @@ title: Publications
 		
 - Ribero S.<sup>†</sup>, Sanna M.<sup>†</sup>, **Visconti A.**, Navarini A., Aviv A.,Glass D., Spector T.D., Smith C., Simpson M., Barker J., Mangino M., Falchi M.<sup>‡</sup>, and Bataille V.<sup>‡</sup>, *Acne and telomere length. A new spectrum between senescence and apoptosis pathways*, The Journal of Investigative Dermatology, 2016, [doi:10.1016/j.jid.2016.09.014](http://www.sciencedirect.com/science/article/pii/S0022202X16324563) 
 				
-- Lomax-Browne H.J.<sup>†</sup>, **Visconti A.<sup>†</sup>**, Pusey C.D., Cook H.T., Spector T.D., Pickering M.C<sup>‡</sup>, and Falchi M<sup>‡</sup>, *IgA Glycosylation is Heritable in Healthy Twins*, Journal of the American Society of Nephrology, 2016, [doi:10.1681/ASN.2016020184](http://jasn.asnjournals.org/content/early/2016/06/20/ASN.2016020184) 
+- Lomax-Browne H.J.<sup>†</sup>, **Visconti A.<sup>†</sup>**, Pusey C.D., Cook H.T., Spector T.D., Pickering M.C<sup>‡</sup>, and Falchi M<sup>‡</sup>, *IgA1 Glycosylation is Heritable in Healthy Twins*, Journal of the American Society of Nephrology, 2016, [doi:10.1681/ASN.2016020184](https://journals.lww.com/jasn/fulltext/2017/01000/iga1_glycosylation_is_heritable_in_healthy_twins.11.aspx) 
 		
 - Gialluisi A., **Visconti A.**, Willcutt E.G., Smith S.D., Pennington B.F. Falchi M., DeFries J.C.,  Olson R.K., Francks C., and Fisher S.E., *Investigating the effects of copy number variants on reading and language performance*, Journal of Neurodevelopmental Disorders, 2016, [doi:10.1186/s11689-016-9147-8](https://jneurodevdisorders.biomedcentral.com/articles/10.1186/s11689-016-9147-8)
 		
