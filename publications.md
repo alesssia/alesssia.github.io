@@ -95,7 +95,7 @@ title: Publications
 
 - **Visconti A.**, Al-Shafai M.,  Al Muftah W.A.,  Zaghlool S.B., Mangino M., Suhre K., and Falchi M., *PopPAnTe: population and pedigree association testing for quantitative data*, BMC Genomics, 2017, [doi:10.1186/s12864-017-3527-7](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3527-7)
 		
-- Puig-Butille J.A., Gimenez-Xavier P., **Visconti A.**, Nsengimana J., Garcia-Garcia F., Tell-Marti G., Escamez M.J., Newton-Bishop J.A., Bataille V., Del Rio M., Dopazo J., Falchi M, and Puig S., *Genomic expression differences between cutaneous cells from red hair colour individuals and black hair colour individuals based on bioinformatic analysis*, Oncotarget, 2016, [doi:10.18632/oncotarget.14140](http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=14140)
+- Puig-Butille J.A., Gimenez-Xavier P., **Visconti A.**, Nsengimana J., Garcia-Garcia F., Tell-Marti G., Escamez M.J., Newton-Bishop J.A., Bataille V., Del Rio M., Dopazo J., Falchi M, and Puig S., *Genomic expression differences between cutaneous cells from red hair colour individuals and black hair colour individuals based on bioinformatic analysis*, Oncotarget, 2016, [doi:10.18632/oncotarget.14140](https://www.oncotarget.com/article/14140/text/)
 		
 - Ribero S.<sup>†</sup>, Sanna M.<sup>†</sup>, **Visconti A.**, Navarini A., Aviv A.,Glass D., Spector T.D., Smith C., Simpson M., Barker J., Mangino M., Falchi M.<sup>‡</sup>, and Bataille V.<sup>‡</sup>, *Acne and telomere length. A new spectrum between senescence and apoptosis pathways*, The Journal of Investigative Dermatology, 2016, [doi:10.1016/j.jid.2016.09.014](http://www.sciencedirect.com/science/article/pii/S0022202X16324563) 
 				
