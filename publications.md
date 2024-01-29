@@ -61,7 +61,7 @@ title: Publications
 
 - Zazzara M.B.<sup>†</sup>, Penfold R.S.<sup>†</sup>, Roberts A.L.<sup>†</sup>, Lee, K.A., Dooley H., Sudre C.H., Welch C., Bowyer R.C.E, **Visconti A.**, ..., Martin F.C., Steves C.J.<sup>‡</sup>, and Lochlainn M.N.<sup>‡</sup>, *Probable delirium is a presenting symptom of COVID-19 in frail, older adults: a cohort study of 322 hospitalised and 535 community-based older adults*, Age and Ageing, 2020, [doi:10.1093/ageing/afaa223](https://doi.org/10.1093/ageing/afaa223)
 
-- Sanna M.<sup>†</sup>, Li X.<sup>†</sup>, **Visconti A.**, Freidin M. B., Sacco C., Ribero S., Hysi P., Bataille V., Han J.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Looking for Sunshine: Genetic Predisposition to Sun-Seeking in 265,000 Individuals of European Ancestry*, Journal of Investigative Dermatology, 2020, [doi:10.1016/j.jid.2020.08.014](https://www.sciencedirect.com/science/article/pii/S0022202X20320492)
+- Sanna M.<sup>†</sup>, Li X.<sup>†</sup>, **Visconti A.**, Freidin M. B., Sacco C., Ribero S., Hysi P., Bataille V., Han J.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Looking for Sunshine: Genetic Predisposition to Sun-Seeking in 265,000 Individuals of European Ancestry*, Journal of Investigative Dermatology, 2020, [doi:10.1016/j.jid.2020.08.014](https://doi.org/10.1016/j.jid.2020.08.014)
 
 - Lee K.A.<sup>†</sup>, Ma W.<sup>†</sup>, Sikavi D.R., ..., **Visconti A.**, ..., Ourselin S., Spector T.D., and Chan A.T., COPE consortium, *Cancer and Risk of COVID-19 Through a General Community Survey*, Oncologist, 2020, [doi:10.1634/theoncologist.2020-0572](https://theoncologist.onlinelibrary.wiley.com/doi/full/10.1634/theoncologist.2020-0572)
 
@@ -111,7 +111,7 @@ title: Publications
 	
 - **Visconti A.**, Cordero F., and Pensa R.G., *Leveraging additional knowledge to support coherent bicluster discovery in gene expression data*, Intelligent Data Analysis, 2014, [doi:10.3233/IDA-140671](http://content.iospress.com/articles/intelligent-data-analysis/ida00671)
 		
-- Ermondi G., **Visconti A.**, Esposito R., and Caron G., *The Block Relevance (BR) analysis supports the dominating effect of solutes hydrogen bond acidity on D(logP_oct-tol)*, European Journal of Pharmaceutical Sciences, 2014, [doi:10.1016/j.ejps.2013.12.007](https://www.sciencedirect.com/science/article/abs/pii/S0928098713004648)
+- Ermondi G., **Visconti A.**, Esposito R., and Caron G., *The Block Relevance (BR) analysis supports the dominating effect of solutes hydrogen bond acidity on D(logP_oct-tol)*, European Journal of Pharmaceutical Sciences, 2014, [doi:10.1016/j.ejps.2013.12.007](https://doi.org/10.1016/j.ejps.2013.12.007)
 	
 - Marbach D., Costello J.C., Kuffner R., Vega N., Prill R.J., Camacho D., Allison K.R., ..., **Visconti A.**, ..., Kellis M., Collins J.J., and Stolovitzky G., *Wisdom of crowds for robust gene network inference*, Nature Methods, 2012, [doi:10.1038/nmeth.2016](http://www.nature.com/nmeth/journal/v9/n8/abs/nmeth.2016.html)
 		
