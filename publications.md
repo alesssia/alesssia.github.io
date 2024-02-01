@@ -17,7 +17,9 @@ title: Publications
 
 ###  Journals
 
-- Budu-Aggrey A., Kilanowski A., Sobczyk M.K., Shringarpure S.S., Mitchell R., ...,  **Visconti A.**, ..., Holloway J.W., Min J., Brown S.J., Standl M., Paternoster L., *European and multi-ancestry genome-wide association meta-analysis of atopic dermatitis highlights importance of systemic immune regulation*, Nature Communications, 2023, [doi:10.1038/s41467-023-41180-2](https://www.nature.com/articles/s41467-023-41180-2)
+- Kirk D., Costeira R., **Visconti A.**, Mirzaei M.K., Deng L., Valdes A.M., and Menni C., *Bacteriophages, gut bacteria, and microbial pathways interplay in cardiometabolic health*, Cell Reports, 2024,  [doi:10.1016/j.celrep.2024.113728](https://doi.org/10.1016/j.celrep.2024.113728)
+
+- Budu-Aggrey A., Kilanowski A., Sobczyk M.K., Shringarpure S.S., Mitchell R., ...,  **Visconti A.**, ..., Holloway J.W., Min J., Brown S.J., Standl M., and Paternoster L., *European and multi-ancestry genome-wide association meta-analysis of atopic dermatitis highlights importance of systemic immune regulation*, Nature Communications, 2023, [doi:10.1038/s41467-023-41180-2](https://www.nature.com/articles/s41467-023-41180-2)
 
 - Nogal, A.<sup>†</sup>, Tettamanzi F.<sup>†</sup>, Dong Q., Louca P., **Visconti, A.**, ...,  Spector T.D., Bell J.T., Gieger C., Valdes A.M.<sup>‡</sup>, and Menni C.<sup>‡</sup> *A faecal metabolite signature of impaired fasting glucose: results from two independent population-based cohorts*, Diabetes, 2023, [doi:/10.2337/db23-0170](https://diabetesjournals.org/diabetes/article/doi/10.2337/db23-0170/153601/A-faecal-metabolite-signature-of-impaired-fasting)
 
