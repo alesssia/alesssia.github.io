@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+- Danckert N.P.<sup>†</sup>,, Freidin M.B.<sup>†</sup>,, Granville Smith I., Wells P.M., Naeini M.K., **Visconti A.**, Compte R., MacGregor A., and Williams F.M.K, *Treatment response in rheumatoid arthritis is predicted by the microbiome: a large observational study in UK DMARD-naïve patients*, Rheumatology, 2024, [doi:10.1093/rheumatology/keae045](https://doi.org/10.1093/rheumatology/keae045)
+
 - Kirk D., Costeira R., **Visconti A.**, Mirzaei M.K., Deng L., Valdes A.M., and Menni C., *Bacteriophages, gut bacteria, and microbial pathways interplay in cardiometabolic health*, Cell Reports, 2024,  [doi:10.1016/j.celrep.2024.113728](https://doi.org/10.1016/j.celrep.2024.113728)
 
 - Budu-Aggrey A., Kilanowski A., Sobczyk M.K., Shringarpure S.S., Mitchell R., ...,  **Visconti A.**, ..., Holloway J.W., Min J., Brown S.J., Standl M., and Paternoster L., *European and multi-ancestry genome-wide association meta-analysis of atopic dermatitis highlights importance of systemic immune regulation*, Nature Communications, 2023, [doi:10.1038/s41467-023-41180-2](https://www.nature.com/articles/s41467-023-41180-2)
