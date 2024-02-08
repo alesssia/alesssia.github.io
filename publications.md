@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+- Attaye I.<sup>†</sup>, Beynon-Cobb B.<sup>†</sup>, Louca P., Nogal A., **Visconti A.**, Tettamanzi F., Wong K., Michellotti G., Spector T.D.,  Falchi M., Bell J.T., and Menni C., *Cross-sectional analyses of metabolites across biological samples mediating dietary acid load and chronic kidney disease*, iScience, 2024, [doi:10.1016/j.isci.2024.109132](https://doi.org/10.1016/j.isci.2024.109132)
+
 - Danckert N.P.<sup>†</sup>,, Freidin M.B.<sup>†</sup>,, Granville Smith I., Wells P.M., Naeini M.K., **Visconti A.**, Compte R., MacGregor A., and Williams F.M.K, *Treatment response in rheumatoid arthritis is predicted by the microbiome: a large observational study in UK DMARD-naïve patients*, Rheumatology, 2024, [doi:10.1093/rheumatology/keae045](https://doi.org/10.1093/rheumatology/keae045)
 
 - Kirk D., Costeira R., **Visconti A.**, Mirzaei M.K., Deng L., Valdes A.M., and Menni C., *Bacteriophages, gut bacteria, and microbial pathways interplay in cardiometabolic health*, Cell Reports, 2024,  [doi:10.1016/j.celrep.2024.113728](https://doi.org/10.1016/j.celrep.2024.113728)
