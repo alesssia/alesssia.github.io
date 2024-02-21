@@ -146,7 +146,9 @@ title: Publications
 
 ### Pre Prints
 
-- **Visconti A.<sup>†</sup>**, Rossi N.<sup>†</sup>, Bondt A., Hipgrave Ederveen A., Thareja G., Koeleman C.A.M., Stephan N., Halama A., Lomax-Browne H.J., Pickering M.C., Zhou X., Wuhrer M.<sup>‡</sup>, Suhre K.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *The genetics and epidemiology of N- and O- IgA glycomics*, medRxiv, 2023, [doi:10.1101/2024.01.05.24300885 ](https://www.medrxiv.org/content/10.1101/2024.01.05.24300885v1)
+- Zolfo M., Silverj A., Blanco-Míguez A., Manghi P., Rota-Stabelli O., ..., **Visconti A.**, ..., Asnicar F., Kitano H., Yamada T., Segata N., *Discovering and exploring the hidden diversity of human gut viruses using highly enriched virome samples*, bioRxiv, 2024, [doi:10.1101/2024.02.19.580813](https://www.biorxiv.org/content/10.1101/2024.02.19.580813v1)
+
+- **Visconti A.<sup>†</sup>**, Rossi N.<sup>†</sup>, Bondt A., Hipgrave Ederveen A., Thareja G., Koeleman C.A.M., Stephan N., Halama A., Lomax-Browne H.J., Pickering M.C., Zhou X., Wuhrer M.<sup>‡</sup>, Suhre K.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *The genetics and epidemiology of N- and O- IgA glycomics*, medRxiv, 2024, [doi:10.1101/2024.01.05.24300885 ](https://www.medrxiv.org/content/10.1101/2024.01.05.24300885v1)
 
 
 <!-- ### Selected Abstracts and Posters
