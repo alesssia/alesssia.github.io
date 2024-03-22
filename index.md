@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Alessia's profile pic]({{ "/" | relative_url }}assets/official_pic_xxsmall_web_face.png)
+![Alessia's profile pic]({{ "/" | relative_url }}assets/official_pic_2024_xxsmall.png)
 
 **Alessia Visconti, PhD** \\
 Center for Biostatistics, Epidemiology, and Public Health\\
