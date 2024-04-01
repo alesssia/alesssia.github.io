@@ -61,7 +61,7 @@ title: Publications
 
 - **Visconti A.<sup>†</sup>**, Bataille V.<sup>†</sup>, Rossi N., Kluk J., Murphy R., Puig S., Nambi R., Bowyer R.C.E., Murray B., Bournot A., Wolf J., Ourselin S., Steves C., Spector T.D.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Diagnostic value of cutaneous manifestation of SARS-CoV-2 infection*, British Journals of Dermatology, 2021, [doi:10.1111/bjd.19807](https://onlinelibrary.wiley.com/doi/10.1111/bjd.19807)
 
-- Hopkinson N.S.<sup>†</sup>, Rossi N.<sup>†</sup>, El-Sayed_Moustafa J., Laverty A.A., Quint J.K., Freidin M., **Visconti A.**, Murray B., Modat M., Ourselin S., Small K., Davies R., Wolf J., Spector T.D., Steves C.J.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Current smoking and COVID-19 risk: results from a population symptom app in over 2.4 million people*, Thorax, 2021, [doi:10.1136/thoraxjnl-2020-216422](https://thorax.bmj.com/content/early/2021/01/05/thoraxjnl-2020-216422.full)
+- Hopkinson N.S.<sup>†</sup>, Rossi N.<sup>†</sup>, El-Sayed_Moustafa J., Laverty A.A., Quint J.K., Freidin M., **Visconti A.**, Murray B., Modat M., Ourselin S., Small K., Davies R., Wolf J., Spector T.D., Steves C.J.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Current smoking and COVID-19 risk: results from a population symptom app in over 2.4 million people*, Thorax, 2021, [doi:10.1136/thoraxjnl-2020-216422](https://doi.org/10.1136/thoraxjnl-2020-216422)
 
 - Bar N.<sup>†</sup>, Korem T.<sup>†</sup>, Weissbrod O., Zeevi D., Rothschild D., Leviatan S., Kosower N., Lotan-Pompan M., Weinberger A., Le Roy C.I., Menni C., **Visconti A.**, Falchi M., Spector T.D., The IMI DIRECT consortium, Adamski J., Franks P.W., Pedersen O. and Segal E., *A reference map of potential determinants for the human serum metabolome*, Nature, 2020, [doi:10.1038/s41586-020-2896-2](https://www.nature.com/articles/s41586-020-2896-2)
 
@@ -146,7 +146,7 @@ title: Publications
 
 ### Pre Prints
 
-- Zolfo M., Silverj A., Blanco-Míguez A., Manghi P., Rota-Stabelli O., ..., **Visconti A.**, ..., Asnicar F., Kitano H., Yamada T., Segata N., *Discovering and exploring the hidden diversity of human gut viruses using highly enriched virome samples*, bioRxiv, 2024, [doi:10.1101/2024.02.19.580813](https://www.biorxiv.org/content/10.1101/2024.02.19.580813v1)
+- Zolfo M., Silverj A., Blanco-Míguez A., Manghi P., Rota-Stabelli O., ..., **Visconti A.**, ..., Asnicar F., Kitano H., Yamada T., Segata N., *Discovering and exploring the hidden diversity of human gut viruses using highly enriched virome samples*, bioRxiv, 2024, [doi:10.1101/2024.02.19.580813](https://doi.org/10.1101/2024.02.19.580813)
 
 - **Visconti A.<sup>†</sup>**, Rossi N.<sup>†</sup>, Bondt A., Hipgrave Ederveen A., Thareja G., Koeleman C.A.M., Stephan N., Halama A., Lomax-Browne H.J., Pickering M.C., Zhou X., Wuhrer M.<sup>‡</sup>, Suhre K.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *The genetics and epidemiology of N- and O- IgA glycomics*, medRxiv, 2024, [doi:10.1101/2024.01.05.24300885 ](https://www.medrxiv.org/content/10.1101/2024.01.05.24300885v1)
 
