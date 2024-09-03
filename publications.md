@@ -17,6 +17,10 @@ title: Publications
 
 ###  Journals
 
+- **Visconti A.**<sup>†</sup>, Rossi N.<sup>†</sup>, Bondt A., Hipgrave Ederveen A., Thareja G., Koeleman C.A.M., Stephan N., Halama A., Lomax-Browne H.J., Pickering M.C., Zhou X., Wuhrer M.<sup>‡</sup>, Suhre K.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *The genetics and epidemiology of N- and O- Immunoglobin A glycomics*, Genome Medicine, 2024, [doi:10.1186/s13073-024-01369-6](https://doi.org/10.1186/s13073-024-01369-6)
+		
+- Valdes A.M.<sup>†</sup>, Louca P.<sup>†</sup>, **Visconti A.**, Asnicar F., Bermingham6 K., Nogal A., Wong K., Wolf J., Michelotti G., Segata N., Spector T.D., Berry S.E.,  Falchi M., Menni C., *Vitamin A carotenoids, but not retinoids, mediate the impact of a healthy diet on gut microbial diversity*, BMC Medicine, 2024, [doi:10.1186/s12916-024-03543-4](https://doi.org/10.1186/s12916-024-03543-4)
+
 - Rossi N., Syed N., **Visconti A.**, Aliyev E., Berry S., Bourbon M., Spector T.D., Hysi P.G.<sup>‡</sup>, Fakhro K.A.<sup>‡</sup>, Falchi M.<sup>‡</sup>, *Rare variants at KCNJ2 are associated with LDL-cholesterol levels in a cross-population study*, npj genomic medicine, 2024, [doi:10.1038/s41525-024-00417-9](https://doi.org/10.1038/s41525-024-00417-9)
 
 - Attaye I.<sup>†</sup>, Beynon-Cobb B.<sup>†</sup>, Louca P., Nogal A., **Visconti A.**, Tettamanzi F., Wong K., Michellotti G., Spector T.D.,  Falchi M., Bell J.T., and Menni C., *Cross-sectional analyses of metabolites across biological samples mediating dietary acid load and chronic kidney disease*, iScience, 2024, [doi:10.1016/j.isci.2024.109132](https://doi.org/10.1016/j.isci.2024.109132)
@@ -130,6 +134,8 @@ title: Publications
 
 ### In proceedings
 
+- Contaldo S.G., Pietropaolo E., Bosio L., Pernice S., Terrone I., Baccega D., Wang Y., Sahoo R.K., Rizzo G., **Visconti A.**, Berchialla P., and Beccuti M., *PHeP: TrustAlert Open-Source Platform for Enhancing Predictive Healthcare with Deep Learning*, 19th conference on Computational Intelligence methods for Bioinformatics and Biostatistics, Benevento, Italia, September 4-6, 2024
+
 - Esposito R, Radicioni D.P., and **Visconti A.**, *CDoT: optimizing MAP queries on trees*, In proceedings of AI*IA 2013: Advances in Artificial Intelligence, XIIIth Int. Conf. of the Italian Association for Artificial Intelligence, Turin, December 4-6, 2013, LNAI 8249, [doi:10.1007/978-3-319-03524-6_41](https://link.springer.com/chapter/10.1007/978-3-319-03524-6_41)	
 
 - **Visconti A.**, Esposito R., and Cordero F., *Tackling the DREAM Challenge for Gene Regulatory Networks Reverse Engineering*, In Proceedings of AI*IA 2011: Artificial Intelligence Around Man and Beyond, XIIth Int. Conf. of the Italian Association for Artificial Intelligence - Palermo, September 15-17, 2011, LNAI 6934, [doi:10.1007/978-3-642-23954-0_34](https://link.springer.com/chapter/10.1007/978-3-642-23954-0_34)
@@ -149,8 +155,6 @@ title: Publications
 ### Pre Prints
 
 - Zolfo M., Silverj A., Blanco-Míguez A., Manghi P., Rota-Stabelli O., ..., **Visconti A.**, ..., Asnicar F., Kitano H., Yamada T., Segata N., *Discovering and exploring the hidden diversity of human gut viruses using highly enriched virome samples*, bioRxiv, 2024, [doi:10.1101/2024.02.19.580813](https://doi.org/10.1101/2024.02.19.580813)
-
-- **Visconti A.<sup>†</sup>**, Rossi N.<sup>†</sup>, Bondt A., Hipgrave Ederveen A., Thareja G., Koeleman C.A.M., Stephan N., Halama A., Lomax-Browne H.J., Pickering M.C., Zhou X., Wuhrer M.<sup>‡</sup>, Suhre K.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *The genetics and epidemiology of N- and O- IgA glycomics*, medRxiv, 2024, [doi:10.1101/2024.01.05.24300885 ](https://www.medrxiv.org/content/10.1101/2024.01.05.24300885v1)
 
 
 <!-- ### Selected Abstracts and Posters
