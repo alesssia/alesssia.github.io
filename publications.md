@@ -154,9 +154,11 @@ title: Publications
 
 ### Pre Prints
 
-- Ometto S.<sup>†</sup>, Chatterjee S.<sup>†</sup>, Vergani A.M., Landini A., Sharapov S,, Giacopuzzi E., **Visconti A.**,  Bianchi E., Santonastaso F., Soda E.M., Cisternino F.,  Ieva F., Di Angelantonio E.,  Pirastu N., Glastonbury G.A.,  \emph{Unsupervised cardiac MRI phenotyping with 3D diffusion autoencoders reveals novel genetic insights}, medRxiv, 2024, [doi:10.1101/2024.11.04.24316700](https://www.medrxiv.org/content/10.1101/2024.11.04.24316700v1) 
+- Di Blasio M., Bami Z., Fava C., **Visconti A.**, Baldi I.<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Exploring Patient Preference Information in Clinical Research and Decision Models: An Investigative Survey*, medRxiv, 2024, [doi:10.1101/2024.12.25.24319624](https://www.medrxiv.org/content/10.1101/2024.12.25.24319624v1)
 
-- Zolfo M., Silverj A., Blanco-Míguez A., Manghi P., Rota-Stabelli O., ..., **Visconti A.**, ..., Asnicar F., Kitano H., Yamada T., Segata N., *Discovering and exploring the hidden diversity of human gut viruses using highly enriched virome samples*, bioRxiv, 2024, [doi:10.1101/2024.02.19.580813](https://doi.org/10.1101/2024.02.19.580813)
+- Ometto S.<sup>†</sup>, Chatterjee S.<sup>†</sup>, Vergani A.M., Landini A., Sharapov S,, Giacopuzzi E., **Visconti A.**,  Bianchi E., Santonastaso F., Soda E.M., Cisternino F.,  Ieva F., Di Angelantonio E.,  Pirastu N., and Glastonbury G.A.,  *Unsupervised cardiac MRI phenotyping with 3D diffusion autoencoders reveals novel genetic insights*, medRxiv, 2024, [doi:10.1101/2024.11.04.24316700](https://www.medrxiv.org/content/10.1101/2024.11.04.24316700v1) 
+
+- Zolfo M., Silverj A., Blanco-Míguez A., Manghi P., Rota-Stabelli O., ..., **Visconti A.**, ..., Asnicar F., Kitano H., Yamada T., and Segata N., *Discovering and exploring the hidden diversity of human gut viruses using highly enriched virome samples*, bioRxiv, 2024, [doi:10.1101/2024.02.19.580813](https://doi.org/10.1101/2024.02.19.580813)
 
 
 <!-- ### Selected Abstracts and Posters
