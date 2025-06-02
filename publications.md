@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+- Saravi S.S.S, Pugin B., Constancias F., Shabanian K., Spalinger M., Thomas A., Le Gludic S., Shabanian T., Karsai G.,  Colucci M., Menni C., Attaye I., Zhang X., Allemann M.S., Lee P., **Visconti A.**, Falchi M., Alimonti A., Ruschitzka F., Paneni F and Beer J.H., *Gut microbiota-dependent increase in phenylacetic acid induces endothelial cell senescence during aging*, Nature Aging, 2025, [doi:10.1038/s43587-025-00864-8](https://www.nature.com/articles/s43587-025-00864-8)
+
 - **Visconti A.**<sup>†</sup>, Rossi N.<sup>†</sup>, Bondt A., Hipgrave Ederveen A., Thareja G., Koeleman C.A.M., Stephan N., Halama A., Lomax-Browne H.J., Pickering M.C., Zhou X., Wuhrer M.<sup>‡</sup>, Suhre K.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *The genetics and epidemiology of N- and O- Immunoglobin A glycomics*, Genome Medicine, 2024, [doi:10.1186/s13073-024-01369-6](https://doi.org/10.1186/s13073-024-01369-6)
 		
 - Valdes A.M.<sup>†</sup>, Louca P.<sup>†</sup>, **Visconti A.**, Asnicar F., Bermingham6 K., Nogal A., Wong K., Wolf J., Michelotti G., Segata N., Spector T.D., Berry S.E.,  Falchi M., Menni C., *Vitamin A carotenoids, but not retinoids, mediate the impact of a healthy diet on gut microbial diversity*, BMC Medicine, 2024, [doi:10.1186/s12916-024-03543-4](https://doi.org/10.1186/s12916-024-03543-4)
@@ -134,7 +136,7 @@ title: Publications
 
 ### In proceedings
 
-- Contaldo S.G., Pietropaolo E., Bosio L., Pernice S., Terrone I., Baccega D., Wang Y., Sahoo R.K., Rizzo G., **Visconti A.**, Berchialla P., and Beccuti M., *PHeP: TrustAlert Open-Source Platform for Enhancing Predictive Healthcare with Deep Learning*, 19th conference on Computational Intelligence methods for Bioinformatics and Biostatistics, Benevento, Italia, September 4-6, 2024
+- Contaldo S.G., Pietropaolo E., Bosio L., Pernice S., Terrone I., Baccega D., Wang Y., Sahoo R.K., Rizzo G., **Visconti A.**, Berchialla P., and Beccuti M., *PHeP: TrustAlert Open-Source Platform for Enhancing Predictive Healthcare with Deep Learning*, In proceedings of 19th Computational Intelligence Methods for Bioinformatics and Biostatistics - CIBB 2024, Benevento, Italia, September 4-6, 2025, LNBI 15276, [doi:10.1007/978-3-031-89704-7_16](https://doi.org/10.1007/978-3-031-89704-7_16)
 
 - Esposito R, Radicioni D.P., and **Visconti A.**, *CDoT: optimizing MAP queries on trees*, In proceedings of AI*IA 2013: Advances in Artificial Intelligence, XIIIth Int. Conf. of the Italian Association for Artificial Intelligence, Turin, December 4-6, 2013, LNAI 8249, [doi:10.1007/978-3-319-03524-6_41](https://link.springer.com/chapter/10.1007/978-3-319-03524-6_41)	
 
@@ -156,9 +158,9 @@ title: Publications
 
 - Standl M.<sup>†</sup>, Budu-Aggrey A.<sup>†</sup>, Johnston L.J., Elias M.S., ...,, **Visconti A.**, ..., Langan  S.M.<sup>‡</sup>, Paternoster L.<sup>‡</sup>, and Brown S.J.<sup>‡</sup> *Gene-environment interaction analysis in atopic eczema: evidence from large population datasets and modelling in vitro.*, medRxiv, 2025, [doi:10.1101/2025.01.24.25321071 ](https://www.medrxiv.org/content/10.1101/2025.01.24.25321071v1)
 
-- Di Blasio M., Bami Z., Fava C., **Visconti A.**, Baldi I.<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Exploring Patient Preference Information in Clinical Research and Decision Models: An Investigative Survey*, medRxiv, 2024, [doi:10.1101/2024.12.25.24319624](https://www.medrxiv.org/content/10.1101/2024.12.25.24319624v1)
+- Di Blasio M., Bami Z., Bracco M., Fava C., **Visconti A.**, Baldi I.<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Exploring Patient Preference Information in Clinical Research and Decision Models: An Investigative Survey*, medRxiv, 2025, [doi:10.1101/2024.12.25.24319624 ](https://www.medrxiv.org/content/10.1101/2024.12.25.24319624v2)
 
-- Ometto S.<sup>†</sup>, Chatterjee S.<sup>†</sup>, Vergani A.M., Landini A., Sharapov S,, Giacopuzzi E., **Visconti A.**,  Bianchi E., Santonastaso F., Soda E.M., Cisternino F.,  Ieva F., Di Angelantonio E.,  Pirastu N., and Glastonbury G.A.,  *Hundreds of cardiac MRI traits derived using 3D diffusion autoencoders share a common genetic architecture*, medRxiv, 2024, [doi:10.1101/2024.11.04.24316700](https://www.medrxiv.org/content/10.1101/2024.11.04.24316700v1) 
+- Ometto S.<sup>†</sup>, Chatterjee S.<sup>†</sup>, Vergani A.M., Landini A., Sharapov S,, Giacopuzzi E., **Visconti A.**,  Bianchi E., Santonastaso F., Soda E.M., Cisternino F.,  Ieva F., Di Angelantonio E.,  Pirastu N., and Glastonbury G.A.,  *Hundreds of cardiac MRI traits derived using 3D diffusion autoencoders share a common genetic architecture*, medRxiv, 2024, [doi:10.1101/2024.11.04.24316700 ](https://www.medrxiv.org/content/10.1101/2024.11.04.24316700v2) 
 
 - Zolfo M., Silverj A., Blanco-Míguez A., Manghi P., Rota-Stabelli O., ..., **Visconti A.**, ..., Asnicar F., Kitano H., Yamada T., and Segata N., *Discovering and exploring the hidden diversity of human gut viruses using highly enriched virome samples*, bioRxiv, 2024, [doi:10.1101/2024.02.19.580813](https://doi.org/10.1101/2024.02.19.580813)
 
