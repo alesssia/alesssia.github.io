@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+- Standl M.<sup>†</sup>, Budu-Aggrey A.<sup>†</sup>, Johnston L.J., Elias M.S., ...,, **Visconti A.**, ..., Langan  S.M.<sup>‡</sup>, Paternoster L.<sup>‡</sup>, and Brown S.J.<sup>‡</sup> *Gene–Environment Interaction Affects Risk of Atopic Eczema: Population and In Vitro Studies*, Allergy, 2025, [doi:10.1111/all.16605](https://doi.org/10.1111/all.16605)
+
 - Saravi S.S.S, Pugin B., Constancias F., Shabanian K., Spalinger M., Thomas A., Le Gludic S., Shabanian T., Karsai G.,  Colucci M., Menni C., Attaye I., Zhang X., Allemann M.S., Lee P., **Visconti A.**, Falchi M., Alimonti A., Ruschitzka F., Paneni F and Beer J.H., *Gut microbiota-dependent increase in phenylacetic acid induces endothelial cell senescence during aging*, Nature Aging, 2025, [doi:10.1038/s43587-025-00864-8](https://www.nature.com/articles/s43587-025-00864-8)
 
 - **Visconti A.**<sup>†</sup>, Rossi N.<sup>†</sup>, Bondt A., Hipgrave Ederveen A., Thareja G., Koeleman C.A.M., Stephan N., Halama A., Lomax-Browne H.J., Pickering M.C., Zhou X., Wuhrer M.<sup>‡</sup>, Suhre K.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *The genetics and epidemiology of N- and O- Immunoglobin A glycomics*, Genome Medicine, 2024, [doi:10.1186/s13073-024-01369-6](https://doi.org/10.1186/s13073-024-01369-6)
@@ -156,7 +158,6 @@ title: Publications
 
 ### Pre Prints
 
-- Standl M.<sup>†</sup>, Budu-Aggrey A.<sup>†</sup>, Johnston L.J., Elias M.S., ...,, **Visconti A.**, ..., Langan  S.M.<sup>‡</sup>, Paternoster L.<sup>‡</sup>, and Brown S.J.<sup>‡</sup> *Gene-environment interaction analysis in atopic eczema: evidence from large population datasets and modelling in vitro.*, medRxiv, 2025, [doi:10.1101/2025.01.24.25321071 ](https://www.medrxiv.org/content/10.1101/2025.01.24.25321071v1)
 
 - Di Blasio M., Bami Z., Bracco M., Fava C., **Visconti A.**, Baldi I.<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Exploring Patient Preference Information in Clinical Research and Decision Models: An Investigative Survey*, medRxiv, 2025, [doi:10.1101/2024.12.25.24319624 ](https://www.medrxiv.org/content/10.1101/2024.12.25.24319624v2)
 
