@@ -138,7 +138,9 @@ title: Publications
 
 ### In proceedings
 
-- Contaldo S.G., Pietropaolo E., Bosio L., Pernice S., Terrone I., Baccega D., Wang Y., Sahoo R.K., Rizzo G., **Visconti A.**, Berchialla P., and Beccuti M., *PHeP: TrustAlert Open-Source Platform for Enhancing Predictive Healthcare with Deep Learning*, In proceedings of 19th Computational Intelligence Methods for Bioinformatics and Biostatistics - CIBB 2024, Benevento, Italia, September 4-6, 2025, LNBI 15276, [doi:10.1007/978-3-031-89704-7_16](https://doi.org/10.1007/978-3-031-89704-7_16)
+- Rondinone F.<sup>†</sup>, Contaldo S.G.<sup>†</sup>, Bersia M., Bosio L., Berchialla P., Beccuti M.<sup>‡</sup> and **Visconti A.**<sup>‡</sup>, *CAEPhEUS: an Explainable Convolutional Autoencoder for Unsupervised Patient Phenomapping with Healthcare Administrative Data*, In proceedings of the 20th conference on Computational Intelligence methods for Bioinformatics and Biostatistics, CIBB 2025, September 10-12,  2025, Milan, Italia
+
+- Contaldo S.G.<sup>†</sup>, Pietropaolo E.<sup>†</sup>, Bosio L., Pernice S., Terrone I., Baccega D., Wang Y., Sahoo R.K., Rizzo G., **Visconti A.**, Berchialla P.<sup>‡</sup>, and Beccuti M.<sup>‡</sup>, *PHeP: TrustAlert Open-Source Platform for Enhancing Predictive Healthcare with Deep Learning*, In proceedings of 19th Computational Intelligence Methods for Bioinformatics and Biostatistics - CIBB 2024, Benevento, Italia, September 4-6, 2025, LNBI 15276, [doi:10.1007/978-3-031-89704-7_16](https://doi.org/10.1007/978-3-031-89704-7_16)
 
 - Esposito R, Radicioni D.P., and **Visconti A.**, *CDoT: optimizing MAP queries on trees*, In proceedings of AI*IA 2013: Advances in Artificial Intelligence, XIIIth Int. Conf. of the Italian Association for Artificial Intelligence, Turin, December 4-6, 2013, LNAI 8249, [doi:10.1007/978-3-319-03524-6_41](https://link.springer.com/chapter/10.1007/978-3-319-03524-6_41)	
 
