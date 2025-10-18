@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+- Koumantakis, E., Remoundou, K., Colombi, N., Fava C., Roussaki I., **Visconti A.**<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Deep learning models for ICU readmission prediction: a systematic review and meta-analysis*, Critical Care, 2025, [doi:10.1186/s13054-025-05642-x](https://doi.org/10.1186/s13054-025-05642-x)
+		
 - Standl M.<sup>†</sup>, Budu-Aggrey A.<sup>†</sup>, Johnston L.J., Elias M.S., ...,, **Visconti A.**, ..., Langan  S.M.<sup>‡</sup>, Paternoster L.<sup>‡</sup>, and Brown S.J.<sup>‡</sup> *Gene–Environment Interaction Affects Risk of Atopic Eczema: Population and In Vitro Studies*, Allergy, 2025, [doi:10.1111/all.16605](https://doi.org/10.1111/all.16605)
 
 - Saravi S.S.S, Pugin B., Constancias F., Shabanian K., Spalinger M., Thomas A., Le Gludic S., Shabanian T., Karsai G.,  Colucci M., Menni C., Attaye I., Zhang X., Allemann M.S., Lee P., **Visconti A.**, Falchi M., Alimonti A., Ruschitzka F., Paneni F and Beer J.H., *Gut microbiota-dependent increase in phenylacetic acid induces endothelial cell senescence during aging*, Nature Aging, 2025, [doi:10.1038/s43587-025-00864-8](https://www.nature.com/articles/s43587-025-00864-8)
