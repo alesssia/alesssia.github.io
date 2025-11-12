@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+- Di Blasio M., Bami Z., Bracco M., Fava C., **Visconti A.**, Baldi I.<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Exploring Patient Preference Information in Clinical Research and Decision Models: An Investigative Survey*, Patient Preference and Adherence, 2025, [doi:10.2147/PPA.S541040 ](https://doi.org/10.2147/PPA.S541040)
+
 - Koumantakis, E., Remoundou, K., Colombi, N., Fava C., Roussaki I., **Visconti A.**<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Deep learning models for ICU readmission prediction: a systematic review and meta-analysis*, Critical Care, 2025, [doi:10.1186/s13054-025-05642-x](https://doi.org/10.1186/s13054-025-05642-x)
 		
 - Standl M.<sup>†</sup>, Budu-Aggrey A.<sup>†</sup>, Johnston L.J., Elias M.S., ...,, **Visconti A.**, ..., Langan  S.M.<sup>‡</sup>, Paternoster L.<sup>‡</sup>, and Brown S.J.<sup>‡</sup> *Gene–Environment Interaction Affects Risk of Atopic Eczema: Population and In Vitro Studies*, Allergy, 2025, [doi:10.1111/all.16605](https://doi.org/10.1111/all.16605)
@@ -162,8 +164,6 @@ title: Publications
 
 ### Pre Prints
 
-
-- Di Blasio M., Bami Z., Bracco M., Fava C., **Visconti A.**, Baldi I.<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Exploring Patient Preference Information in Clinical Research and Decision Models: An Investigative Survey*, medRxiv, 2025, [doi:10.1101/2024.12.25.24319624 ](https://www.medrxiv.org/content/10.1101/2024.12.25.24319624v2)
 
 - Ometto S.<sup>†</sup>, Chatterjee S.<sup>†</sup>, Vergani A.M., Landini A., Sharapov S,, Giacopuzzi E., **Visconti A.**,  Bianchi E., Santonastaso F., Soda E.M., Cisternino F.,  Ieva F., Di Angelantonio E.,  Pirastu N., and Glastonbury G.A.,  *Hundreds of cardiac MRI traits derived using 3D diffusion autoencoders share a common genetic architecture*, medRxiv, 2024, [doi:10.1101/2024.11.04.24316700 ](https://www.medrxiv.org/content/10.1101/2024.11.04.24316700v2) 
 
