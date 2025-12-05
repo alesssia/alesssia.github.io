@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+- Pope R., \textbf{Visconti A.}, Zhang X., Louca P., Baleanu A.F., Lin Y., Asnicar F., Bermingham K., Wong K.E., Michelotti G.A., Wolf J., SegataN., Berry S.E., Spector T.D., Leeming E.R., Gibson R., Menni C.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Faecal metabolites as a readout of habitual diet capture dietary interactions with the gut microbiome*, Nature Communications, 2025, [doi:10.1038/s41467-025-66046-7](https://doi.org/10.1038/s41467-025-66046-7)
+
 - Di Blasio M., Bami Z., Bracco M., Fava C., **Visconti A.**, Baldi I.<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Exploring Patient Preference Information in Clinical Research and Decision Models: An Investigative Survey*, Patient Preference and Adherence, 2025, [doi:10.2147/PPA.S541040 ](https://doi.org/10.2147/PPA.S541040)
 
 - Koumantakis, E., Remoundou, K., Colombi, N., Fava C., Roussaki I., **Visconti A.**<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Deep learning models for ICU readmission prediction: a systematic review and meta-analysis*, Critical Care, 2025, [doi:10.1186/s13054-025-05642-x](https://doi.org/10.1186/s13054-025-05642-x)
