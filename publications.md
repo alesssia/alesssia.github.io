@@ -17,6 +17,9 @@ title: Publications
 
 ###  Journals
 
+- De Luca S., Marquez Villacis J.J., Medoro C.M., Zanaga G., Grimaldi P, Dragoni M., **Visconti A.**, Berchialla P., and Rizzo G., *Outbreak Monitoring: Epidemic Surveillance through Anomaly Detection on Zero-Shot News Classification*, Expert Systems with Applications, 2025, [doi:10.1016/j.eswa.2025.130852](https://doi.org/10.1016/j.eswa.2025.130852)
+		
+
 - Pope R., \textbf{Visconti A.}, Zhang X., Louca P., Baleanu A.F., Lin Y., Asnicar F., Bermingham K., Wong K.E., Michelotti G.A., Wolf J., SegataN., Berry S.E., Spector T.D., Leeming E.R., Gibson R., Menni C.<sup>‡</sup>, and Falchi M.<sup>‡</sup>, *Faecal metabolites as a readout of habitual diet capture dietary interactions with the gut microbiome*, Nature Communications, 2025, [doi:10.1038/s41467-025-66046-7](https://doi.org/10.1038/s41467-025-66046-7)
 
 - Di Blasio M., Bami Z., Bracco M., Fava C., **Visconti A.**, Baldi I.<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Exploring Patient Preference Information in Clinical Research and Decision Models: An Investigative Survey*, Patient Preference and Adherence, 2025, [doi:10.2147/PPA.S541040 ](https://doi.org/10.2147/PPA.S541040)
