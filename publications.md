@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+- Lin, Y., Kouraki, A., Cheetham, N.J. Louca P., Bowyer R.C.E., Pope R., Asnicar F., Zhang X., **Visconti A.**, Falchi M., Spector T.D., Segata N., Valdes A.M., Menni C., *Gut microbiome composition and function reflect socioeconomic deprivation*. npj Biofilms Microbiomes, 2026, [10.1038/s41522-026-00917-9](https://doi.org/10.1038/s41522-026-00917-9)
+
 - Aliyev, E., Syed, N., **Visconti A.**, Aliyev T.,  Belkadi A., Ghorbani M., ..., Akil A., Suhre K.,  Mokrab Y.,  Falchi M.<sup>‡</sup>, and Fakhro K.A.<sup>‡</sup>, *The biomedical landscape of genomic structural variation in the qatari population*. Nature Communications, 2026, [doi:10.1038/s41467-025-67763-9](https://doi.org/10.1038/s41467-025-67763-9)
 
 - De Luca S., Marquez Villacis J.J., Medoro C.M., Zanaga G., Grimaldi P, Dragoni M., **Visconti A.**, Berchialla P., and Rizzo G., *Outbreak Monitoring: Epidemic Surveillance through Anomaly Detection on Zero-Shot News Classification*, Expert Systems with Applications, 2025, [doi:10.1016/j.eswa.2025.130852](https://doi.org/10.1016/j.eswa.2025.130852)
