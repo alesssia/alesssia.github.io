@@ -2,7 +2,7 @@
 
 \usepackage[margin=0.8in]{geometry}
 \usepackage[T1]{fontenc}
-\usepackage[english]{babel}
+\usepackage[italian]{babel}
 
 \usepackage{color}
 \definecolor{linkColor}{rgb}{0.2,0.4,0.6}
@@ -26,6 +26,9 @@
 \usepackage{xcolor}
 \usepackage{eurosym}
 \usepackage{lmodern} 
+\usepackage{graphicx}
+
+\usepackage[misc]{ifsym}
 
 %%%% TITLE SETTING
 \newcommand{\bigtitle}[1]{
@@ -62,9 +65,10 @@
 %double item
 \newcolumntype{A}{>{\raggedleft}p{0.22\textwidth}}
 \newcolumntype{B}{p{0.7\textwidth}}
+
 \newenvironment{doubletablelist}
 {
-	\vspace{-0.2cm}
+	% \vspace{-0.2cm}
 	\begin{longtable}[!h]{AB}}{\end{longtable}
 }
 \newcommand{\dtlist}[2]{
@@ -75,13 +79,15 @@
 	\textsc{#1}
 	\end{flushright}
 	\end{minipage}
-	& #2\\[0.2cm]
+	& #2 \medskip \\ 
 }
+
 %single item
 \newcolumntype{a}{>{\raggedleft}p{0.14\textwidth}}
 \newcolumntype{b}{p{0.8\textwidth}}
 \newenvironment{singletablelist}
-{	\vspace{-0.2cm}
+{	
+	% \vspace{-0.2cm}
 	\begin{longtable}[!h]{ab}}{\end{longtable}
 }
 \newcommand{\stlist}[2]{
@@ -92,7 +98,7 @@
 	\textsc{#1}
 	\end{flushright}
 	\end{minipage}
-	& #2\\[0.2cm]
+	& #2 \medskip \\ 
 }
 
 %%%% ITEM BULLET
@@ -103,6 +109,14 @@
 \newcommand{\astitem}{\item[$\ast$]}
 \newcommand{\noitem}{\item[]}
 
+
+
+\newcommand{\corresponding}{$^{\textrm{\Letter}}$}
+\newcommand{\cofirst}{$^{\textbf{$\dag $}}$}
+\newcommand{\colast}{$^{\textbf{$\ddag $}}$}
+
+\setlength\parindent{0pt}
+
 % --------------------------------
 
 \begin{document}
@@ -111,24 +125,23 @@
 \bigtitle{Alessia Visconti, PhD}
 \end{center}
 
-\vspace{0.2cm}
 
-\noindent
 \textbf{Assistant professor (tenure track)}\\
 Center for Biostatistics, Epidemiology, and Public Health\\
 Department of Clinical and Biological Sciences, University of Turin\\
 Regione Gonzole 10, 10043, Orbassano, Torino, Italy\\
 
-\noindent
+% \smallskip
+
 \textsc{e-mail:} \href{mailto:alessia.visconti@unito.it}{alessia.visconti@unito.it}\\
 \textsc{web:} \url{https://alesssia.github.io}
 
-\vspace{0.2cm}
+\bigskip
 
 \mediumtitle{Research Interests}
 \begin{itemize}[itemsep=-0.5ex]
 	\minusitem  \textsc{Biostatistics \& Bioinformatics}
- 	\minusitem  \textsc{Computational Biology \& Medicine}
+ 	\minusitem  \textsc{Computational Medicine}
  	\minusitem  \textsc{Data Mining \& Machine Learning}
 	\minusitem  \textsc{Multi\emph{-omics} data analysis and integration}
 	% \minusitem  \textsc{High-Throughput Biology}
@@ -138,31 +151,40 @@ Regione Gonzole 10, 10043, Orbassano, Torino, Italy\\
 \end{itemize}
 
 \mediumtitle{Brief description}
-\indentp{
-Alessia Visconti is an expert in medical statistics and computational medicine. Her research activity deals with the development and application of statistical and computational methods to identify multi\emph{-omics} modifications influencing complex human phenotypes. 
-She has also worked on the problem of knowledge discovery in biological data, developing new approaches tailored to solve biological tasks, and on the reverse engineering of gene regulatory networks.
-}
 
-\vspace{0.4cm}
+Alessia Visconti is an expert in biostatistics and computational medicine. Her research deals with the development and application of statistical and computational methods to identify multi\emph{-omics} modifications influencing complex human phenotypes. 
+She has also worked on the problem of knowledge discovery in biological data, developing new approaches to solve biological tasks, and on the reverse engineering of gene regulatory networks.
+
+\bigskip
+
 
 % --------------------------------
 % EDUCATION
 % --------------------------------
 
 \mediumtitle{Education}
-\begin{singletablelist}
-	%\stlist{Jul 2012}{\textbf{PhD in Science and High Technology}, University of Turin.\\
-	\stlist{Jul 2012}{\textbf{PhD in Computer Science}, University of Turin.\\
-	&\textsc{Thesis title:} \emph{Systems Biology: Knowledge Discovery and Reverse Engineering} }
-	% &\textsc{Advisors}: prof. Marco Botta, Dr. Roberto Esposito}
-	
-	\stlist{Jul 2008}{\textbf{Master degree in Computer Science} \emph{``summa cum laude''}, University of Turin.\\
-	&\textsc{Thesis title:} \emph{SPOT: an algorithm for the extraction and the analysis of biological patterns} }
-	% &\textsc{Advisor}: prof. Marco Botta}
 
-	\stlist{Mar 2006}{\textbf{Bachelor degree in Computer Science}  \emph{``summa cum laude''}, University of Turin.\\
-	&\textsc{Thesis title:} \emph{The Haskell language} }
-	% &\textsc{Advisor}:  prof. Viviana Bono}
+\begin{singletablelist}
+
+	\stlist{Jul 2012}{\textbf{PhD in Science and High Technology} (Specialisation: Computer Science) \\
+	& Department of Computer Science, University of Turin
+	% \stlist{Jul 2012}{\textbf{PhD in Computer Science}, University of Turin.\\
+	% &\textsc{Thesis title:} \emph{Systems Biology: Knowledge Discovery and Reverse Engineering} }
+	% &\textsc{Advisors}: prof. Marco Botta, Dr. Roberto Esposito
+	}
+	
+	\stlist{Jul 2008}{\textbf{MSc in Computer Science} \emph{``summa cum laude''} \\
+	& Department of Computer Science, University of Turin
+	% &\textsc{Thesis title:} \emph{SPOT: an algorithm for the extraction and the analysis of biological patterns} 
+	 % &\textsc{Advisor}: prof. Marco Botta}
+	}
+
+	\stlist{Mar 2006}{\textbf{BSc in Computer Science}  \emph{``summa cum laude''} \\
+	& Department of Computer Science, University of Turin
+	% & \textsc{Thesis title:} \emph{The Haskell language} 
+	% &\textsc{Advisor}:  prof. Viviana Bono
+	}
+
 \end{singletablelist}
 
 % --------------------------------
@@ -170,24 +192,29 @@ She has also worked on the problem of knowledge discovery in biological data, de
 % --------------------------------
 
 \mediumtitle{Skills}
+
 \begin{doubletablelist}
 	\dtlist{Language Skills}{\textsc{Italian}: native proficiency \\ 
 							&\textsc{English}: professional working proficiency\\
 							&\textsc{Greek (modern)}: elementary proficiency}
-	\dtlist{Computing Skills}{\textsc{Programming languages}: bash, C, C++, JAVA, php, python, R, ruby\\
-							&\textsc{Other languages}: CSS, \LaTeX, HTML, PyQt, XML\\
-							&\textsc{Statistical software}: R, SAS\\
-							&\textsc{Database management}: MySQL, MariaDB\\
-							&\textsc{Version control systems \& reproducibility }: GIT, nextflow, docker, singularity\\
-							&\textsc{Bioinformatics \& Genetic analysis}: BBmap, BEDTools, DESeq2, GCTA, GWAMA, LDAK, limma, lmekin, metal, Merlin, PLINK, QTDT, samtools, vcftools, \dots\\
-							&\textsc{Structural Equation Modelling}: openMX, Mplus\\
+	\dtlist{Computing Skills}{\textsc{Programming languages}: bash, C, C++, JAVA, python, R, ruby \\ % php
+							&\textsc{Other languages}: CSS, \LaTeX, HTML\\ % PyQt, XML
+							&\textsc{Statistical software}: R\\ % , SAS
+							&\textsc{Database management}: SQL\\
+							&\textsc{Version control \& reproducibility }: GIT, nextflow, docker, singularity\\
+							&\textsc{Bioinformatics \& Genetic analysis}: BBmap, BEDTools, DESeq2, GCTA, GEMMA, GWAMA, LDAK, limma, lmekin, metal, Merlin, PLINK, QTDT, samtools, vcftools, \dots\\
+							&\textsc{Structural Equation Modelling}: openMX\\ % Mplus
 							&\textsc{Data visualisation}: dot, ggplot2}
 \end{doubletablelist}
 
+
+% --------------------------------
+% POSTS
+% --------------------------------
+
 \newpage
 
-
-\input{research_posts}
+\input{sections/01-research_posts}
 
 
 % \mediumtitle{Career breaks}
@@ -196,131 +223,67 @@ She has also worked on the problem of knowledge discovery in biological data, de
 % 	}
 % \end{doubletablelist}
 
+% --------------------------------
+% PROJECTS
+% --------------------------------
+
+\input{sections/02-projects}
+
 
 % --------------------------------
 % AWARDS
 % --------------------------------
 
-\input{awards}
+\input{sections/03-awards}
+
 
 % --------------------------------
-% PROJECTS
+% REVIEWING
 % --------------------------------
 
-\input{projects}
 
-% \newpage
+\input{sections/04-reviewing}
 
-\mediumtitle{Review activity}
-
-\begin{singletablelist}
-
-\stlist{Editorial board membership}{ Since September 2019, Alessia Visconti is \emph{Review Editor} of Human and Medical Genomics (speciality section of Frontiers in Genetics).\\ &}
-\stlist{Reviewer}{ Alessia Visconti serves as a reviewer for the following international journals: Bioinformatics, BioData Mining, BMC Cancer, BMC Nutrition, BMC Supplements, British Journal of Cancer, Computational and Structural Biotechnology Journal, Communications Biology, Digital Health, European Journal of Human Genetics, Frontiers in Cellular and Infection Microbiology, GigaScience, Gut Microbes, Journal of the European Academy of Dermatology and Venereology, Knowledge and Information Systems (KAIS), Machine Learning, PLoS Computational Biology, PLoS One, Nature Communications, Scientific Reports, Journal of the Royal Society Interface
-        % & Alessia Visconti has served as a reviewer for the following international conferences/workshops:\\
-% 	    & \hskip0.2cm - ACM International Conference on Information and Knowledge Management (CIKM)\\
-% 		& \hskip0.2cm - Conference of the Italian Association for Artificial Intelligence (AI*IA)\\
-% 		& \hskip0.2cm - Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP)\\
-% 		& \hskip0.2cm - European Conference on Data Mining (ECDM)\\
-% 		& \hskip0.2cm - European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)\\
-% 		& \hskip0.2cm - IEEE International Conference on Data Mining (ICDM)\\
-% 		& \hskip0.2cm - International Conference on Advanced Data Mining and Applications (ADMA)\\
-% 		& \hskip0.2cm - International Conference on Artificial Immune Systems (ICARIS)\\
-% 		& \hskip0.2cm - International Conference on Data Warehousing and Knowledge Discovery (DaWaK)\\
-% 		& \hskip0.2cm - International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (KDIR)\\
-% 		& \hskip1cm - Network Tools and Applications in Biology (NETTAB)
-}
-\end{singletablelist}
+% --------------------------------
+% TALKS
+% --------------------------------
 
 
+\input{sections/05-talks}
 
-\mediumtitle{Invited talks}
+% --------------------------------
+% OUTREACH and SW
+% --------------------------------
 
-\begin{singletablelist}
-	\stlist{7 Nov 2025}{\emph{``AI nella sanit\`a pubblica: un approccio interpretabile per la gestione dei pazienti''} at the Intelligenza Artificiale, Macchine e Futurismo, opening day of the MSc in Data analysis for the business intelligence and data science, Turin, Italy}
-	\stlist{17 Jun 2019}{\emph{``Reproducible shotgun metagenomic analysis with Nextflow and containers''} at the 1st London Bioinformatics Frontiers Frontiers conference, London, UK }
-	\stlist{23 Nov 2018}{\emph{``Nextflow on the go''} at the 2nd Nextflow workshop, Barcelona, Spain }
-	\stlist{6 Dec 2017}{\emph{``YAMP: a framework enabling reproducibility in metagenomics research''} at the Computational Biology seminar series, Francis Crick Institute, London, UK }
-	\stlist{13 Dec 2017}{\emph{``My reproducible adventure in (meta)genomics (A tale of workflow development, research reproducibility \& open science)''} at the Researc/hers code seminar series, London, UK}
-	\stlist{15 Sep 2017}{\emph{``Simplifying shotgun metagenomics analysis with Nextflow''} at the 1st Nextflow workshop, Barcelona, Spain}
-	\stlist{7 Jul 2012}{\emph{``Knowledge-driven Co-clustering of Gene Expression Data''} at the Center for Biological Sequence Analysis, Technical University of Denmark, Lyngby, Denmark}
-	\stlist{8 May 2009}{\emph{``Using a priori knowledge for the reverse engineering of gene regulatory networks''} at the Computer Laboratory, Cambridge University, Cambridge, UK}
-\end{singletablelist}
+\newpage 
 
-\newpage
-
-\mediumtitle{Development of research software}
-
-\noindent The software is available at \url{https://github.com/alesssia} or upon request.
-
-\vspace{0.2cm}
-
-\begin{singletablelist}
-	% \vspace{-1cm}
-	\stlist{AID-ISA}{extracts biologically relevant biclusters from microarray gene expression data by leveraging additional knowledge (described in~\cite{Vis13a})}
-	\stlist{CDoT}{is a novel exact algorithm for answering Maximum a Posteriori queries on tree-structured Probabilistic Graphical Models (described in~\cite{Esp13} and developed in collaboration with Roberto Esposito)}
-	\stlist{famCNV (v2.0)}{enables genome-wide association of copy number variants with quantitative phenotypes in families (developed in collaboration with Mario Falchi)}
-	\stlist{GOClust}{performs a co-clustering of microarray gene expression data using Gene Ontology-derived constraints (described in~\cite{Cor09b})}
-	\stlist{MotifsLinker}{associates clusters of proteins with their frequent motifs} % (described in~\cite{Cor08a})}
-	\stlist{PicNic}{extracts topologies and discovers patterns in sets of chemical compound}
-	\stlist{PopPAnTe}{enables pairwise association testing in related samples (described in~\cite{Vis16})}
-	\stlist{RGO}{is a reorganization of the Gene Ontology emphasising  regulative information and providing better structure for gene functional analysis (described in~\cite{Vis11a})}
-	\stlist{SPOT}{performs an exhaustive search of frequent motifs in sets of biological sequences (described in~\cite{Vis08})}
-	\stlist{YAMP}{allows processing raw metagenomic sequencing data up to the functional annotation (described in~\cite{Vis18b})}
-\end{singletablelist}
-
-\vspace{0.2cm}
-
-% \newpage
-
-\mediumtitle{Service activity}
-
-\begin{doubletablelist}
-	
-		 \dtlist{Nov 2025 -- present}{\textbf{Member} of the management committee of the Interdepartmental Research Center for Service-learning (\url{https://www.circle.unito.it})}
-	    \dtlist{Jan 2025 -- present}{\textbf{Co-coordinator} of the Working Group in Machine Learning in Clinical Research of the Italian Society of Medical Statistics and Clinical Epidemiology (SISMEC, \url{https://www.sismec.info/sismec/gruppi-di-lavoro/gruppi-di-lavoro-sismec/machine-learning-nella-ricerca-clinica/})}
-		\dtlist{Oct 2024 -- present}{\textbf{Member} of the Scientific Board for the Medical Residency program in Medical Statistics and Biometrics, at the University of Turin}
-		\dtlist{Jun 2024 -- present}{\textbf{Member} of the Scientific Board for the PhD program in Complex Systems for Quantitative Biomedicine, at the University of Turin (\url{phd-csqb.campusnet.unito.it})}
-		\dtlist{Dec 2023 -- present}{\textbf{DISC} (Department Internal Staff Contact) for the platform MedCapu (\url{www.medcap.unito.it}) at the University of Turin}
-		\dtlist{Dec 2019 -- Sep 2023}{\textbf{Co-organiser} of a series of workshops aiming at teaching basic computer literacy and data analysis skills with the KCL Carpentries, King's College London (\url{kcl-carpentries.github.io})}
-		\dtlist{Nov 2016 -- Jul 2022}{\textbf{Co-organiser} of the Regulatory Genomics journal club at the Department of Twins Research \& Genetic Epidemiology, King's College London.}
-		\dtlist{Jan 2012 -- Dec 2013}{\textbf{Faculty member} as representative of postdoctoral fellows at the Department of Computer Science, University of Turin}
-		\dtlist{Jan 2009 -- Dec 2011}{\textbf{Faculty member} as representative of PhD students at the Department of Computer Science, University of Turin}
-	
-\end{doubletablelist}
+\input{sections/06-techtransfer_and_pe}
 
 
-\newpage
+% --------------------------------
+% SERVIXCE
+% --------------------------------
 
-\mediumtitle{Outreach activity}
-
-\begin{doubletablelist}
-	
-	\dtlist{Oct 2026 -- present}{Scientist for the Penne Amiche della Scienza Project (\url{https://sites.google.com/view/penne-amiche-della-scienza}). The project follows the format of \emph{"Letters to a Pre-Scientist"}, and aims at encouraging scientific thinking and raise awareness of scientific careers among fourth and fifth graders in elementary school and first and second graders in middle school in Italy\\&}
-		
-	\dtlist{Jul 2017 -- Feb 2023}{Member and mentor of the \emph{Artificial Intelligence Club for Gender Minorities}, which aims at promoting gender diversity in the artificial intelligence and scientific community via meetups, and mentorship. Alessia Visconti organised workshops on collaborative data science via Git and GitHub. Since May 2018, she is also co-organising the group monthly journal club\\ &}
-	
-	\dtlist{Mar 2016 -- Sep 2017}{Member, tutor, and mentor of the \emph{RLadies London} community and of \emph{Researc[her] Research} community. These groups aim at promoting gender diversity in the R and STEM community via meetups, mentorship and global collaboration. With \emph{Researc[her]}, Alessia Visconti gave speeches on reproducibility, and workflow development}
-\end{doubletablelist}
+\input{sections/07-service}
 
 
 % --------------------------------
 % TEACHING
 % --------------------------------
 
-\newpage
 
-\input{teaching}
+\input{sections/08-teaching}
 
-% \newpage
+
 
 % --------------------------------
 % MENTORING
 % --------------------------------
 
-\input{supervision}
 
- % \newpage
+\input{sections/09-supervision}
+
+
 
 	
 
@@ -374,13 +337,14 @@ She has also worked on the problem of knowledge discovery in biological data, de
 % \end{itemize}
 %
 %
-\newpage
+
 
 % --------------------------------
 % PUBLICATIONS
 % --------------------------------
 
-\input{publication}
+\newpage
+\input{sections/10-publication}
 
 
 % \newpage

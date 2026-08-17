@@ -17,6 +17,8 @@ title: Publications
 
 ###  Journals
 
+- Ometto S.<sup>†</sup>, Chatterjee S.<sup>†</sup>, Vergani A.M., Landini A., Sharapov S,, Giacopuzzi E., **Visconti A.**,  Bianchi E., Santonastaso F., Soda E.M., Cisternino F.,  Ieva F., Di Angelantonio E.,  Pirastu N., and Glastonbury G.A.,  *Hundreds of cardiac MRI traits derived using 3D diffusion autoencoders share a common genetic architecture}, Nature Communications, 2026, [doi:10.1038/s41467-026-74575-y](https://www.nature.com/articles/s41467-026-74575-y) 
+
 - Lin, Y., Kouraki, A., Cheetham, N.J. Louca P., Bowyer R.C.E., Pope R., Asnicar F., Zhang X., **Visconti A.**, Falchi M., Spector T.D., Segata N., Valdes A.M., Menni C., *Gut microbiome composition and function reflect socioeconomic deprivation*. npj Biofilms Microbiomes, 2026, [10.1038/s41522-026-00917-9](https://doi.org/10.1038/s41522-026-00917-9)
 
 - Aliyev, E., Syed, N., **Visconti A.**, Aliyev T.,  Belkadi A., Ghorbani M., ..., Akil A., Suhre K.,  Mokrab Y.,  Falchi M.<sup>‡</sup>, and Fakhro K.A.<sup>‡</sup>, *The biomedical landscape of genomic structural variation in the qatari population*. Nature Communications, 2026, [doi:10.1038/s41467-025-67763-9](https://doi.org/10.1038/s41467-025-67763-9)
@@ -145,12 +147,11 @@ title: Publications
 		
 - **Visconti A.**, Esposito R., and Cordero F., *Restructuring the Gene Ontology to Emphasize Regulative Pathways and to Improve Gene Similarity Queries*, Int. J. Computational Biology and Drug Design, 2011, [doi:10.1504/IJCBDD.2011.041411](http://www.inderscience.com/info/inarticle.php?artid=41411)
 
-- Bonfante P., Cordero F., Ghignone S., Ienco D., Lanfranco L., Leonardi G., Meo R., Montani S., Roversi L., and **Visconti A.**, *A Modular Database Architecture Enabled to Comparative Sequence Analysis*, LNCS Transactions on Large-Scale Data- and Knowledge-Centered Systems - TLDKS IV, LNCS 6990, 2011, [doi:10.1007/978-3-642-23740-9_6](https://link.springer.com/chapter/10.1007%2F978-3-642-23740-9_6)
 
 
 ### In proceedings
 
-- Rondinone F.<sup>†</sup>, Contaldo S.G.<sup>†</sup>, Bersia M., Bosio L., Berchialla P., Beccuti M.<sup>‡</sup> and **Visconti A.**<sup>‡</sup>, *CAEPhEUS: an Explainable Convolutional Autoencoder for Unsupervised Patient Phenomapping with Healthcare Administrative Data*, In proceedings of the 20th conference on Computational Intelligence methods for Bioinformatics and Biostatistics, CIBB 2025, September 10-12,  2025, Milan, Italia
+<!-- - Rondinone F.<sup>†</sup>, Contaldo S.G.<sup>†</sup>, Bersia M., Bosio L., Berchialla P., Beccuti M.<sup>‡</sup> and **Visconti A.**<sup>‡</sup>, *CAEPhEUS: an Explainable Convolutional Autoencoder for Unsupervised Patient Phenomapping with Healthcare Administrative Data*, In proceedings of the 20th conference on Computational Intelligence methods for Bioinformatics and Biostatistics, CIBB 2025, September 10-12,  2025, Milan, Italia -->
 
 - Contaldo S.G.<sup>†</sup>, Pietropaolo E.<sup>†</sup>, Bosio L., Pernice S., Terrone I., Baccega D., Wang Y., Sahoo R.K., Rizzo G., **Visconti A.**, Berchialla P.<sup>‡</sup>, and Beccuti M.<sup>‡</sup>, *PHeP: TrustAlert Open-Source Platform for Enhancing Predictive Healthcare with Deep Learning*, In proceedings of 19th Computational Intelligence Methods for Bioinformatics and Biostatistics - CIBB 2024, Benevento, Italia, September 4-6, 2025, LNBI 15276, [doi:10.1007/978-3-031-89704-7_16](https://doi.org/10.1007/978-3-031-89704-7_16)
 
@@ -167,13 +168,15 @@ title: Publications
 
 ### Book Chapters
 
+
 - **Visconti A.**, Cordero F., Ienco D., and Pensa R.G., *Coclustering under Gene Ontology Derived Constraints for Pathway Identification*, Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data, Mourad Elloumi and Albert Y. Zomaya (Eds.), 2014, [doi:10.1002/9781118617151.ch27](http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch27/summary)
+
+- Bonfante P., Cordero F., Ghignone S., Ienco D., Lanfranco L., Leonardi G., Meo R., Montani S., Roversi L., and **Visconti A.**, *A Modular Database Architecture Enabled to Comparative Sequence Analysis*, LNCS Transactions on Large-Scale Data- and Knowledge-Centered Systems - TLDKS IV, LNCS 6990, 2011, [doi:10.1007/978-3-642-23740-9_6](https://link.springer.com/chapter/10.1007%2F978-3-642-23740-9_6)
 
 
 ### Pre Prints
 
-
-- Ometto S.<sup>†</sup>, Chatterjee S.<sup>†</sup>, Vergani A.M., Landini A., Sharapov S,, Giacopuzzi E., **Visconti A.**,  Bianchi E., Santonastaso F., Soda E.M., Cisternino F.,  Ieva F., Di Angelantonio E.,  Pirastu N., and Glastonbury G.A.,  *Hundreds of cardiac MRI traits derived using 3D diffusion autoencoders share a common genetic architecture*, medRxiv, 2024, [doi:10.1101/2024.11.04.24316700 ](https://www.medrxiv.org/content/10.1101/2024.11.04.24316700v2) 
+- Koumantakis, E., Remoundou, K., Colombi, N., Fava C., Roussaki I., **Visconti A.**<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Improving machine learning and deep learning models for 30-day ICU readmission prediction using Ensemble Bayesian Model Averaging*, medRxiv, 2026, [doi:10.64898/2026.05.11.26352879](https://www.medrxiv.org/content/10.64898/2026.05.11.26352879v1) 
 
 - Zolfo M., Silverj A., Blanco-Míguez A., Manghi P., Rota-Stabelli O., ..., **Visconti A.**, ..., Asnicar F., Kitano H., Yamada T., and Segata N., *Discovering and exploring the hidden diversity of human gut viruses using highly enriched virome samples*, bioRxiv, 2024, [doi:10.1101/2024.02.19.580813](https://doi.org/10.1101/2024.02.19.580813)
 
