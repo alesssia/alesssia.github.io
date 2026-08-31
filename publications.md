@@ -17,6 +17,9 @@ title: Publications
 
 ###  Journals
 
+
+- Lin Y., Zhu J., **Visconti A.**, Wong K., Michelotti G., Spector T.D., Falchi M., Valdes A.M., Louca P., Menni C., *Predicting Gut Microbiome Diversity and Core Species From the Urine Metabolome*, MedComm, 2026, [doi:0.1002/mco2.70950](https://doi.org/10.1002/mco2.70950)
+
 - Ometto S.<sup>†</sup>, Chatterjee S.<sup>†</sup>, Vergani A.M., Landini A., Sharapov S,, Giacopuzzi E., **Visconti A.**,  Bianchi E., Santonastaso F., Soda E.M., Cisternino F.,  Ieva F., Di Angelantonio E.,  Pirastu N., and Glastonbury G.A.,  *Hundreds of cardiac MRI traits derived using 3D diffusion autoencoders share a common genetic architecture}, Nature Communications, 2026, [doi:10.1038/s41467-026-74575-y](https://www.nature.com/articles/s41467-026-74575-y) 
 
 - Lin, Y., Kouraki, A., Cheetham, N.J. Louca P., Bowyer R.C.E., Pope R., Asnicar F., Zhang X., **Visconti A.**, Falchi M., Spector T.D., Segata N., Valdes A.M., Menni C., *Gut microbiome composition and function reflect socioeconomic deprivation*. npj Biofilms Microbiomes, 2026, [10.1038/s41522-026-00917-9](https://doi.org/10.1038/s41522-026-00917-9)
@@ -175,6 +178,8 @@ title: Publications
 
 
 ### Pre Prints
+
+- De Luca S., Fava C., Rizzo G., **Visconti A.**<sup>‡</sup>, Berchialla P.,\<sup>‡</sup>, *RedFuMOS: A novel approach for multi-omics and clinical data-driven patient stratification*, medRxiv, 2026, [doi:10.64898/2026.08.26.26361415](https://www.medrxiv.org/content/10.64898/2026.08.26.26361415v1)
 
 - Koumantakis, E., Remoundou, K., Colombi, N., Fava C., Roussaki I., **Visconti A.**<sup>‡</sup>, and Berchialla P.<sup>‡</sup>, *Improving machine learning and deep learning models for 30-day ICU readmission prediction using Ensemble Bayesian Model Averaging*, medRxiv, 2026, [doi:10.64898/2026.05.11.26352879](https://www.medrxiv.org/content/10.64898/2026.05.11.26352879v1) 
 
