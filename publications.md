@@ -17,10 +17,13 @@ title: Publications
 
 ###  Journals
 
+- Louca P.<sup>†</sup>, Mirzaei M.K.<sup>†</sup>, Kouraki A., Khamespanah E., Lin Y., Peng X., Pope R., **Visconti A.**, Asnicar F., Kirk D., Costeira R., Segata N., Falchi M., Bell J.T., Spector T.D., Edwards L.A., Deng L.<sup>‡</sup>, Valdes A.M.<sup>‡</sup>, and Menni C.<sup>‡</sup>, *Population-level characterisation of the human gut phageome and its association with microbial metabolites*, Nature Communications, 2026, doi:10.1038/s41467-026-79230-0
+
+- Kirk, D., Khamespanah, E., Louca, P., **Visconti, A.**, Pope, R., Asnicar, F., Berry S.E., Wolf J., Segata N., Spector T.D., Falchi M., Williams F.M.K., Mirzaei M.K.<sup>‡</sup>, Deng L<sup>‡</sup>. and Menni, C.<sup>‡</sup>, *Large-scale shotgun metagenomic analysis of gut bacteria–phage interactions in irritable bowel syndrome*, Gut, 2026, [doi:10.1136/gutjnl-2026-338807](https://doi.org/10.1136/gutjnl-2026-338807) 
 
 - Lin Y., Zhu J., **Visconti A.**, Wong K., Michelotti G., Spector T.D., Falchi M., Valdes A.M., Louca P., Menni C., *Predicting Gut Microbiome Diversity and Core Species From the Urine Metabolome*, MedComm, 2026, [doi:0.1002/mco2.70950](https://doi.org/10.1002/mco2.70950)
 
-- Ometto S.<sup>†</sup>, Chatterjee S.<sup>†</sup>, Vergani A.M., Landini A., Sharapov S,, Giacopuzzi E., **Visconti A.**,  Bianchi E., Santonastaso F., Soda E.M., Cisternino F.,  Ieva F., Di Angelantonio E.,  Pirastu N., and Glastonbury G.A.,  *Hundreds of cardiac MRI traits derived using 3D diffusion autoencoders share a common genetic architecture}, Nature Communications, 2026, [doi:10.1038/s41467-026-74575-y](https://www.nature.com/articles/s41467-026-74575-y) 
+- Ometto S.<sup>†</sup>, Chatterjee S.<sup>†</sup>, Vergani A.M., Landini A., Sharapov S,, Giacopuzzi E., **Visconti A.**,  Bianchi E., Santonastaso F., Soda E.M., Cisternino F.,  Ieva F., Di Angelantonio E.,  Pirastu N., and Glastonbury G.A.,  *Hundreds of cardiac MRI traits derived using 3D diffusion autoencoders share a common genetic architecture*, Nature Communications, 2026, [doi:10.1038/s41467-026-74575-y](https://www.nature.com/articles/s41467-026-74575-y) 
 
 - Lin, Y., Kouraki, A., Cheetham, N.J. Louca P., Bowyer R.C.E., Pope R., Asnicar F., Zhang X., **Visconti A.**, Falchi M., Spector T.D., Segata N., Valdes A.M., Menni C., *Gut microbiome composition and function reflect socioeconomic deprivation*. npj Biofilms Microbiomes, 2026, [10.1038/s41522-026-00917-9](https://doi.org/10.1038/s41522-026-00917-9)
 
